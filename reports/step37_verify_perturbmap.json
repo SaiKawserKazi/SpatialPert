@@ -1,0 +1,60 @@
+{
+  "lobes_checked": 9,
+  "failed": 0,
+  "per_lobe": {
+    "KP3_lobe1": {
+      "manifest_ok": true,
+      "rows_raw": 280075,
+      "rows_parquet": 280075,
+      "columns_identical": true
+    },
+    "KPD_lobe3": {
+      "manifest_ok": true,
+      "rows_raw": 229956,
+      "rows_parquet": 229956,
+      "columns_identical": true
+    },
+    "KPD_lobe4": {
+      "manifest_ok": true,
+      "rows_raw": 325885,
+      "rows_parquet": 325885,
+      "columns_identical": true
+    },
+    "KPD_lobe5": {
+      "manifest_ok": true,
+      "rows_raw": 125727,
+      "rows_parquet": 125727,
+      "columns_identical": true
+    },
+    "KPF_lobe1": {
+      "manifest_ok": true,
+      "rows_raw": 224235,
+      "rows_parquet": 224235,
+      "columns_identical": true
+    },
+    "KPF_lobe2": {
+      "manifest_ok": true,
+      "rows_raw": 68373,
+      "rows_parquet": 68373,
+      "columns_identical": true
+    },
+    "KPF_lobe3": {
+      "manifest_ok": true,
+      "rows_raw": 367366,
+      "rows_parquet": 367366,
+      "columns_identical": true
+    },
+    "KPF_lobe4": {
+      "manifest_ok": true,
+      "rows_raw": 99368,
+      "rows_parquet": 99368,
+      "columns_identical": true
+    },
+    "KPF_lobe5": {
+      "manifest_ok": true,
+      "rows_raw": 126194,
+      "rows_parquet": 126194,
+      "columns_identical": true
+    }
+  }
+}

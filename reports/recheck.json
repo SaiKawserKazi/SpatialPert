@@ -1,0 +1,2961 @@
+{
+  "n_checks": 489,
+  "n_failed": 0,
+  "failed": [],
+  "checks": [
+    {
+      "check": "gate1 Tgfbr2 spots",
+      "reported": 224,
+      "recomputed": 224,
+      "ok": true
+    },
+    {
+      "check": "gate1 Ifngr2 spots",
+      "reported": 105,
+      "recomputed": 105,
+      "ok": true
+    },
+    {
+      "check": "gate1 Jak2 spots",
+      "reported": 21,
+      "recomputed": 21,
+      "ok": true
+    },
+    {
+      "check": "xenium DIO3-4 positive cells",
+      "reported": 1781,
+      "recomputed": 1781,
+      "ok": true
+    },
+    {
+      "check": "xenium PRSS23-2 positive cells",
+      "reported": 783,
+      "recomputed": 783,
+      "ok": true
+    },
+    {
+      "check": "xenium ESAM-4 positive cells",
+      "reported": 617,
+      "recomputed": 617,
+      "ok": true
+    },
+    {
+      "check": "xenium CIITA-1 positive cells",
+      "reported": 341,
+      "recomputed": 341,
+      "ok": true
+    },
+    {
+      "check": "step4 tumour cells",
+      "reported": 23261,
+      "recomputed": 23261,
+      "ok": true
+    },
+    {
+      "check": "step4 testable knockouts",
+      "reported": [
+        "CIITA",
+        "DIO3",
+        "ESAM",
+        "PRSS23"
+      ],
+      "recomputed": [
+        "CIITA",
+        "DIO3",
+        "ESAM",
+        "PRSS23"
+      ],
+      "ok": true
+    },
+    {
+      "check": "H1 T[CIITA] naive",
+      "reported": 7.481281730866071,
+      "recomputed": 7.4812817308660575,
+      "ok": true
+    },
+    {
+      "check": "H1 T[DIO3] naive",
+      "reported": 4.190918862153698,
+      "recomputed": 4.190918862153698,
+      "ok": true
+    },
+    {
+      "check": "H1 T[ESAM] naive",
+      "reported": 5.678233999168864,
+      "recomputed": 5.678233999168865,
+      "ok": true
+    },
+    {
+      "check": "H1 T[PRSS23] naive",
+      "reported": 4.71417183043768,
+      "recomputed": 4.714171830437671,
+      "ok": true
+    },
+    {
+      "check": "H1 T pooled naive",
+      "reported": 22.064606422626312,
+      "recomputed": 22.06460642262629,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=50 lam=0.0 patch",
+      "reported": 0.032,
+      "recomputed": 0.032,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=50 lam=0.0 studentized",
+      "reported": 0.02252252252252252,
+      "recomputed": 0.02252252252252252,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=50 lam=0.0 pseudobulk",
+      "reported": 0.14864864864864866,
+      "recomputed": 0.14864864864864866,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=50 lam=0.0 sandwich",
+      "reported": 0.94,
+      "recomputed": 0.94,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=50 lam=0.0 tile",
+      "reported": 0.048,
+      "recomputed": 0.048,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=50 lam=0.0 cell",
+      "reported": 0.116,
+      "recomputed": 0.116,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=50 lam=0.0 anova",
+      "reported": 0.182,
+      "recomputed": 0.182,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=50 lam=0.25 patch",
+      "reported": 0.075,
+      "recomputed": 0.075,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=50 lam=0.25 studentized",
+      "reported": 0.07954545454545454,
+      "recomputed": 0.07954545454545454,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=50 lam=0.25 pseudobulk",
+      "reported": 0.2159090909090909,
+      "recomputed": 0.2159090909090909,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=50 lam=0.25 sandwich",
+      "reported": 0.94,
+      "recomputed": 0.94,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=50 lam=0.25 tile",
+      "reported": 0.085,
+      "recomputed": 0.085,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=50 lam=0.25 cell",
+      "reported": 0.19,
+      "recomputed": 0.19,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=50 lam=0.25 anova",
+      "reported": 0.26,
+      "recomputed": 0.26,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=50 lam=0.5 patch",
+      "reported": 0.5,
+      "recomputed": 0.5,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=50 lam=0.5 studentized",
+      "reported": 0.36,
+      "recomputed": 0.36,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=50 lam=0.5 pseudobulk",
+      "reported": 0.5485714285714286,
+      "recomputed": 0.5485714285714286,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=50 lam=0.5 sandwich",
+      "reported": 1.0,
+      "recomputed": 1.0,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=50 lam=0.5 tile",
+      "reported": 0.555,
+      "recomputed": 0.555,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=50 lam=0.5 cell",
+      "reported": 0.65,
+      "recomputed": 0.65,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=50 lam=0.5 anova",
+      "reported": 0.565,
+      "recomputed": 0.565,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=50 lam=1.0 patch",
+      "reported": 0.96,
+      "recomputed": 0.96,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=50 lam=1.0 studentized",
+      "reported": 0.8764705882352941,
+      "recomputed": 0.8764705882352941,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=50 lam=1.0 pseudobulk",
+      "reported": 0.9294117647058824,
+      "recomputed": 0.9294117647058824,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=50 lam=1.0 sandwich",
+      "reported": 1.0,
+      "recomputed": 1.0,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=50 lam=1.0 tile",
+      "reported": 0.97,
+      "recomputed": 0.97,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=50 lam=1.0 cell",
+      "reported": 0.995,
+      "recomputed": 0.995,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=50 lam=1.0 anova",
+      "reported": 0.995,
+      "recomputed": 0.995,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=100 lam=0.0 patch",
+      "reported": 0.042,
+      "recomputed": 0.042,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=100 lam=0.0 studentized",
+      "reported": 0.009708737864077669,
+      "recomputed": 0.009708737864077669,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=100 lam=0.0 pseudobulk",
+      "reported": 0.11165048543689321,
+      "recomputed": 0.11165048543689321,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=100 lam=0.0 sandwich",
+      "reported": 0.936,
+      "recomputed": 0.936,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=100 lam=0.0 tile",
+      "reported": 0.064,
+      "recomputed": 0.064,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=100 lam=0.0 cell",
+      "reported": 0.126,
+      "recomputed": 0.126,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=100 lam=0.0 anova",
+      "reported": 0.182,
+      "recomputed": 0.182,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=100 lam=0.25 patch",
+      "reported": 0.11,
+      "recomputed": 0.11,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=100 lam=0.25 studentized",
+      "reported": 0.024242424242424242,
+      "recomputed": 0.024242424242424242,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=100 lam=0.25 pseudobulk",
+      "reported": 0.17575757575757575,
+      "recomputed": 0.17575757575757575,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=100 lam=0.25 sandwich",
+      "reported": 0.965,
+      "recomputed": 0.965,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=100 lam=0.25 tile",
+      "reported": 0.2,
+      "recomputed": 0.2,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=100 lam=0.25 cell",
+      "reported": 0.41,
+      "recomputed": 0.41,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=100 lam=0.25 anova",
+      "reported": 0.29,
+      "recomputed": 0.29,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=100 lam=0.5 patch",
+      "reported": 0.755,
+      "recomputed": 0.755,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=100 lam=0.5 studentized",
+      "reported": 0.3125,
+      "recomputed": 0.3125,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=100 lam=0.5 pseudobulk",
+      "reported": 0.4090909090909091,
+      "recomputed": 0.4090909090909091,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=100 lam=0.5 sandwich",
+      "reported": 1.0,
+      "recomputed": 1.0,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=100 lam=0.5 tile",
+      "reported": 0.81,
+      "recomputed": 0.81,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=100 lam=0.5 cell",
+      "reported": 0.89,
+      "recomputed": 0.89,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=100 lam=0.5 anova",
+      "reported": 0.785,
+      "recomputed": 0.785,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=100 lam=1.0 patch",
+      "reported": 0.985,
+      "recomputed": 0.985,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=100 lam=1.0 studentized",
+      "reported": 0.8670886075949367,
+      "recomputed": 0.8670886075949367,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=100 lam=1.0 pseudobulk",
+      "reported": 0.9240506329113924,
+      "recomputed": 0.9240506329113924,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=100 lam=1.0 sandwich",
+      "reported": 1.0,
+      "recomputed": 1.0,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=100 lam=1.0 tile",
+      "reported": 0.98,
+      "recomputed": 0.98,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=100 lam=1.0 cell",
+      "reported": 1.0,
+      "recomputed": 1.0,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=100 lam=1.0 anova",
+      "reported": 1.0,
+      "recomputed": 1.0,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=200 lam=0.0 patch",
+      "reported": 0.036,
+      "recomputed": 0.036,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=200 lam=0.0 studentized",
+      "reported": 0.002652519893899204,
+      "recomputed": 0.002652519893899204,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=200 lam=0.0 pseudobulk",
+      "reported": 0.10344827586206896,
+      "recomputed": 0.10344827586206896,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=200 lam=0.0 sandwich",
+      "reported": 0.92,
+      "recomputed": 0.92,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=200 lam=0.0 tile",
+      "reported": 0.07,
+      "recomputed": 0.07,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=200 lam=0.0 cell",
+      "reported": 0.248,
+      "recomputed": 0.248,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=200 lam=0.0 anova",
+      "reported": 0.236,
+      "recomputed": 0.236,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=200 lam=0.25 patch",
+      "reported": 0.325,
+      "recomputed": 0.325,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=200 lam=0.25 studentized",
+      "reported": 0.013157894736842105,
+      "recomputed": 0.013157894736842105,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=200 lam=0.25 pseudobulk",
+      "reported": 0.20394736842105263,
+      "recomputed": 0.20394736842105263,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=200 lam=0.25 sandwich",
+      "reported": 0.965,
+      "recomputed": 0.965,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=200 lam=0.25 tile",
+      "reported": 0.435,
+      "recomputed": 0.435,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=200 lam=0.25 cell",
+      "reported": 0.755,
+      "recomputed": 0.755,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=200 lam=0.25 anova",
+      "reported": 0.52,
+      "recomputed": 0.52,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=200 lam=0.5 patch",
+      "reported": 0.905,
+      "recomputed": 0.905,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=200 lam=0.5 studentized",
+      "reported": 0.33986928104575165,
+      "recomputed": 0.33986928104575165,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=200 lam=0.5 pseudobulk",
+      "reported": 0.43137254901960786,
+      "recomputed": 0.43137254901960786,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=200 lam=0.5 sandwich",
+      "reported": 1.0,
+      "recomputed": 1.0,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=200 lam=0.5 tile",
+      "reported": 0.945,
+      "recomputed": 0.945,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=200 lam=0.5 cell",
+      "reported": 0.98,
+      "recomputed": 0.98,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=200 lam=0.5 anova",
+      "reported": 0.98,
+      "recomputed": 0.98,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=200 lam=1.0 patch",
+      "reported": 1.0,
+      "recomputed": 1.0,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=200 lam=1.0 studentized",
+      "reported": 0.8466257668711656,
+      "recomputed": 0.8466257668711656,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=200 lam=1.0 pseudobulk",
+      "reported": 0.9570552147239264,
+      "recomputed": 0.9570552147239264,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=200 lam=1.0 sandwich",
+      "reported": 1.0,
+      "recomputed": 1.0,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=200 lam=1.0 tile",
+      "reported": 1.0,
+      "recomputed": 1.0,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=200 lam=1.0 cell",
+      "reported": 1.0,
+      "recomputed": 1.0,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=200 lam=1.0 anova",
+      "reported": 1.0,
+      "recomputed": 1.0,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=400 lam=0.0 patch",
+      "reported": 0.102,
+      "recomputed": 0.102,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=400 lam=0.0 studentized",
+      "reported": 0.0196078431372549,
+      "recomputed": 0.0196078431372549,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=400 lam=0.0 pseudobulk",
+      "reported": 0.08683473389355742,
+      "recomputed": 0.08683473389355742,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=400 lam=0.0 sandwich",
+      "reported": 0.912,
+      "recomputed": 0.912,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=400 lam=0.0 tile",
+      "reported": 0.192,
+      "recomputed": 0.192,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=400 lam=0.0 cell",
+      "reported": 0.446,
+      "recomputed": 0.446,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=400 lam=0.0 anova",
+      "reported": 0.312,
+      "recomputed": 0.312,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=400 lam=0.25 patch",
+      "reported": 0.61,
+      "recomputed": 0.61,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=400 lam=0.25 studentized",
+      "reported": 0.07482993197278912,
+      "recomputed": 0.07482993197278912,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=400 lam=0.25 pseudobulk",
+      "reported": 0.19727891156462585,
+      "recomputed": 0.19727891156462585,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=400 lam=0.25 sandwich",
+      "reported": 0.985,
+      "recomputed": 0.985,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=400 lam=0.25 tile",
+      "reported": 0.725,
+      "recomputed": 0.725,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=400 lam=0.25 cell",
+      "reported": 0.91,
+      "recomputed": 0.91,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=400 lam=0.25 anova",
+      "reported": 0.72,
+      "recomputed": 0.72,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=400 lam=0.5 patch",
+      "reported": 0.97,
+      "recomputed": 0.97,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=400 lam=0.5 studentized",
+      "reported": 0.6232876712328768,
+      "recomputed": 0.6232876712328768,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=400 lam=0.5 pseudobulk",
+      "reported": 0.6643835616438356,
+      "recomputed": 0.6643835616438356,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=400 lam=0.5 sandwich",
+      "reported": 1.0,
+      "recomputed": 1.0,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=400 lam=0.5 tile",
+      "reported": 0.99,
+      "recomputed": 0.99,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=400 lam=0.5 cell",
+      "reported": 0.995,
+      "recomputed": 0.995,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=400 lam=0.5 anova",
+      "reported": 0.995,
+      "recomputed": 0.995,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=400 lam=1.0 patch",
+      "reported": 0.995,
+      "recomputed": 0.995,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=400 lam=1.0 studentized",
+      "reported": 0.8947368421052632,
+      "recomputed": 0.8947368421052632,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=400 lam=1.0 pseudobulk",
+      "reported": 0.993421052631579,
+      "recomputed": 0.993421052631579,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=400 lam=1.0 sandwich",
+      "reported": 1.0,
+      "recomputed": 1.0,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=400 lam=1.0 tile",
+      "reported": 1.0,
+      "recomputed": 1.0,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=400 lam=1.0 cell",
+      "reported": 1.0,
+      "recomputed": 1.0,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=400 lam=1.0 anova",
+      "reported": 1.0,
+      "recomputed": 1.0,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=800 lam=0.0 patch",
+      "reported": 0.108,
+      "recomputed": 0.108,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=800 lam=0.0 studentized",
+      "reported": 0.022900763358778626,
+      "recomputed": 0.022900763358778626,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=800 lam=0.0 pseudobulk",
+      "reported": 0.061068702290076333,
+      "recomputed": 0.061068702290076333,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=800 lam=0.0 sandwich",
+      "reported": 0.91,
+      "recomputed": 0.91,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=800 lam=0.0 tile",
+      "reported": 0.258,
+      "recomputed": 0.258,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=800 lam=0.0 cell",
+      "reported": 0.622,
+      "recomputed": 0.622,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=800 lam=0.0 anova",
+      "reported": 0.38,
+      "recomputed": 0.38,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=800 lam=0.25 patch",
+      "reported": 0.815,
+      "recomputed": 0.815,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=800 lam=0.25 studentized",
+      "reported": 0.30120481927710846,
+      "recomputed": 0.30120481927710846,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=800 lam=0.25 pseudobulk",
+      "reported": 0.3433734939759036,
+      "recomputed": 0.3433734939759036,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=800 lam=0.25 sandwich",
+      "reported": 0.99,
+      "recomputed": 0.99,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=800 lam=0.25 tile",
+      "reported": 0.935,
+      "recomputed": 0.935,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=800 lam=0.25 cell",
+      "reported": 0.995,
+      "recomputed": 0.995,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=800 lam=0.25 anova",
+      "reported": 0.95,
+      "recomputed": 0.95,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=800 lam=0.5 patch",
+      "reported": 0.975,
+      "recomputed": 0.975,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=800 lam=0.5 studentized",
+      "reported": 0.6770186335403726,
+      "recomputed": 0.6770186335403726,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=800 lam=0.5 pseudobulk",
+      "reported": 0.7763975155279503,
+      "recomputed": 0.7763975155279503,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=800 lam=0.5 sandwich",
+      "reported": 1.0,
+      "recomputed": 1.0,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=800 lam=0.5 tile",
+      "reported": 0.995,
+      "recomputed": 0.995,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=800 lam=0.5 cell",
+      "reported": 1.0,
+      "recomputed": 1.0,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=800 lam=0.5 anova",
+      "reported": 1.0,
+      "recomputed": 1.0,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=800 lam=1.0 patch",
+      "reported": 0.9899497487437185,
+      "recomputed": 0.9899497487437185,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=800 lam=1.0 studentized",
+      "reported": 0.9487179487179487,
+      "recomputed": 0.9487179487179487,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=800 lam=1.0 pseudobulk",
+      "reported": 1.0,
+      "recomputed": 1.0,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=800 lam=1.0 sandwich",
+      "reported": 1.0,
+      "recomputed": 1.0,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=800 lam=1.0 tile",
+      "reported": 1.0,
+      "recomputed": 1.0,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=800 lam=1.0 cell",
+      "reported": 1.0,
+      "recomputed": 1.0,
+      "ok": true
+    },
+    {
+      "check": "stage1 n=800 lam=1.0 anova",
+      "reported": 1.0,
+      "recomputed": 1.0,
+      "ok": true
+    },
+    {
+      "check": "step19 loo_cell L=1 type1",
+      "reported": 0.2833333333333333,
+      "recomputed": 0.2833333333333333,
+      "ok": true
+    },
+    {
+      "check": "step19 loo_cell L=1 type1 CI low (statsmodels)",
+      "reported": 0.23533085227736072,
+      "recomputed": 0.23533085263102857,
+      "ok": true
+    },
+    {
+      "check": "step19 loo_cell L=1 size-adjusted power",
+      "reported": 0.4666666666666667,
+      "recomputed": 0.4666666666666667,
+      "ok": true
+    },
+    {
+      "check": "step19 loo_cell L=3 type1",
+      "reported": 0.58,
+      "recomputed": 0.58,
+      "ok": true
+    },
+    {
+      "check": "step19 loo_cell L=3 type1 CI low (statsmodels)",
+      "reported": 0.5234831495365287,
+      "recomputed": 0.5234831499847111,
+      "ok": true
+    },
+    {
+      "check": "step19 loo_cell L=3 size-adjusted power",
+      "reported": 0.92,
+      "recomputed": 0.92,
+      "ok": true
+    },
+    {
+      "check": "step19 loo_cell L=5 type1",
+      "reported": 0.62,
+      "recomputed": 0.62,
+      "ok": true
+    },
+    {
+      "check": "step19 loo_cell L=5 type1 CI low (statsmodels)",
+      "reported": 0.5638844384073021,
+      "recomputed": 0.5638844388564824,
+      "ok": true
+    },
+    {
+      "check": "step19 loo_cell L=5 size-adjusted power",
+      "reported": 0.9733333333333334,
+      "recomputed": 0.9733333333333334,
+      "ok": true
+    },
+    {
+      "check": "step19 loo_cell L=10 type1",
+      "reported": 0.52,
+      "recomputed": 0.52,
+      "ok": true
+    },
+    {
+      "check": "step19 loo_cell L=10 type1 CI low (statsmodels)",
+      "reported": 0.4635710815722857,
+      "recomputed": 0.4635710820137406,
+      "ok": true
+    },
+    {
+      "check": "step19 loo_cell L=10 size-adjusted power",
+      "reported": 0.9866666666666667,
+      "recomputed": 0.9866666666666667,
+      "ok": true
+    },
+    {
+      "check": "step19 loo_cell L=20 type1",
+      "reported": 0.38666666666666666,
+      "recomputed": 0.38666666666666666,
+      "ok": true
+    },
+    {
+      "check": "step19 loo_cell L=20 type1 CI low (statsmodels)",
+      "reported": 0.3333235928802251,
+      "recomputed": 0.3333235932848012,
+      "ok": true
+    },
+    {
+      "check": "step19 loo_cell L=20 size-adjusted power",
+      "reported": 1.0,
+      "recomputed": 1.0,
+      "ok": true
+    },
+    {
+      "check": "step19 loo_patch30 L=1 type1",
+      "reported": 0.060810810810810814,
+      "recomputed": 0.060810810810810814,
+      "ok": true
+    },
+    {
+      "check": "step19 loo_patch30 L=1 type1 CI low (statsmodels)",
+      "reported": 0.03880840708668623,
+      "recomputed": 0.03880840722312347,
+      "ok": true
+    },
+    {
+      "check": "step19 loo_patch30 L=1 size-adjusted power",
+      "reported": 0.18493150684931506,
+      "recomputed": 0.18493150684931506,
+      "ok": true
+    },
+    {
+      "check": "step19 loo_patch30 L=3 type1",
+      "reported": 0.07,
+      "recomputed": 0.07,
+      "ok": true
+    },
+    {
+      "check": "step19 loo_patch30 L=3 type1 CI low (statsmodels)",
+      "reported": 0.04623694467656326,
+      "recomputed": 0.04623694482717634,
+      "ok": true
+    },
+    {
+      "check": "step19 loo_patch30 L=3 size-adjusted power",
+      "reported": 0.22666666666666666,
+      "recomputed": 0.22666666666666666,
+      "ok": true
+    },
+    {
+      "check": "step19 loo_patch30 L=5 type1",
+      "reported": 0.07666666666666666,
+      "recomputed": 0.07666666666666666,
+      "ok": true
+    },
+    {
+      "check": "step19 loo_patch30 L=5 type1 CI low (statsmodels)",
+      "reported": 0.05162761162594241,
+      "recomputed": 0.05162761178660747,
+      "ok": true
+    },
+    {
+      "check": "step19 loo_patch30 L=5 size-adjusted power",
+      "reported": 0.31333333333333335,
+      "recomputed": 0.31333333333333335,
+      "ok": true
+    },
+    {
+      "check": "step19 loo_patch30 L=10 type1",
+      "reported": 0.05,
+      "recomputed": 0.05,
+      "ok": true
+    },
+    {
+      "check": "step19 loo_patch30 L=10 type1 CI low (statsmodels)",
+      "reported": 0.030531640512013805,
+      "recomputed": 0.030531640629347278,
+      "ok": true
+    },
+    {
+      "check": "step19 loo_patch30 L=10 size-adjusted power",
+      "reported": 0.7066666666666667,
+      "recomputed": 0.7066666666666667,
+      "ok": true
+    },
+    {
+      "check": "step19 loo_patch30 L=20 type1",
+      "reported": 0.05333333333333334,
+      "recomputed": 0.05333333333333334,
+      "ok": true
+    },
+    {
+      "check": "step19 loo_patch30 L=20 type1 CI low (statsmodels)",
+      "reported": 0.033091912395840695,
+      "recomputed": 0.03309191251909646,
+      "ok": true
+    },
+    {
+      "check": "step19 loo_patch30 L=20 size-adjusted power",
+      "reported": 0.92,
+      "recomputed": 0.92,
+      "ok": true
+    },
+    {
+      "check": "step19 loo_lesion L=3 type1",
+      "reported": 0.0,
+      "recomputed": 0.0,
+      "ok": true
+    },
+    {
+      "check": "step19 loo_lesion L=3 type1 CI low (statsmodels)",
+      "reported": 0.0,
+      "recomputed": 0.0,
+      "ok": true
+    },
+    {
+      "check": "step19 loo_lesion L=3 size-adjusted power",
+      "reported": 0.0,
+      "recomputed": 0.0,
+      "ok": true
+    },
+    {
+      "check": "step19 loo_lesion L=5 type1",
+      "reported": 0.006734006734006734,
+      "recomputed": 0.006734006734006734,
+      "ok": true
+    },
+    {
+      "check": "step19 loo_lesion L=5 type1 CI low (statsmodels)",
+      "reported": 0.001848654197453772,
+      "recomputed": 0.001848654214071729,
+      "ok": true
+    },
+    {
+      "check": "step19 loo_lesion L=5 size-adjusted power",
+      "reported": 0.02,
+      "recomputed": 0.02,
+      "ok": true
+    },
+    {
+      "check": "step19 loo_lesion L=10 type1",
+      "reported": 0.03666666666666667,
+      "recomputed": 0.03666666666666667,
+      "ok": true
+    },
+    {
+      "check": "step19 loo_lesion L=10 type1 CI low (statsmodels)",
+      "reported": 0.02059530507112222,
+      "recomputed": 0.02059530516285302,
+      "ok": true
+    },
+    {
+      "check": "step19 loo_lesion L=10 size-adjusted power",
+      "reported": 0.36666666666666664,
+      "recomputed": 0.36666666666666664,
+      "ok": true
+    },
+    {
+      "check": "step19 loo_lesion L=20 type1",
+      "reported": 0.043333333333333335,
+      "recomputed": 0.043333333333333335,
+      "ok": true
+    },
+    {
+      "check": "step19 loo_lesion L=20 type1 CI low (statsmodels)",
+      "reported": 0.025496447979461018,
+      "recomputed": 0.02549644808440724,
+      "ok": true
+    },
+    {
+      "check": "step19 loo_lesion L=20 size-adjusted power",
+      "reported": 0.8266666666666667,
+      "recomputed": 0.8266666666666667,
+      "ok": true
+    },
+    {
+      "check": "step19 loo_stud_lesion L=5 type1",
+      "reported": 0.0,
+      "recomputed": 0.0,
+      "ok": true
+    },
+    {
+      "check": "step19 loo_stud_lesion L=5 type1 CI low (statsmodels)",
+      "reported": 0.0,
+      "recomputed": 6.938893903907228e-18,
+      "ok": true
+    },
+    {
+      "check": "step19 loo_stud_lesion L=5 size-adjusted power",
+      "reported": 0.0,
+      "recomputed": 0.0,
+      "ok": true
+    },
+    {
+      "check": "step19 loo_stud_lesion L=10 type1",
+      "reported": 0.02727272727272727,
+      "recomputed": 0.02727272727272727,
+      "ok": true
+    },
+    {
+      "check": "step19 loo_stud_lesion L=10 type1 CI low (statsmodels)",
+      "reported": 0.009317969785407151,
+      "recomputed": 0.009317969857872282,
+      "ok": true
+    },
+    {
+      "check": "step19 loo_stud_lesion L=10 size-adjusted power",
+      "reported": 0.14814814814814814,
+      "recomputed": 0.14814814814814814,
+      "ok": true
+    },
+    {
+      "check": "step19 loo_stud_lesion L=20 type1",
+      "reported": 0.043478260869565216,
+      "recomputed": 0.043478260869565216,
+      "ok": true
+    },
+    {
+      "check": "step19 loo_stud_lesion L=20 type1 CI low (statsmodels)",
+      "reported": 0.024448318530180316,
+      "recomputed": 0.024448318638997255,
+      "ok": true
+    },
+    {
+      "check": "step19 loo_stud_lesion L=20 size-adjusted power",
+      "reported": 0.6307692307692307,
+      "recomputed": 0.6307692307692307,
+      "ok": true
+    },
+    {
+      "check": "step19 loo_wcb L=3 type1",
+      "reported": 0.03529411764705882,
+      "recomputed": 0.03529411764705882,
+      "ok": true
+    },
+    {
+      "check": "step19 loo_wcb L=3 type1 CI low (statsmodels)",
+      "reported": 0.01627414835694738,
+      "recomputed": 0.01627414845222118,
+      "ok": true
+    },
+    {
+      "check": "step19 loo_wcb L=3 size-adjusted power",
+      "reported": 0.1,
+      "recomputed": 0.1,
+      "ok": true
+    },
+    {
+      "check": "step19 loo_wcb L=5 type1",
+      "reported": 0.043824701195219126,
+      "recomputed": 0.043824701195219126,
+      "ok": true
+    },
+    {
+      "check": "step19 loo_wcb L=5 type1 CI low (statsmodels)",
+      "reported": 0.02464451442285417,
+      "recomputed": 0.0246445145325405,
+      "ok": true
+    },
+    {
+      "check": "step19 loo_wcb L=5 size-adjusted power",
+      "reported": 0.06923076923076923,
+      "recomputed": 0.06923076923076923,
+      "ok": true
+    },
+    {
+      "check": "step19 loo_wcb L=10 type1",
+      "reported": 0.1111111111111111,
+      "recomputed": 0.1111111111111111,
+      "ok": true
+    },
+    {
+      "check": "step19 loo_wcb L=10 type1 CI low (statsmodels)",
+      "reported": 0.07981247514697282,
+      "recomputed": 0.07981247535635796,
+      "ok": true
+    },
+    {
+      "check": "step19 loo_wcb L=10 size-adjusted power",
+      "reported": 0.8344827586206897,
+      "recomputed": 0.8344827586206897,
+      "ok": true
+    },
+    {
+      "check": "step19 loo_wcb L=20 type1",
+      "reported": 0.12666666666666668,
+      "recomputed": 0.12666666666666668,
+      "ok": true
+    },
+    {
+      "check": "step19 loo_wcb L=20 type1 CI low (statsmodels)",
+      "reported": 0.09369224824041374,
+      "recomputed": 0.093692248465066,
+      "ok": true
+    },
+    {
+      "check": "step19 loo_wcb L=20 size-adjusted power",
+      "reported": 0.9455782312925171,
+      "recomputed": 0.9455782312925171,
+      "ok": true
+    },
+    {
+      "check": "step19 loo_cr2 L=3 type1",
+      "reported": 0.007194244604316547,
+      "recomputed": 0.007194244604316547,
+      "ok": true
+    },
+    {
+      "check": "step19 loo_cr2 L=3 type1 CI low (statsmodels)",
+      "reported": 0.0019751435401096,
+      "recomputed": 0.0019751435578651173,
+      "ok": true
+    },
+    {
+      "check": "step19 loo_cr2 L=3 size-adjusted power",
+      "reported": 0.014814814814814815,
+      "recomputed": 0.014814814814814815,
+      "ok": true
+    },
+    {
+      "check": "step19 loo_cr2 L=5 type1",
+      "reported": 0.016722408026755852,
+      "recomputed": 0.016722408026755852,
+      "ok": true
+    },
+    {
+      "check": "step19 loo_cr2 L=5 type1 CI low (statsmodels)",
+      "reported": 0.00716342430084763,
+      "recomputed": 0.007163424346203939,
+      "ok": true
+    },
+    {
+      "check": "step19 loo_cr2 L=5 size-adjusted power",
+      "reported": 0.07432432432432433,
+      "recomputed": 0.07432432432432433,
+      "ok": true
+    },
+    {
+      "check": "step19 loo_cr2 L=10 type1",
+      "reported": 0.02,
+      "recomputed": 0.02,
+      "ok": true
+    },
+    {
+      "check": "step19 loo_cr2 L=10 type1 CI low (statsmodels)",
+      "reported": 0.009197631503835551,
+      "recomputed": 0.009197631557703614,
+      "ok": true
+    },
+    {
+      "check": "step19 loo_cr2 L=10 size-adjusted power",
+      "reported": 0.47333333333333333,
+      "recomputed": 0.47333333333333333,
+      "ok": true
+    },
+    {
+      "check": "step19 loo_cr2 L=20 type1",
+      "reported": 0.03,
+      "recomputed": 0.03,
+      "ok": true
+    },
+    {
+      "check": "step19 loo_cr2 L=20 type1 CI low (statsmodels)",
+      "reported": 0.015861853731906215,
+      "recomputed": 0.015861853809432305,
+      "ok": true
+    },
+    {
+      "check": "step19 loo_cr2 L=20 size-adjusted power",
+      "reported": 0.47333333333333333,
+      "recomputed": 0.47333333333333333,
+      "ok": true
+    },
+    {
+      "check": "step19 loo_signflip L=3 type1",
+      "reported": 0.0,
+      "recomputed": 0.0,
+      "ok": true
+    },
+    {
+      "check": "step19 loo_signflip L=3 type1 CI low (statsmodels)",
+      "reported": 0.0,
+      "recomputed": 0.0,
+      "ok": true
+    },
+    {
+      "check": "step19 loo_signflip L=3 size-adjusted power",
+      "reported": 0.0,
+      "recomputed": 0.0,
+      "ok": true
+    },
+    {
+      "check": "step19 loo_signflip L=5 type1",
+      "reported": 0.0,
+      "recomputed": 0.0,
+      "ok": true
+    },
+    {
+      "check": "step19 loo_signflip L=5 type1 CI low (statsmodels)",
+      "reported": 0.0,
+      "recomputed": 0.0,
+      "ok": true
+    },
+    {
+      "check": "step19 loo_signflip L=5 size-adjusted power",
+      "reported": 0.0,
+      "recomputed": 0.0,
+      "ok": true
+    },
+    {
+      "check": "step19 loo_signflip L=10 type1",
+      "reported": 0.01532567049808429,
+      "recomputed": 0.01532567049808429,
+      "ok": true
+    },
+    {
+      "check": "step19 loo_signflip L=10 type1 CI low (statsmodels)",
+      "reported": 0.005975572905230025,
+      "recomputed": 0.005975572946718556,
+      "ok": true
+    },
+    {
+      "check": "step19 loo_signflip L=10 size-adjusted power",
+      "reported": 0.12903225806451613,
+      "recomputed": 0.12903225806451613,
+      "ok": true
+    },
+    {
+      "check": "step19 loo_signflip L=20 type1",
+      "reported": 0.02032520325203252,
+      "recomputed": 0.02032520325203252,
+      "ok": true
+    },
+    {
+      "check": "step19 loo_signflip L=20 type1 CI low (statsmodels)",
+      "reported": 0.008712203346137398,
+      "recomputed": 0.008712203401298597,
+      "ok": true
+    },
+    {
+      "check": "step19 loo_signflip L=20 size-adjusted power",
+      "reported": 0.10619469026548672,
+      "recomputed": 0.10619469026548672,
+      "ok": true
+    },
+    {
+      "check": "step19 loo_mixedlm L=3 type1",
+      "reported": 1.0,
+      "recomputed": 1.0,
+      "ok": true
+    },
+    {
+      "check": "step19 loo_mixedlm L=3 type1 CI low (statsmodels)",
+      "reported": 0.8568833796149266,
+      "recomputed": 0.856883381549573,
+      "ok": true
+    },
+    {
+      "check": "step19 loo_mixedlm L=3 size-adjusted power",
+      "reported": 0.26666666666666666,
+      "recomputed": 0.26666666666666666,
+      "ok": true
+    },
+    {
+      "check": "step19 loo_mixedlm L=5 type1",
+      "reported": 0.9166666666666666,
+      "recomputed": 0.9166666666666666,
+      "ok": true
+    },
+    {
+      "check": "step19 loo_mixedlm L=5 type1 CI low (statsmodels)",
+      "reported": 0.781733086137824,
+      "recomputed": 0.7817330875072737,
+      "ok": true
+    },
+    {
+      "check": "step19 loo_mixedlm L=5 size-adjusted power",
+      "reported": 0.17647058823529413,
+      "recomputed": 0.17647058823529413,
+      "ok": true
+    },
+    {
+      "check": "step19 loo_mixedlm L=10 type1",
+      "reported": 0.717948717948718,
+      "recomputed": 0.717948717948718,
+      "ok": true
+    },
+    {
+      "check": "step19 loo_mixedlm L=10 type1 CI low (statsmodels)",
+      "reported": 0.56224680389129,
+      "recomputed": 0.5622468051697918,
+      "ok": true
+    },
+    {
+      "check": "step19 loo_mixedlm L=10 size-adjusted power",
+      "reported": 0.2,
+      "recomputed": 0.2,
+      "ok": true
+    },
+    {
+      "check": "step19 loo_mixedlm L=20 type1",
+      "reported": 0.625,
+      "recomputed": 0.625,
+      "ok": true
+    },
+    {
+      "check": "step19 loo_mixedlm L=20 type1 CI low (statsmodels)",
+      "reported": 0.4703243901750228,
+      "recomputed": 0.47032439137301096,
+      "ok": true
+    },
+    {
+      "check": "step19 loo_mixedlm L=20 size-adjusted power",
+      "reported": 0.0,
+      "recomputed": 0.0,
+      "ok": true
+    },
+    {
+      "check": "step19 circ_cell L=1 type1",
+      "reported": 0.4533333333333333,
+      "recomputed": 0.4533333333333333,
+      "ok": true
+    },
+    {
+      "check": "step19 circ_cell L=1 type1 CI low (statsmodels)",
+      "reported": 0.3979451520267581,
+      "recomputed": 0.3979451524535827,
+      "ok": true
+    },
+    {
+      "check": "step19 circ_cell L=1 size-adjusted power",
+      "reported": 0.8933333333333333,
+      "recomputed": 0.8933333333333333,
+      "ok": true
+    },
+    {
+      "check": "step19 circ_cell L=3 type1",
+      "reported": 0.6233333333333333,
+      "recomputed": 0.6233333333333333,
+      "ok": true
+    },
+    {
+      "check": "step19 circ_cell L=3 type1 CI low (statsmodels)",
+      "reported": 0.5672684317190377,
+      "recomputed": 0.5672684321681708,
+      "ok": true
+    },
+    {
+      "check": "step19 circ_cell L=3 size-adjusted power",
+      "reported": 0.94,
+      "recomputed": 0.94,
+      "ok": true
+    },
+    {
+      "check": "step19 circ_cell L=5 type1",
+      "reported": 0.59,
+      "recomputed": 0.59,
+      "ok": true
+    },
+    {
+      "check": "step19 circ_cell L=5 type1 CI low (statsmodels)",
+      "reported": 0.5335482145302328,
+      "recomputed": 0.5335482149789318,
+      "ok": true
+    },
+    {
+      "check": "step19 circ_cell L=5 size-adjusted power",
+      "reported": 0.9266666666666666,
+      "recomputed": 0.9266666666666666,
+      "ok": true
+    },
+    {
+      "check": "step19 circ_cell L=10 type1",
+      "reported": 0.47333333333333333,
+      "recomputed": 0.47333333333333333,
+      "ok": true
+    },
+    {
+      "check": "step19 circ_cell L=10 type1 CI low (statsmodels)",
+      "reported": 0.4175289975574689,
+      "recomputed": 0.4175289979894712,
+      "ok": true
+    },
+    {
+      "check": "step19 circ_cell L=10 size-adjusted power",
+      "reported": 0.98,
+      "recomputed": 0.98,
+      "ok": true
+    },
+    {
+      "check": "step19 circ_cell L=20 type1",
+      "reported": 0.3333333333333333,
+      "recomputed": 0.3333333333333333,
+      "ok": true
+    },
+    {
+      "check": "step19 circ_cell L=20 type1 CI low (statsmodels)",
+      "reported": 0.2823934469112944,
+      "recomputed": 0.2823934472922627,
+      "ok": true
+    },
+    {
+      "check": "step19 circ_cell L=20 size-adjusted power",
+      "reported": 0.9866666666666667,
+      "recomputed": 0.9866666666666667,
+      "ok": true
+    },
+    {
+      "check": "step19 circ_patch30 L=1 type1",
+      "reported": 0.12751677852348994,
+      "recomputed": 0.12751677852348994,
+      "ok": true
+    },
+    {
+      "check": "step19 circ_patch30 L=1 type1 CI low (statsmodels)",
+      "reported": 0.09433100511855363,
+      "recomputed": 0.09433100534468507,
+      "ok": true
+    },
+    {
+      "check": "step19 circ_patch30 L=1 size-adjusted power",
+      "reported": 0.3108108108108108,
+      "recomputed": 0.3108108108108108,
+      "ok": true
+    },
+    {
+      "check": "step19 circ_patch30 L=3 type1",
+      "reported": 0.11333333333333333,
+      "recomputed": 0.11333333333333333,
+      "ok": true
+    },
+    {
+      "check": "step19 circ_patch30 L=3 type1 CI low (statsmodels)",
+      "reported": 0.0822445016660665,
+      "recomputed": 0.082244501875291,
+      "ok": true
+    },
+    {
+      "check": "step19 circ_patch30 L=3 size-adjusted power",
+      "reported": 0.47333333333333333,
+      "recomputed": 0.47333333333333333,
+      "ok": true
+    },
+    {
+      "check": "step19 circ_patch30 L=5 type1",
+      "reported": 0.15333333333333332,
+      "recomputed": 0.15333333333333332,
+      "ok": true
+    },
+    {
+      "check": "step19 circ_patch30 L=5 type1 CI low (statsmodels)",
+      "reported": 0.11696640273814915,
+      "recomputed": 0.11696640299091687,
+      "ok": true
+    },
+    {
+      "check": "step19 circ_patch30 L=5 size-adjusted power",
+      "reported": 0.48,
+      "recomputed": 0.48,
+      "ok": true
+    },
+    {
+      "check": "step19 circ_patch30 L=10 type1",
+      "reported": 0.10666666666666667,
+      "recomputed": 0.10666666666666667,
+      "ok": true
+    },
+    {
+      "check": "step19 circ_patch30 L=10 type1 CI low (statsmodels)",
+      "reported": 0.07657584884482732,
+      "recomputed": 0.07657584904594214,
+      "ok": true
+    },
+    {
+      "check": "step19 circ_patch30 L=10 size-adjusted power",
+      "reported": 0.8866666666666667,
+      "recomputed": 0.8866666666666667,
+      "ok": true
+    },
+    {
+      "check": "step19 circ_patch30 L=20 type1",
+      "reported": 0.18666666666666668,
+      "recomputed": 0.18666666666666668,
+      "ok": true
+    },
+    {
+      "check": "step19 circ_patch30 L=20 type1 CI low (statsmodels)",
+      "reported": 0.14663748184895228,
+      "recomputed": 0.1466374821326313,
+      "ok": true
+    },
+    {
+      "check": "step19 circ_patch30 L=20 size-adjusted power",
+      "reported": 0.9466666666666667,
+      "recomputed": 0.9466666666666667,
+      "ok": true
+    },
+    {
+      "check": "step19 circ_lesion L=3 type1",
+      "reported": 0.0,
+      "recomputed": 0.0,
+      "ok": true
+    },
+    {
+      "check": "step19 circ_lesion L=3 type1 CI low (statsmodels)",
+      "reported": 8.673617379884035e-19,
+      "recomputed": 0.0,
+      "ok": true
+    },
+    {
+      "check": "step19 circ_lesion L=3 size-adjusted power",
+      "reported": 0.0,
+      "recomputed": 0.0,
+      "ok": true
+    },
+    {
+      "check": "step19 circ_lesion L=5 type1",
+      "reported": 0.020066889632107024,
+      "recomputed": 0.020066889632107024,
+      "ok": true
+    },
+    {
+      "check": "step19 circ_lesion L=5 type1 CI low (statsmodels)",
+      "reported": 0.00922849918359903,
+      "recomputed": 0.009228499237647785,
+      "ok": true
+    },
+    {
+      "check": "step19 circ_lesion L=5 size-adjusted power",
+      "reported": 0.06,
+      "recomputed": 0.06,
+      "ok": true
+    },
+    {
+      "check": "step19 circ_lesion L=10 type1",
+      "reported": 0.10333333333333333,
+      "recomputed": 0.10333333333333333,
+      "ok": true
+    },
+    {
+      "check": "step19 circ_lesion L=10 type1 CI low (statsmodels)",
+      "reported": 0.07375658454158848,
+      "recomputed": 0.07375658473854116,
+      "ok": true
+    },
+    {
+      "check": "step19 circ_lesion L=10 size-adjusted power",
+      "reported": 0.4533333333333333,
+      "recomputed": 0.4533333333333333,
+      "ok": true
+    },
+    {
+      "check": "step19 circ_lesion L=20 type1",
+      "reported": 0.14666666666666667,
+      "recomputed": 0.14666666666666667,
+      "ok": true
+    },
+    {
+      "check": "step19 circ_lesion L=20 type1 CI low (statsmodels)",
+      "reported": 0.11110518719428736,
+      "recomputed": 0.11110518744033696,
+      "ok": true
+    },
+    {
+      "check": "step19 circ_lesion L=20 size-adjusted power",
+      "reported": 0.8333333333333334,
+      "recomputed": 0.8333333333333334,
+      "ok": true
+    },
+    {
+      "check": "step19 qualifying tests",
+      "reported": [
+        "loo_cr2",
+        "loo_lesion",
+        "loo_signflip",
+        "loo_stud_lesion"
+      ],
+      "recomputed": [
+        "loo_cr2",
+        "loo_lesion",
+        "loo_signflip",
+        "loo_stud_lesion"
+      ],
+      "ok": true
+    },
+    {
+      "check": "step19 adopted test",
+      "reported": "loo_lesion",
+      "recomputed": "loo_lesion",
+      "ok": true
+    },
+    {
+      "check": "step26 L=5 lesion type1",
+      "reported": 0.010050251256281407,
+      "recomputed": 0.010050251256281407,
+      "ok": true
+    },
+    {
+      "check": "step26 L=10 lesion type1",
+      "reported": 0.065,
+      "recomputed": 0.065,
+      "ok": true
+    },
+    {
+      "check": "step26 L=20 lesion type1",
+      "reported": 0.055,
+      "recomputed": 0.055,
+      "ok": true
+    },
+    {
+      "check": "step22 L=1 cell type1",
+      "reported": 0.3933333333333333,
+      "recomputed": 0.3933333333333333,
+      "ok": true
+    },
+    {
+      "check": "step22 L=1 patch30 type1",
+      "reported": 0.057692307692307696,
+      "recomputed": 0.057692307692307696,
+      "ok": true
+    },
+    {
+      "check": "step22 L=3 cell type1",
+      "reported": 0.7433333333333333,
+      "recomputed": 0.7433333333333333,
+      "ok": true
+    },
+    {
+      "check": "step22 L=3 patch30 type1",
+      "reported": 0.014705882352941176,
+      "recomputed": 0.014705882352941176,
+      "ok": true
+    },
+    {
+      "check": "step22 L=3 lesion type1",
+      "reported": 0.0,
+      "recomputed": 0.0,
+      "ok": true
+    },
+    {
+      "check": "step22 L=3 wcb type1",
+      "reported": 0.6,
+      "recomputed": 0.6,
+      "ok": true
+    },
+    {
+      "check": "step22 L=5 cell type1",
+      "reported": 0.83,
+      "recomputed": 0.83,
+      "ok": true
+    },
+    {
+      "check": "step22 L=5 patch30 type1",
+      "reported": 0.09583333333333334,
+      "recomputed": 0.09583333333333334,
+      "ok": true
+    },
+    {
+      "check": "step22 L=5 lesion type1",
+      "reported": 0.01809954751131222,
+      "recomputed": 0.01809954751131222,
+      "ok": true
+    },
+    {
+      "check": "step22 L=5 wcb type1",
+      "reported": 0.38095238095238093,
+      "recomputed": 0.38095238095238093,
+      "ok": true
+    },
+    {
+      "check": "step22 L=10 cell type1",
+      "reported": 0.9766666666666667,
+      "recomputed": 0.9766666666666667,
+      "ok": true
+    },
+    {
+      "check": "step22 L=10 patch30 type1",
+      "reported": 0.24054982817869416,
+      "recomputed": 0.24054982817869416,
+      "ok": true
+    },
+    {
+      "check": "step22 L=10 lesion type1",
+      "reported": 0.21724137931034482,
+      "recomputed": 0.21724137931034482,
+      "ok": true
+    },
+    {
+      "check": "step22 L=10 wcb type1",
+      "reported": 0.4716981132075472,
+      "recomputed": 0.4716981132075472,
+      "ok": true
+    },
+    {
+      "check": "step22 L=20 cell type1",
+      "reported": 1.0,
+      "recomputed": 1.0,
+      "ok": true
+    },
+    {
+      "check": "step22 L=20 patch30 type1",
+      "reported": 0.2966666666666667,
+      "recomputed": 0.2966666666666667,
+      "ok": true
+    },
+    {
+      "check": "step22 L=20 lesion type1",
+      "reported": 0.29333333333333333,
+      "recomputed": 0.29333333333333333,
+      "ok": true
+    },
+    {
+      "check": "step22 L=20 wcb type1",
+      "reported": 0.45652173913043476,
+      "recomputed": 0.45652173913043476,
+      "ok": true
+    },
+    {
+      "check": "perturbmap lesions",
+      "reported": 2192,
+      "recomputed": 2192,
+      "ok": true
+    },
+    {
+      "check": "perturbmap codes",
+      "reported": 46,
+      "recomputed": 46,
+      "ok": true
+    },
+    {
+      "check": "perturbmap median lesions/code",
+      "reported": 22.5,
+      "recomputed": 22.5,
+      "ok": true
+    },
+    {
+      "check": "perturbmap codes >= 20",
+      "reported": 25,
+      "recomputed": 25,
+      "ok": true
+    },
+    {
+      "check": "real cells[CIITA]",
+      "reported": 141,
+      "recomputed": 141,
+      "ok": true
+    },
+    {
+      "check": "real lesions[CIITA] via scipy linkage",
+      "reported": 10,
+      "recomputed": 10,
+      "ok": true
+    },
+    {
+      "check": "real cells[DIO3]",
+      "reported": 427,
+      "recomputed": 427,
+      "ok": true
+    },
+    {
+      "check": "real lesions[DIO3] via scipy linkage",
+      "reported": 1,
+      "recomputed": 1,
+      "ok": true
+    },
+    {
+      "check": "real cells[ESAM]",
+      "reported": 177,
+      "recomputed": 177,
+      "ok": true
+    },
+    {
+      "check": "real lesions[ESAM] via scipy linkage",
+      "reported": 5,
+      "recomputed": 5,
+      "ok": true
+    },
+    {
+      "check": "real cells[PRSS23]",
+      "reported": 258,
+      "recomputed": 258,
+      "ok": true
+    },
+    {
+      "check": "real lesions[PRSS23] via scipy linkage",
+      "reported": 3,
+      "recomputed": 3,
+      "ok": true
+    },
+    {
+      "check": "step31 brain_step22 lesion L=3 raw type1",
+      "reported": 0.0,
+      "recomputed": 0.0,
+      "ok": true
+    },
+    {
+      "check": "step31 brain_step22 lesion L=5 raw type1",
+      "reported": 0.01809954751131222,
+      "recomputed": 0.01809954751131222,
+      "ok": true
+    },
+    {
+      "check": "step31 brain_step22 lesion L=10 raw type1",
+      "reported": 0.21724137931034482,
+      "recomputed": 0.21724137931034482,
+      "ok": true
+    },
+    {
+      "check": "step31 brain_step22 lesion L=20 raw type1",
+      "reported": 0.29333333333333333,
+      "recomputed": 0.29333333333333333,
+      "ok": true
+    },
+    {
+      "check": "step31 brain_step22 patch30 L=3 raw type1",
+      "reported": 0.014705882352941176,
+      "recomputed": 0.014705882352941176,
+      "ok": true
+    },
+    {
+      "check": "step31 brain_step22 patch30 L=5 raw type1",
+      "reported": 0.09583333333333334,
+      "recomputed": 0.09583333333333334,
+      "ok": true
+    },
+    {
+      "check": "step31 brain_step22 patch30 L=10 raw type1",
+      "reported": 0.24054982817869416,
+      "recomputed": 0.24054982817869416,
+      "ok": true
+    },
+    {
+      "check": "step31 brain_step22 patch30 L=20 raw type1",
+      "reported": 0.2966666666666667,
+      "recomputed": 0.2966666666666667,
+      "ok": true
+    },
+    {
+      "check": "step31 brain_step22 cell L=3 raw type1",
+      "reported": 0.7433333333333333,
+      "recomputed": 0.7433333333333333,
+      "ok": true
+    },
+    {
+      "check": "step31 brain_step22 cell L=5 raw type1",
+      "reported": 0.83,
+      "recomputed": 0.83,
+      "ok": true
+    },
+    {
+      "check": "step31 brain_step22 cell L=10 raw type1",
+      "reported": 0.9766666666666667,
+      "recomputed": 0.9766666666666667,
+      "ok": true
+    },
+    {
+      "check": "step31 brain_step22 cell L=20 raw type1",
+      "reported": 1.0,
+      "recomputed": 1.0,
+      "ok": true
+    },
+    {
+      "check": "step31 tumour_step19 loo_lesion L=3 raw type1",
+      "reported": 0.0,
+      "recomputed": 0.0,
+      "ok": true
+    },
+    {
+      "check": "step31 tumour_step19 loo_lesion L=5 raw type1",
+      "reported": 0.006734006734006734,
+      "recomputed": 0.006734006734006734,
+      "ok": true
+    },
+    {
+      "check": "step31 tumour_step19 loo_lesion L=10 raw type1",
+      "reported": 0.03666666666666667,
+      "recomputed": 0.03666666666666667,
+      "ok": true
+    },
+    {
+      "check": "step31 tumour_step19 loo_lesion L=20 raw type1",
+      "reported": 0.043333333333333335,
+      "recomputed": 0.043333333333333335,
+      "ok": true
+    },
+    {
+      "check": "step31 tumour_step19 loo_patch30 L=3 raw type1",
+      "reported": 0.07,
+      "recomputed": 0.07,
+      "ok": true
+    },
+    {
+      "check": "step31 tumour_step19 loo_patch30 L=5 raw type1",
+      "reported": 0.07666666666666666,
+      "recomputed": 0.07666666666666666,
+      "ok": true
+    },
+    {
+      "check": "step31 tumour_step19 loo_patch30 L=10 raw type1",
+      "reported": 0.05,
+      "recomputed": 0.05,
+      "ok": true
+    },
+    {
+      "check": "step31 tumour_step19 loo_patch30 L=20 raw type1",
+      "reported": 0.05333333333333334,
+      "recomputed": 0.05333333333333334,
+      "ok": true
+    },
+    {
+      "check": "step31 tumour_step19 loo_cell L=3 raw type1",
+      "reported": 0.58,
+      "recomputed": 0.58,
+      "ok": true
+    },
+    {
+      "check": "step31 tumour_step19 loo_cell L=5 raw type1",
+      "reported": 0.62,
+      "recomputed": 0.62,
+      "ok": true
+    },
+    {
+      "check": "step31 tumour_step19 loo_cell L=10 raw type1",
+      "reported": 0.52,
+      "recomputed": 0.52,
+      "ok": true
+    },
+    {
+      "check": "step31 tumour_step19 loo_cell L=20 raw type1",
+      "reported": 0.38666666666666666,
+      "recomputed": 0.38666666666666666,
+      "ok": true
+    },
+    {
+      "check": "step35 L10_kernel type1",
+      "reported": 0.04,
+      "recomputed": 0.04,
+      "ok": true
+    },
+    {
+      "check": "step35 L10_kernel size-adjusted power",
+      "reported": 0.05333333333333334,
+      "recomputed": 0.05333333333333334,
+      "ok": true
+    },
+    {
+      "check": "step35 L10_learned type1",
+      "reported": 0.05,
+      "recomputed": 0.05,
+      "ok": true
+    },
+    {
+      "check": "step35 L10_learned size-adjusted power",
+      "reported": 0.17333333333333334,
+      "recomputed": 0.17333333333333334,
+      "ok": true
+    },
+    {
+      "check": "step35 L10_expr type1",
+      "reported": 0.14473684210526316,
+      "recomputed": 0.14473684210526316,
+      "ok": true
+    },
+    {
+      "check": "step35 L10_expr size-adjusted power",
+      "reported": 0.008264462809917356,
+      "recomputed": 0.008264462809917356,
+      "ok": true
+    },
+    {
+      "check": "step35 L10_coord type1",
+      "reported": 0.05,
+      "recomputed": 0.05,
+      "ok": true
+    },
+    {
+      "check": "step35 L10_coord size-adjusted power",
+      "reported": 0.09333333333333334,
+      "recomputed": 0.09333333333333334,
+      "ok": true
+    },
+    {
+      "check": "step35 L20_kernel type1",
+      "reported": 0.06,
+      "recomputed": 0.06,
+      "ok": true
+    },
+    {
+      "check": "step35 L20_kernel size-adjusted power",
+      "reported": 0.1,
+      "recomputed": 0.1,
+      "ok": true
+    },
+    {
+      "check": "step35 L20_learned type1",
+      "reported": 0.045,
+      "recomputed": 0.045,
+      "ok": true
+    },
+    {
+      "check": "step35 L20_learned size-adjusted power",
+      "reported": 0.14,
+      "recomputed": 0.14,
+      "ok": true
+    },
+    {
+      "check": "step35 L20_expr type1",
+      "reported": 0.17435897435897435,
+      "recomputed": 0.17435897435897435,
+      "ok": true
+    },
+    {
+      "check": "step35 L20_expr size-adjusted power",
+      "reported": 0.02027027027027027,
+      "recomputed": 0.02027027027027027,
+      "ok": true
+    },
+    {
+      "check": "step35 L20_coord type1",
+      "reported": 0.025,
+      "recomputed": 0.025,
+      "ok": true
+    },
+    {
+      "check": "step35 L20_coord size-adjusted power",
+      "reported": 0.09333333333333334,
+      "recomputed": 0.09333333333333334,
+      "ok": true
+    },
+    {
+      "check": "step35_seed1 L10_kernel type1",
+      "reported": 0.08,
+      "recomputed": 0.08,
+      "ok": true
+    },
+    {
+      "check": "step35_seed1 L10_kernel size-adjusted power",
+      "reported": 0.04,
+      "recomputed": 0.04,
+      "ok": true
+    },
+    {
+      "check": "step35_seed1 L10_learned type1",
+      "reported": 0.03,
+      "recomputed": 0.03,
+      "ok": true
+    },
+    {
+      "check": "step35_seed1 L10_learned size-adjusted power",
+      "reported": 0.0738255033557047,
+      "recomputed": 0.0738255033557047,
+      "ok": true
+    },
+    {
+      "check": "step35_seed1 L10_expr type1",
+      "reported": 0.07534246575342465,
+      "recomputed": 0.07534246575342465,
+      "ok": true
+    },
+    {
+      "check": "step35_seed1 L10_expr size-adjusted power",
+      "reported": 0.016666666666666666,
+      "recomputed": 0.016666666666666666,
+      "ok": true
+    },
+    {
+      "check": "step35_seed1 L10_coord type1",
+      "reported": 0.05,
+      "recomputed": 0.05,
+      "ok": true
+    },
+    {
+      "check": "step35_seed1 L10_coord size-adjusted power",
+      "reported": 0.08,
+      "recomputed": 0.08,
+      "ok": true
+    },
+    {
+      "check": "step35_seed1 L20_kernel type1",
+      "reported": 0.03,
+      "recomputed": 0.03,
+      "ok": true
+    },
+    {
+      "check": "step35_seed1 L20_kernel size-adjusted power",
+      "reported": 0.1,
+      "recomputed": 0.1,
+      "ok": true
+    },
+    {
+      "check": "step35_seed1 L20_learned type1",
+      "reported": 0.04,
+      "recomputed": 0.04,
+      "ok": true
+    },
+    {
+      "check": "step35_seed1 L20_learned size-adjusted power",
+      "reported": 0.18666666666666668,
+      "recomputed": 0.18666666666666668,
+      "ok": true
+    },
+    {
+      "check": "step35_seed1 L20_expr type1",
+      "reported": 0.20202020202020202,
+      "recomputed": 0.20202020202020202,
+      "ok": true
+    },
+    {
+      "check": "step35_seed1 L20_expr size-adjusted power",
+      "reported": 0.026845637583892617,
+      "recomputed": 0.026845637583892617,
+      "ok": true
+    },
+    {
+      "check": "step35_seed1 L20_coord type1",
+      "reported": 0.02,
+      "recomputed": 0.02,
+      "ok": true
+    },
+    {
+      "check": "step35_seed1 L20_coord size-adjusted power",
+      "reported": 0.08666666666666667,
+      "recomputed": 0.08666666666666667,
+      "ok": true
+    },
+    {
+      "check": "step35_seed2 L10_kernel type1",
+      "reported": 0.05,
+      "recomputed": 0.05,
+      "ok": true
+    },
+    {
+      "check": "step35_seed2 L10_kernel size-adjusted power",
+      "reported": 0.1,
+      "recomputed": 0.1,
+      "ok": true
+    },
+    {
+      "check": "step35_seed2 L10_learned type1",
+      "reported": 0.035,
+      "recomputed": 0.035,
+      "ok": true
+    },
+    {
+      "check": "step35_seed2 L10_learned size-adjusted power",
+      "reported": 0.08,
+      "recomputed": 0.08,
+      "ok": true
+    },
+    {
+      "check": "step35_seed2 L10_expr type1",
+      "reported": 0.06578947368421052,
+      "recomputed": 0.06578947368421052,
+      "ok": true
+    },
+    {
+      "check": "step35_seed2 L10_expr size-adjusted power",
+      "reported": 0.02608695652173913,
+      "recomputed": 0.02608695652173913,
+      "ok": true
+    },
+    {
+      "check": "step35_seed2 L10_coord type1",
+      "reported": 0.02,
+      "recomputed": 0.02,
+      "ok": true
+    },
+    {
+      "check": "step35_seed2 L10_coord size-adjusted power",
+      "reported": 0.06666666666666667,
+      "recomputed": 0.06666666666666667,
+      "ok": true
+    },
+    {
+      "check": "step35_seed2 L20_kernel type1",
+      "reported": 0.045,
+      "recomputed": 0.045,
+      "ok": true
+    },
+    {
+      "check": "step35_seed2 L20_kernel size-adjusted power",
+      "reported": 0.05333333333333334,
+      "recomputed": 0.05333333333333334,
+      "ok": true
+    },
+    {
+      "check": "step35_seed2 L20_learned type1",
+      "reported": 0.05,
+      "recomputed": 0.05,
+      "ok": true
+    },
+    {
+      "check": "step35_seed2 L20_learned size-adjusted power",
+      "reported": 0.18666666666666668,
+      "recomputed": 0.18666666666666668,
+      "ok": true
+    },
+    {
+      "check": "step35_seed2 L20_expr type1",
+      "reported": 0.17,
+      "recomputed": 0.17,
+      "ok": true
+    },
+    {
+      "check": "step35_seed2 L20_expr size-adjusted power",
+      "reported": 0.006756756756756757,
+      "recomputed": 0.006756756756756757,
+      "ok": true
+    },
+    {
+      "check": "step35_seed2 L20_coord type1",
+      "reported": 0.015,
+      "recomputed": 0.015,
+      "ok": true
+    },
+    {
+      "check": "step35_seed2 L20_coord size-adjusted power",
+      "reported": 0.11333333333333333,
+      "recomputed": 0.11333333333333333,
+      "ok": true
+    },
+    {
+      "check": "perturbmap lesions",
+      "reported": 1377,
+      "recomputed": 1377,
+      "ok": true
+    },
+    {
+      "check": "perturbmap mice",
+      "reported": 8,
+      "recomputed": 8,
+      "ok": true
+    },
+    {
+      "check": "perturbmap y_CD8 Akt2 psi (independent merge)",
+      "reported": 0.1960004068116384,
+      "recomputed": 0.1960004068116384,
+      "ok": true
+    },
+    {
+      "check": "perturbmap y_CD8 Akt2 lesions",
+      "reported": 58,
+      "recomputed": 58,
+      "ok": true
+    },
+    {
+      "check": "perturbmap CD8 Akt2 main effect",
+      "reported": 0.09786000957892738,
+      "recomputed": 0.09786000957892738,
+      "ok": true
+    },
+    {
+      "check": "perturbmap y_CD8 B2m psi (independent merge)",
+      "reported": -0.05826960366903411,
+      "recomputed": -0.05826960366903411,
+      "ok": true
+    },
+    {
+      "check": "perturbmap y_CD8 B2m lesions",
+      "reported": 113,
+      "recomputed": 113,
+      "ok": true
+    },
+    {
+      "check": "perturbmap CD8 B2m main effect",
+      "reported": -0.32198999929316463,
+      "recomputed": -0.32198999929316463,
+      "ok": true
+    },
+    {
+      "check": "perturbmap y_CD8 F8 psi (independent merge)",
+      "reported": 0.42843708052291146,
+      "recomputed": 0.42843708052291146,
+      "ok": true
+    },
+    {
+      "check": "perturbmap y_CD8 F8 lesions",
+      "reported": 43,
+      "recomputed": 43,
+      "ok": true
+    },
+    {
+      "check": "perturbmap CD8 F8 main effect",
+      "reported": -0.05511481040958983,
+      "recomputed": -0.05511481040958983,
+      "ok": true
+    },
+    {
+      "check": "perturbmap y_CD8 Fas psi (independent merge)",
+      "reported": 0.32301648282832174,
+      "recomputed": 0.32301648282832174,
+      "ok": true
+    },
+    {
+      "check": "perturbmap y_CD8 Fas lesions",
+      "reported": 96,
+      "recomputed": 96,
+      "ok": true
+    },
+    {
+      "check": "perturbmap CD8 Fas main effect",
+      "reported": 0.1716477927467643,
+      "recomputed": 0.1716477927467643,
+      "ok": true
+    },
+    {
+      "check": "perturbmap y_CD8 Fzd1 psi (independent merge)",
+      "reported": 0.11346454605810875,
+      "recomputed": 0.11346454605810875,
+      "ok": true
+    },
+    {
+      "check": "perturbmap y_CD8 Fzd1 lesions",
+      "reported": 71,
+      "recomputed": 71,
+      "ok": true
+    },
+    {
+      "check": "perturbmap CD8 Fzd1 main effect",
+      "reported": 0.19406153034174956,
+      "recomputed": 0.19406153034174956,
+      "ok": true
+    },
+    {
+      "check": "perturbmap y_CD8 Mmp3 psi (independent merge)",
+      "reported": 0.0033204297270373884,
+      "recomputed": 0.0033204297270373884,
+      "ok": true
+    },
+    {
+      "check": "perturbmap y_CD8 Mmp3 lesions",
+      "reported": 101,
+      "recomputed": 101,
+      "ok": true
+    },
+    {
+      "check": "perturbmap CD8 Mmp3 main effect",
+      "reported": 0.17295251126800226,
+      "recomputed": 0.17295251126800226,
+      "ok": true
+    },
+    {
+      "check": "perturbmap y_CD8 Ptpn2 psi (independent merge)",
+      "reported": 0.09834995760566323,
+      "recomputed": 0.09834995760566323,
+      "ok": true
+    },
+    {
+      "check": "perturbmap y_CD8 Ptpn2 lesions",
+      "reported": 42,
+      "recomputed": 42,
+      "ok": true
+    },
+    {
+      "check": "perturbmap CD8 Ptpn2 main effect",
+      "reported": 0.029410262027954,
+      "recomputed": 0.029410262027954,
+      "ok": true
+    },
+    {
+      "check": "perturbmap y_CD8 Socs1 psi (independent merge)",
+      "reported": -0.1388060126045932,
+      "recomputed": -0.1388060126045932,
+      "ok": true
+    },
+    {
+      "check": "perturbmap y_CD8 Socs1 lesions",
+      "reported": 52,
+      "recomputed": 52,
+      "ok": true
+    },
+    {
+      "check": "perturbmap CD8 Socs1 main effect",
+      "reported": 0.4602255858991927,
+      "recomputed": 0.4602255858991927,
+      "ok": true
+    },
+    {
+      "check": "perturbmap y_CD8 Tgfbr2 psi (independent merge)",
+      "reported": -0.5422899293366683,
+      "recomputed": -0.5422899293366683,
+      "ok": true
+    },
+    {
+      "check": "perturbmap y_CD8 Tgfbr2 lesions",
+      "reported": 162,
+      "recomputed": 162,
+      "ok": true
+    },
+    {
+      "check": "perturbmap CD8 Tgfbr2 main effect",
+      "reported": -0.46121210631890547,
+      "recomputed": -0.46121210631890547,
+      "ok": true
+    },
+    {
+      "check": "perturbmap y_CD8 Tnfrsf10b psi (independent merge)",
+      "reported": -0.07882685799735606,
+      "recomputed": -0.07882685799735606,
+      "ok": true
+    },
+    {
+      "check": "perturbmap y_CD8 Tnfrsf10b lesions",
+      "reported": 73,
+      "recomputed": 73,
+      "ok": true
+    },
+    {
+      "check": "perturbmap CD8 Tnfrsf10b main effect",
+      "reported": 0.1282163846423385,
+      "recomputed": 0.1282163846423385,
+      "ok": true
+    },
+    {
+      "check": "perturbmap y_CD8 Tnfrsf9 psi (independent merge)",
+      "reported": 0.17032762153875936,
+      "recomputed": 0.17032762153875936,
+      "ok": true
+    },
+    {
+      "check": "perturbmap y_CD8 Tnfrsf9 lesions",
+      "reported": 84,
+      "recomputed": 84,
+      "ok": true
+    },
+    {
+      "check": "perturbmap CD8 Tnfrsf9 main effect",
+      "reported": 0.12786928837901287,
+      "recomputed": 0.12786928837901287,
+      "ok": true
+    },
+    {
+      "check": "perturbmap y_CD8 Vegfa psi (independent merge)",
+      "reported": 0.2812062647361262,
+      "recomputed": 0.2812062647361262,
+      "ok": true
+    },
+    {
+      "check": "perturbmap y_CD8 Vegfa lesions",
+      "reported": 42,
+      "recomputed": 42,
+      "ok": true
+    },
+    {
+      "check": "perturbmap CD8 Vegfa main effect",
+      "reported": 0.1590043143860933,
+      "recomputed": 0.1590043143860933,
+      "ok": true
+    },
+    {
+      "check": "perturbmap y_CD4 Akt2 psi (independent merge)",
+      "reported": 0.11299479281093963,
+      "recomputed": 0.11299479281093963,
+      "ok": true
+    },
+    {
+      "check": "perturbmap y_CD4 Akt2 lesions",
+      "reported": 58,
+      "recomputed": 58,
+      "ok": true
+    },
+    {
+      "check": "perturbmap y_CD4 B2m psi (independent merge)",
+      "reported": 0.007846535302473423,
+      "recomputed": 0.007846535302473423,
+      "ok": true
+    },
+    {
+      "check": "perturbmap y_CD4 B2m lesions",
+      "reported": 113,
+      "recomputed": 113,
+      "ok": true
+    },
+    {
+      "check": "perturbmap y_CD4 F8 psi (independent merge)",
+      "reported": 1.1727526776414776,
+      "recomputed": 1.1727526776414776,
+      "ok": true
+    },
+    {
+      "check": "perturbmap y_CD4 F8 lesions",
+      "reported": 43,
+      "recomputed": 43,
+      "ok": true
+    },
+    {
+      "check": "perturbmap y_CD4 Fas psi (independent merge)",
+      "reported": -0.1255689774932459,
+      "recomputed": -0.1255689774932459,
+      "ok": true
+    },
+    {
+      "check": "perturbmap y_CD4 Fas lesions",
+      "reported": 96,
+      "recomputed": 96,
+      "ok": true
+    },
+    {
+      "check": "perturbmap y_CD4 Fzd1 psi (independent merge)",
+      "reported": -0.1726657419887321,
+      "recomputed": -0.1726657419887321,
+      "ok": true
+    },
+    {
+      "check": "perturbmap y_CD4 Fzd1 lesions",
+      "reported": 71,
+      "recomputed": 71,
+      "ok": true
+    },
+    {
+      "check": "perturbmap y_CD4 Mmp3 psi (independent merge)",
+      "reported": 0.33586673383505244,
+      "recomputed": 0.33586673383505244,
+      "ok": true
+    },
+    {
+      "check": "perturbmap y_CD4 Mmp3 lesions",
+      "reported": 101,
+      "recomputed": 101,
+      "ok": true
+    },
+    {
+      "check": "perturbmap y_CD4 Ptpn2 psi (independent merge)",
+      "reported": 0.22055229342989446,
+      "recomputed": 0.22055229342989446,
+      "ok": true
+    },
+    {
+      "check": "perturbmap y_CD4 Ptpn2 lesions",
+      "reported": 42,
+      "recomputed": 42,
+      "ok": true
+    },
+    {
+      "check": "perturbmap y_CD4 Socs1 psi (independent merge)",
+      "reported": -0.3097565266934983,
+      "recomputed": -0.3097565266934983,
+      "ok": true
+    },
+    {
+      "check": "perturbmap y_CD4 Socs1 lesions",
+      "reported": 52,
+      "recomputed": 52,
+      "ok": true
+    },
+    {
+      "check": "perturbmap y_CD4 Tgfbr2 psi (independent merge)",
+      "reported": -0.44774535257304426,
+      "recomputed": -0.44774535257304426,
+      "ok": true
+    },
+    {
+      "check": "perturbmap y_CD4 Tgfbr2 lesions",
+      "reported": 162,
+      "recomputed": 162,
+      "ok": true
+    },
+    {
+      "check": "perturbmap y_CD4 Tnfrsf10b psi (independent merge)",
+      "reported": 0.07094290758050426,
+      "recomputed": 0.07094290758050426,
+      "ok": true
+    },
+    {
+      "check": "perturbmap y_CD4 Tnfrsf10b lesions",
+      "reported": 73,
+      "recomputed": 73,
+      "ok": true
+    },
+    {
+      "check": "perturbmap y_CD4 Tnfrsf9 psi (independent merge)",
+      "reported": 0.09562471724537241,
+      "recomputed": 0.09562471724537241,
+      "ok": true
+    },
+    {
+      "check": "perturbmap y_CD4 Tnfrsf9 lesions",
+      "reported": 84,
+      "recomputed": 84,
+      "ok": true
+    },
+    {
+      "check": "perturbmap y_CD4 Vegfa psi (independent merge)",
+      "reported": -0.08122603050637156,
+      "recomputed": -0.08122603050637156,
+      "ok": true
+    },
+    {
+      "check": "perturbmap y_CD4 Vegfa lesions",
+      "reported": 42,
+      "recomputed": 42,
+      "ok": true
+    },
+    {
+      "check": "perturbmap y_B220 Akt2 psi (independent merge)",
+      "reported": 0.4310391285296104,
+      "recomputed": 0.4310391285296104,
+      "ok": true
+    },
+    {
+      "check": "perturbmap y_B220 Akt2 lesions",
+      "reported": 58,
+      "recomputed": 58,
+      "ok": true
+    },
+    {
+      "check": "perturbmap y_B220 B2m psi (independent merge)",
+      "reported": 0.034230464560894874,
+      "recomputed": 0.034230464560894874,
+      "ok": true
+    },
+    {
+      "check": "perturbmap y_B220 B2m lesions",
+      "reported": 113,
+      "recomputed": 113,
+      "ok": true
+    },
+    {
+      "check": "perturbmap y_B220 F8 psi (independent merge)",
+      "reported": 0.3052665478423427,
+      "recomputed": 0.3052665478423427,
+      "ok": true
+    },
+    {
+      "check": "perturbmap y_B220 F8 lesions",
+      "reported": 43,
+      "recomputed": 43,
+      "ok": true
+    },
+    {
+      "check": "perturbmap y_B220 Fas psi (independent merge)",
+      "reported": 0.08606288843081344,
+      "recomputed": 0.08606288843081344,
+      "ok": true
+    },
+    {
+      "check": "perturbmap y_B220 Fas lesions",
+      "reported": 96,
+      "recomputed": 96,
+      "ok": true
+    },
+    {
+      "check": "perturbmap y_B220 Fzd1 psi (independent merge)",
+      "reported": -0.41718118121977404,
+      "recomputed": -0.41718118121977404,
+      "ok": true
+    },
+    {
+      "check": "perturbmap y_B220 Fzd1 lesions",
+      "reported": 71,
+      "recomputed": 71,
+      "ok": true
+    },
+    {
+      "check": "perturbmap y_B220 Mmp3 psi (independent merge)",
+      "reported": 0.2311590649985784,
+      "recomputed": 0.2311590649985784,
+      "ok": true
+    },
+    {
+      "check": "perturbmap y_B220 Mmp3 lesions",
+      "reported": 101,
+      "recomputed": 101,
+      "ok": true
+    },
+    {
+      "check": "perturbmap y_B220 Ptpn2 psi (independent merge)",
+      "reported": -0.06235745429758502,
+      "recomputed": -0.06235745429758502,
+      "ok": true
+    },
+    {
+      "check": "perturbmap y_B220 Ptpn2 lesions",
+      "reported": 42,
+      "recomputed": 42,
+      "ok": true
+    },
+    {
+      "check": "perturbmap y_B220 Socs1 psi (independent merge)",
+      "reported": -0.27244912772255814,
+      "recomputed": -0.27244912772255814,
+      "ok": true
+    },
+    {
+      "check": "perturbmap y_B220 Socs1 lesions",
+      "reported": 52,
+      "recomputed": 52,
+      "ok": true
+    },
+    {
+      "check": "perturbmap y_B220 Tgfbr2 psi (independent merge)",
+      "reported": -0.49586887532996904,
+      "recomputed": -0.49586887532996904,
+      "ok": true
+    },
+    {
+      "check": "perturbmap y_B220 Tgfbr2 lesions",
+      "reported": 162,
+      "recomputed": 162,
+      "ok": true
+    },
+    {
+      "check": "perturbmap y_B220 Tnfrsf10b psi (independent merge)",
+      "reported": 0.3112670495405967,
+      "recomputed": 0.3112670495405967,
+      "ok": true
+    },
+    {
+      "check": "perturbmap y_B220 Tnfrsf10b lesions",
+      "reported": 73,
+      "recomputed": 73,
+      "ok": true
+    },
+    {
+      "check": "perturbmap y_B220 Tnfrsf9 psi (independent merge)",
+      "reported": -0.1484868686932548,
+      "recomputed": -0.1484868686932548,
+      "ok": true
+    },
+    {
+      "check": "perturbmap y_B220 Tnfrsf9 lesions",
+      "reported": 84,
+      "recomputed": 84,
+      "ok": true
+    },
+    {
+      "check": "perturbmap y_B220 Vegfa psi (independent merge)",
+      "reported": -0.004315163291115656,
+      "recomputed": -0.004315163291115656,
+      "ok": true
+    },
+    {
+      "check": "perturbmap y_B220 Vegfa lesions",
+      "reported": 42,
+      "recomputed": 42,
+      "ok": true
+    },
+    {
+      "check": "perturbmap raw extraction verified",
+      "reported": 0,
+      "recomputed": 0,
+      "ok": true
+    }
+  ]
+}

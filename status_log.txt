@@ -1,0 +1,9 @@
+﻿STATUS ruff=OK mypy=OK pytest=OK
+---- ruff ----
+All checks passed!
+---- mypy ----
+Success: no issues found in 17 source files
+---- pytest ----
+........................................................................ [ 79%]
+...................                                                      [100%]
+91 passed in 19.32s

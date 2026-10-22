@@ -1,0 +1,49 @@
+caller,test,lesions,type1,applicable
+k-means,Lesion permutation,3,0.0,0.905
+k-means,Lesion permutation,5,0.010101010101010102,0.99
+k-means,Lesion permutation,10,0.1,1.0
+k-means,Lesion permutation,20,0.19,1.0
+k-means,Wild cluster bootstrap,3,0.043478260869565216,0.575
+k-means,Wild cluster bootstrap,5,0.051470588235294115,0.68
+k-means,Wild cluster bootstrap,10,0.05917159763313609,0.845
+k-means,Wild cluster bootstrap,20,0.06806282722513089,0.955
+k-means,Within-lesion sign-flip,3,0.0,0.505
+k-means,Within-lesion sign-flip,5,0.0,0.675
+k-means,Within-lesion sign-flip,10,0.0070921985815602835,0.705
+k-means,Within-lesion sign-flip,20,0.05673758865248227,0.705
+BANKSY,Lesion permutation,3,0.0,0.955
+BANKSY,Lesion permutation,5,0.005,1.0
+BANKSY,Lesion permutation,10,0.035,1.0
+BANKSY,Lesion permutation,20,0.035,1.0
+BANKSY,Wild cluster bootstrap,3,,0.0
+BANKSY,Wild cluster bootstrap,5,0.25,0.02
+BANKSY,Wild cluster bootstrap,10,0.0,0.06
+BANKSY,Wild cluster bootstrap,20,0.07142857142857142,0.07
+BANKSY,Within-lesion sign-flip,3,0.0,0.115
+BANKSY,Within-lesion sign-flip,5,0.0,0.23
+BANKSY,Within-lesion sign-flip,10,0.0,0.24
+BANKSY,Within-lesion sign-flip,20,0.0,0.135
+SpaGCN,Lesion permutation,3,0.0,0.86
+SpaGCN,Lesion permutation,5,0.01015228426395939,0.985
+SpaGCN,Lesion permutation,10,0.075,1.0
+SpaGCN,Lesion permutation,20,0.05,1.0
+SpaGCN,Wild cluster bootstrap,3,0.0425531914893617,0.94
+SpaGCN,Wild cluster bootstrap,5,0.0582010582010582,0.945
+SpaGCN,Wild cluster bootstrap,10,0.07253886010362694,0.965
+SpaGCN,Wild cluster bootstrap,20,0.13705583756345177,0.985
+SpaGCN,Within-lesion sign-flip,3,0.0,0.93
+SpaGCN,Within-lesion sign-flip,5,0.0,0.99
+SpaGCN,Within-lesion sign-flip,10,0.02564102564102564,0.975
+SpaGCN,Within-lesion sign-flip,20,0.021052631578947368,0.95
+CellCharter,Lesion permutation,3,0.0,0.72
+CellCharter,Lesion permutation,5,0.0053475935828877,0.935
+CellCharter,Lesion permutation,10,0.15,1.0
+CellCharter,Lesion permutation,20,0.25,1.0
+CellCharter,Wild cluster bootstrap,3,0.06,1.0
+CellCharter,Wild cluster bootstrap,5,0.055,1.0
+CellCharter,Wild cluster bootstrap,10,0.185,1.0
+CellCharter,Wild cluster bootstrap,20,0.255,1.0
+CellCharter,Within-lesion sign-flip,3,0.0,0.96
+CellCharter,Within-lesion sign-flip,5,0.0,0.995
+CellCharter,Within-lesion sign-flip,10,0.055,1.0
+CellCharter,Within-lesion sign-flip,20,0.095,1.0

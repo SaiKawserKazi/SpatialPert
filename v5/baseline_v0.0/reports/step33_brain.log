@@ -1,0 +1,8 @@
+Uninstalled 1 package in 34ms
+Installed 1 package in 62ms
+brain 5 0.0 {'cov_cr2': 0.9061111111111111, 'cov_naive': 0.4516666666666666, 'bias': 0.007871365749048294, 'rmse': 0.5711974762303684, 'width_cr2': 2.0277524860219347, 'width_naive': 0.38659978061243777, 'draws': 72, 'estimable_fraction': 0.12}
+brain 5 0.5 {'cov_cr2': 0.9174358974358975, 'cov_naive': 0.45641025641025634, 'bias': 0.01197404062953072, 'rmse': 0.5622566002227466, 'width_cr2': 2.1153812259183997, 'width_naive': 0.3848087563008708, 'draws': 78, 'estimable_fraction': 0.13}
+brain 10 0.0 {'cov_cr2': 0.9411, 'cov_naive': 0.5288, 'bias': -0.0031705468488853927, 'rmse': 0.5578017331717291, 'width_cr2': 2.1508687724590114, 'width_naive': 0.42344022381742424, 'draws': 200, 'estimable_fraction': 0.5449591280653951}
+brain 10 0.5 {'cov_cr2': 0.9466, 'cov_naive': 0.5319, 'bias': -0.0025909473540624813, 'rmse': 0.5524213872341055, 'width_cr2': 2.1596914210925355, 'width_naive': 0.43072531615562815, 'draws': 200, 'estimable_fraction': 0.5602240896358543}
+brain 20 0.0 {'cov_cr2': 0.9409000000000001, 'cov_naive': 0.6395, 'bias': -0.007892897185521776, 'rmse': 0.49125928068958, 'width_cr2': 1.8242280279156142, 'width_naive': 0.4919201095374528, 'draws': 200, 'estimable_fraction': 0.975609756097561}
+brain 20 0.5 {'cov_cr2': 0.9445, 'cov_naive': 0.6403, 'bias': -0.007514686143446175, 'rmse': 0.47647667689493944, 'width_cr2': 1.8457723379294384, 'width_naive': 0.488051976903231, 'draws': 200, 'estimable_fraction': 0.9803921568627451}

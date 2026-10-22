@@ -1,0 +1,6 @@
+cff-version: 1.2.0
+message: "If you use SpatialPert, please cite the preprint (details to be added on posting)."
+title: "SpatialPert: clone-aware testing of location-dependent knockout effects in spatial CRISPR screens"
+version: 0.2.0
+authors:
+  - name: "[Author list to be completed]"

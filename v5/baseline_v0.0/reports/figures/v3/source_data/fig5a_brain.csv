@@ -1,0 +1,21 @@
+test,lesions,type1,applicable
+Cell-level permutation,1,0.3933333333333333,1.0
+Cell-level permutation,3,0.7433333333333333,1.0
+Cell-level permutation,5,0.83,1.0
+Cell-level permutation,10,0.9766666666666667,1.0
+Cell-level permutation,20,1.0,1.0
+Patch permutation,1,0.057692307692307696,0.173
+Patch permutation,3,0.014705882352941176,0.68
+Patch permutation,5,0.09583333333333334,0.8
+Patch permutation,10,0.24054982817869416,0.97
+Patch permutation,20,0.2966666666666667,1.0
+Lesion permutation,1,,0.0
+Lesion permutation,3,0.0,0.613
+Lesion permutation,5,0.01809954751131222,0.737
+Lesion permutation,10,0.21724137931034482,0.967
+Lesion permutation,20,0.29333333333333333,1.0
+Wild cluster bootstrap,1,,0.0
+Wild cluster bootstrap,3,0.6,0.017
+Wild cluster bootstrap,5,0.38095238095238093,0.07
+Wild cluster bootstrap,10,0.4716981132075472,0.177
+Wild cluster bootstrap,20,0.45652173913043476,0.307

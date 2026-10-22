@@ -1,0 +1,71 @@
+{'diagnostic': {'tumour': {'variance_ratio_median': 1.1804580028951364, 'niche_sd_ratio_median': 1.189996122369974}}}
+CIITA lesion {'p_permutation': 0.4305694305694306, 'p_calibrated': 0.42131384674452227, 'null_testable': 0.725, 'null_type1_raw': 0.03}
+DIO3 lesion {'p_permutation': nan, 'p_calibrated': nan, 'null_testable': 0.255, 'null_type1_raw': 0.0}
+ESAM lesion {'p_permutation': nan, 'p_calibrated': nan, 'null_testable': 0.025, 'null_type1_raw': 0.0}
+PRSS23 lesion {'p_permutation': nan, 'p_calibrated': nan, 'null_testable': 0.15, 'null_type1_raw': 0.005}
+CIITA patch30 {'p_permutation': 0.24975024975024976, 'p_calibrated': 0.30140279221655797, 'null_testable': 0.75, 'null_type1_raw': 0.035}
+DIO3 patch30 {'p_permutation': 0.18081918081918083, 'p_calibrated': 0.19870325918676848, 'null_testable': 0.335, 'null_type1_raw': 0.01}
+ESAM patch30 {'p_permutation': nan, 'p_calibrated': nan, 'null_testable': 0.085, 'null_type1_raw': 0.005}
+PRSS23 patch30 {'p_permutation': 0.7012987012987013, 'p_calibrated': 0.6636888773980818, 'null_testable': 0.255, 'null_type1_raw': 0.015}
+{
+  "diagnostic": {
+    "tumour": {
+      "variance_ratio_median": 1.1804580028951364,
+      "niche_sd_ratio_median": 1.189996122369974
+    },
+    "brain": {
+      "variance_ratio_median": 6.858573153676561,
+      "niche_sd_ratio_median": 1.6975230179754983
+    }
+  },
+  "real": {
+    "CIITA_lesion": {
+      "p_permutation": 0.4305694305694306,
+      "p_calibrated": 0.42131384674452227,
+      "null_testable": 0.725,
+      "null_type1_raw": 0.03
+    },
+    "DIO3_lesion": {
+      "p_permutation": NaN,
+      "p_calibrated": NaN,
+      "null_testable": 0.255,
+      "null_type1_raw": 0.0
+    },
+    "ESAM_lesion": {
+      "p_permutation": NaN,
+      "p_calibrated": NaN,
+      "null_testable": 0.025,
+      "null_type1_raw": 0.0
+    },
+    "PRSS23_lesion": {
+      "p_permutation": NaN,
+      "p_calibrated": NaN,
+      "null_testable": 0.15,
+      "null_type1_raw": 0.005
+    },
+    "CIITA_patch30": {
+      "p_permutation": 0.24975024975024976,
+      "p_calibrated": 0.30140279221655797,
+      "null_testable": 0.75,
+      "null_type1_raw": 0.035
+    },
+    "DIO3_patch30": {
+      "p_permutation": 0.18081918081918083,
+      "p_calibrated": 0.19870325918676848,
+      "null_testable": 0.335,
+      "null_type1_raw": 0.01
+    },
+    "ESAM_patch30": {
+      "p_permutation": NaN,
+      "p_calibrated": NaN,
+      "null_testable": 0.085,
+      "null_type1_raw": 0.005
+    },
+    "PRSS23_patch30": {
+      "p_permutation": 0.7012987012987013,
+      "p_calibrated": 0.6636888773980818,
+      "null_testable": 0.255,
+      "null_type1_raw": 0.015
+    }
+  }
+}

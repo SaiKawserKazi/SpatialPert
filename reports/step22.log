@@ -1,0 +1,12 @@
+{'bins': 81990, 'genes': 50, 'niche_sizes': [61694, 7311, 7471, 5513], 'extent_um': [5210.0, 3110.0]}
+L 1 lam 0.0
+L 1 lam 0.5
+L 3 lam 0.0
+L 3 lam 0.5
+L 5 lam 0.0
+L 5 lam 0.5
+L 10 lam 0.0
+L 10 lam 0.5
+L 20 lam 0.0
+L 20 lam 0.5
+done

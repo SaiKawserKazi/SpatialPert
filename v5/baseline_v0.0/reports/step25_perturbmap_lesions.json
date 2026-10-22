@@ -1,0 +1,207 @@
+{
+  "source": "BioImage Archive S-BIAD267 (Dhainaut et al. 2022), *_Lymphoid_*curated.fix.json",
+  "lesions": 2192,
+  "mice": [
+    "KP1",
+    "KP2",
+    "KP3",
+    "KP4",
+    "KP5",
+    "KPA",
+    "KPD",
+    "KPF"
+  ],
+  "lobes": 41,
+  "distinct_procodes": 46,
+  "lesions_per_code_median": 22.5,
+  "lesions_per_code_max": 261,
+  "codes_ge10": 31,
+  "codes_ge20": 25,
+  "codes_in_ge2_mice": 35,
+  "per_code": {
+    "C;NWS;V5": {
+      "lesions": 261,
+      "mice": 8
+    },
+    "C;NWS;S": {
+      "lesions": 179,
+      "mice": 8
+    },
+    "C;Ollas;S": {
+      "lesions": 144,
+      "mice": 8
+    },
+    "C;Ollas;V5": {
+      "lesions": 127,
+      "mice": 8
+    },
+    "C;V5;VSVg": {
+      "lesions": 114,
+      "mice": 8
+    },
+    "C;HA;Ollas": {
+      "lesions": 114,
+      "mice": 8
+    },
+    "C;S;V5": {
+      "lesions": 112,
+      "mice": 8
+    },
+    "Ollas;S;V5": {
+      "lesions": 103,
+      "mice": 8
+    },
+    "Ollas;S;VSVg": {
+      "lesions": 86,
+      "mice": 8
+    },
+    "HA;NWS;Ollas": {
+      "lesions": 79,
+      "mice": 8
+    },
+    "C;NWS;Ollas": {
+      "lesions": 79,
+      "mice": 8
+    },
+    "C;HA;V5": {
+      "lesions": 74,
+      "mice": 7
+    },
+    "C;NWS;VSVg": {
+      "lesions": 74,
+      "mice": 8
+    },
+    "C;HA;S": {
+      "lesions": 69,
+      "mice": 7
+    },
+    "S;V5;VSVg": {
+      "lesions": 65,
+      "mice": 8
+    },
+    "C;S;VSVg": {
+      "lesions": 62,
+      "mice": 7
+    },
+    "C;HA;VSVg": {
+      "lesions": 60,
+      "mice": 7
+    },
+    "HA;S;VSVg": {
+      "lesions": 59,
+      "mice": 6
+    },
+    "HA;Ollas;S": {
+      "lesions": 57,
+      "mice": 8
+    },
+    "HA;S;V5": {
+      "lesions": 33,
+      "mice": 5
+    },
+    "HA;Ollas;VSVg": {
+      "lesions": 31,
+      "mice": 6
+    },
+    "Ollas;V5;VSVg": {
+      "lesions": 27,
+      "mice": 6
+    },
+    "HA;Ollas;V5": {
+      "lesions": 23,
+      "mice": 6
+    },
+    "HA;V5;VSVg": {
+      "lesions": 22,
+      "mice": 6
+    },
+    "HA;NWS;S": {
+      "lesions": 21,
+      "mice": 6
+    },
+    "NWS;S;V5": {
+      "lesions": 18,
+      "mice": 7
+    },
+    "NWS;S;VSVg": {
+      "lesions": 18,
+      "mice": 5
+    },
+    "NWS;Ollas;S": {
+      "lesions": 17,
+      "mice": 7
+    },
+    "NWS;Ollas;VSVg": {
+      "lesions": 12,
+      "mice": 6
+    },
+    "HA;NWS;V5": {
+      "lesions": 12,
+      "mice": 6
+    },
+    "NWS;Ollas;V5": {
+      "lesions": 10,
+      "mice": 6
+    },
+    "C;HA;NWS": {
+      "lesions": 7,
+      "mice": 5
+    },
+    "C;Ollas;VSVg": {
+      "lesions": 6,
+      "mice": 4
+    },
+    "HA;NWS;VSVg": {
+      "lesions": 3,
+      "mice": 3
+    },
+    "NWS;V5;VSVg": {
+      "lesions": 2,
+      "mice": 2
+    },
+    "C;NWS;V5_M1": {
+      "lesions": 2,
+      "mice": 1
+    },
+    "C;NWS;V5_M": {
+      "lesions": 1,
+      "mice": 1
+    },
+    "HA;Ollas;V5_M4": {
+      "lesions": 1,
+      "mice": 1
+    },
+    "C;NWS;VSVg_M2": {
+      "lesions": 1,
+      "mice": 1
+    },
+    "NWS;Ollas;V5_M3": {
+      "lesions": 1,
+      "mice": 1
+    },
+    "C;NWS;V5_M5": {
+      "lesions": 1,
+      "mice": 1
+    },
+    "C;NWS;V5_M3": {
+      "lesions": 1,
+      "mice": 1
+    },
+    "S;V5;VSVg_M4": {
+      "lesions": 1,
+      "mice": 1
+    },
+    "S;V5;VSVg_M2": {
+      "lesions": 1,
+      "mice": 1
+    },
+    "HA;NWS;Ollas_M5": {
+      "lesions": 1,
+      "mice": 1
+    },
+    "C;HA;VSVg_M6": {
+      "lesions": 1,
+      "mice": 1
+    }
+  }
+}

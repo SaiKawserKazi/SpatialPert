@@ -1,0 +1,79 @@
+fitted 58 {'kernel': {'largest_share': 0.3118541312634915}, 'learned': {'largest_share': 0.3518118770954852}, 'expr': {'largest_share': 0.44734303954438986}, 'coord': {'largest_share': 0.3788178018646948}}
+L=10 lam=0.0 111s
+L=10 lam=0.5 163s
+L=20 lam=0.0 221s
+L=20 lam=0.5 265s
+{
+  "partition": {
+    "kernel": {
+      "largest_share": 0.3118541312634915
+    },
+    "learned": {
+      "largest_share": 0.3518118770954852
+    },
+    "expr": {
+      "largest_share": 0.44734303954438986
+    },
+    "coord": {
+      "largest_share": 0.3788178018646948
+    }
+  },
+  "summary": {
+    "L10_kernel": {
+      "type1": 0.08,
+      "raw_power": 0.06,
+      "size_adjusted_power": 0.04,
+      "m_null": 200,
+      "m_alt": 150
+    },
+    "L10_learned": {
+      "type1": 0.03,
+      "raw_power": 0.0738255033557047,
+      "size_adjusted_power": 0.0738255033557047,
+      "m_null": 200,
+      "m_alt": 149
+    },
+    "L10_expr": {
+      "type1": 0.07534246575342465,
+      "raw_power": 0.025,
+      "size_adjusted_power": 0.016666666666666666,
+      "m_null": 146,
+      "m_alt": 120
+    },
+    "L10_coord": {
+      "type1": 0.05,
+      "raw_power": 0.08,
+      "size_adjusted_power": 0.08,
+      "m_null": 200,
+      "m_alt": 150
+    },
+    "L20_kernel": {
+      "type1": 0.03,
+      "raw_power": 0.1,
+      "size_adjusted_power": 0.1,
+      "m_null": 200,
+      "m_alt": 150
+    },
+    "L20_learned": {
+      "type1": 0.04,
+      "raw_power": 0.18666666666666668,
+      "size_adjusted_power": 0.18666666666666668,
+      "m_null": 200,
+      "m_alt": 150
+    },
+    "L20_expr": {
+      "type1": 0.20202020202020202,
+      "raw_power": 0.0738255033557047,
+      "size_adjusted_power": 0.026845637583892617,
+      "m_null": 198,
+      "m_alt": 149
+    },
+    "L20_coord": {
+      "type1": 0.02,
+      "raw_power": 0.08666666666666667,
+      "size_adjusted_power": 0.08666666666666667,
+      "m_null": 200,
+      "m_alt": 150
+    }
+  }
+}

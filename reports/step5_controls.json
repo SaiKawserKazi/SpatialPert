@@ -1,0 +1,54 @@
+{
+  "PC1": {
+    "n_genes": 11460,
+    "n_kp_spots": 1061,
+    "Tgfbr2": {
+      "sections": [
+        "KP_1",
+        "KP_2",
+        "KP_4"
+      ],
+      "spots_per_section": {
+        "KP_1": 75,
+        "KP_2": 62,
+        "KP_4": 87
+      },
+      "median_pairwise_r": 0.4994582928073561,
+      "null_median": 0.18117921568471773,
+      "p_value": 0.000999000999000999,
+      "pass": true
+    },
+    "Ifngr2": {
+      "sections": [
+        "KP_2",
+        "KP_3"
+      ],
+      "spots_per_section": {
+        "KP_2": 41,
+        "KP_3": 64
+      },
+      "median_pairwise_r": 0.3900024993400646,
+      "null_median": 0.06805836198664425,
+      "p_value": 0.000999000999000999,
+      "pass": true
+    }
+  },
+  "PC2": {
+    "n_pseudo": 200,
+    "templates": {
+      "CIITA": 50,
+      "DIO3": 50,
+      "ESAM": 50,
+      "PRSS23": 50
+    },
+    "fpr_at_0.05": 0.05,
+    "threshold": 0.08,
+    "pass": true,
+    "p_quantiles": {
+      "0.05": 0.05434565434565436,
+      "0.25": 0.23026973026973027,
+      "0.5": 0.4035964035964036,
+      "0.75": 0.6206293706293706
+    }
+  }
+}

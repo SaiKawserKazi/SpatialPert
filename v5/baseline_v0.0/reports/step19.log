@@ -1,0 +1,27 @@
+L=1 lam=0.0 done 272s
+L=1 lam=0.5 done 326s
+L=3 lam=0.0 done 1836s
+L=3 lam=0.5 done 2357s
+L=5 lam=0.0 done 4150s
+L=5 lam=0.5 done 5563s
+L=10 lam=0.0 done 16530s
+L=10 lam=0.5 done 17299s
+Traceback (most recent call last):
+  File "C:\dev\spatialpert\scripts\step19_stage1b.py", line 121, in <module>
+    main()
+  File "C:\dev\spatialpert\scripts\step19_stage1b.py", line 76, in main
+    row[f"{tag}_lesion"] = perm_p(r, ll, dd, seed)
+                           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\dev\spatialpert\scripts\step19_stage1b.py", line 34, in perm_p
+    ud = patch_domains(units, niche)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\dev\spatialpert\src\spatialpert\effects.py", line 171, in patch_domains
+    out[p] = vals[np.argmax(counts)]
+                  ^^^^^^^^^^^^^^^^^
+  File "C:\dev\spatialpert\.venv\Lib\site-packages\numpy\_core\fromnumeric.py", line 1352, in argmax
+    return _wrapfunc(a, 'argmax', axis=axis, out=out, **kwds)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\dev\spatialpert\.venv\Lib\site-packages\numpy\_core\fromnumeric.py", line 54, in _wrapfunc
+    return bound(*args, **kwds)
+           ^^^^^^^^^^^^^^^^^^^^
+ValueError: attempt to get argmax of an empty sequence

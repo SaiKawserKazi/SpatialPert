@@ -1,0 +1,236 @@
+{
+  "kmeans": {
+    "n_niches": 4,
+    "largest_share": 0.3118541312634915,
+    "summary": [
+      {
+        "lesions": 3,
+        "lesion": {
+          "type1": 0.0,
+          "applicable": 0.905,
+          "power_size_adjusted": 0.10989010989010989
+        },
+        "signflip": {
+          "type1": 0.0,
+          "applicable": 0.505,
+          "power_size_adjusted": 0.6666666666666666
+        },
+        "wcb": {
+          "type1": 0.043478260869565216,
+          "applicable": 0.575,
+          "power_size_adjusted": 0.10909090909090909
+        }
+      },
+      {
+        "lesions": 5,
+        "lesion": {
+          "type1": 0.010101010101010102,
+          "applicable": 0.99,
+          "power_size_adjusted": 0.1111111111111111
+        },
+        "signflip": {
+          "type1": 0.0,
+          "applicable": 0.675,
+          "power_size_adjusted": 0.29508196721311475
+        },
+        "wcb": {
+          "type1": 0.051470588235294115,
+          "applicable": 0.68,
+          "power_size_adjusted": 0.1267605633802817
+        }
+      },
+      {
+        "lesions": 10,
+        "lesion": {
+          "type1": 0.1,
+          "applicable": 1.0,
+          "power_size_adjusted": 0.34
+        },
+        "signflip": {
+          "type1": 0.0070921985815602835,
+          "applicable": 0.705,
+          "power_size_adjusted": 0.12162162162162163
+        },
+        "wcb": {
+          "type1": 0.05917159763313609,
+          "applicable": 0.845,
+          "power_size_adjusted": 0.6666666666666666
+        }
+      },
+      {
+        "lesions": 20,
+        "lesion": {
+          "type1": 0.19,
+          "applicable": 1.0,
+          "power_size_adjusted": 0.86
+        },
+        "signflip": {
+          "type1": 0.05673758865248227,
+          "applicable": 0.705,
+          "power_size_adjusted": 0.1323529411764706
+        },
+        "wcb": {
+          "type1": 0.06806282722513089,
+          "applicable": 0.955,
+          "power_size_adjusted": 0.96
+        }
+      }
+    ]
+  },
+  "banksy": {
+    "n_niches": 10,
+    "largest_share": 0.2808983603545676,
+    "summary": [
+      {
+        "lesions": 3,
+        "lesion": {
+          "type1": 0.0,
+          "applicable": 0.955,
+          "power_size_adjusted": 0.030612244897959183
+        },
+        "signflip": {
+          "type1": 0.0,
+          "applicable": 0.115,
+          "power_size_adjusted": 0.6
+        },
+        "wcb": {
+          "type1": null,
+          "applicable": 0.0,
+          "power_size_adjusted": null
+        }
+      },
+      {
+        "lesions": 5,
+        "lesion": {
+          "type1": 0.005,
+          "applicable": 1.0,
+          "power_size_adjusted": 0.14
+        },
+        "signflip": {
+          "type1": 0.0,
+          "applicable": 0.23,
+          "power_size_adjusted": 0.5238095238095238
+        },
+        "wcb": {
+          "type1": 0.25,
+          "applicable": 0.02,
+          "power_size_adjusted": 0.0
+        }
+      },
+      {
+        "lesions": 10,
+        "lesion": {
+          "type1": 0.035,
+          "applicable": 1.0,
+          "power_size_adjusted": 0.33
+        },
+        "signflip": {
+          "type1": 0.0,
+          "applicable": 0.24,
+          "power_size_adjusted": 0.11538461538461539
+        },
+        "wcb": {
+          "type1": 0.0,
+          "applicable": 0.06,
+          "power_size_adjusted": 0.2
+        }
+      },
+      {
+        "lesions": 20,
+        "lesion": {
+          "type1": 0.035,
+          "applicable": 1.0,
+          "power_size_adjusted": 0.56
+        },
+        "signflip": {
+          "type1": 0.0,
+          "applicable": 0.135,
+          "power_size_adjusted": 0.25
+        },
+        "wcb": {
+          "type1": 0.07142857142857142,
+          "applicable": 0.07,
+          "power_size_adjusted": 0.3
+        }
+      }
+    ]
+  },
+  "spagcn": {
+    "n_niches": 4,
+    "largest_share": 0.3330730721535847,
+    "summary": [
+      {
+        "lesions": 3,
+        "lesion": {
+          "type1": 0.0,
+          "applicable": 0.86,
+          "power_size_adjusted": 0.11235955056179775
+        },
+        "signflip": {
+          "type1": 0.0,
+          "applicable": 0.93,
+          "power_size_adjusted": 0.5666666666666667
+        },
+        "wcb": {
+          "type1": 0.0425531914893617,
+          "applicable": 0.94,
+          "power_size_adjusted": 0.05813953488372093
+        }
+      },
+      {
+        "lesions": 5,
+        "lesion": {
+          "type1": 0.01015228426395939,
+          "applicable": 0.985,
+          "power_size_adjusted": 0.09
+        },
+        "signflip": {
+          "type1": 0.0,
+          "applicable": 0.99,
+          "power_size_adjusted": 0.3838383838383838
+        },
+        "wcb": {
+          "type1": 0.0582010582010582,
+          "applicable": 0.945,
+          "power_size_adjusted": 0.052083333333333336
+        }
+      },
+      {
+        "lesions": 10,
+        "lesion": {
+          "type1": 0.075,
+          "applicable": 1.0,
+          "power_size_adjusted": 0.24
+        },
+        "signflip": {
+          "type1": 0.02564102564102564,
+          "applicable": 0.975,
+          "power_size_adjusted": 0.41836734693877553
+        },
+        "wcb": {
+          "type1": 0.07253886010362694,
+          "applicable": 0.965,
+          "power_size_adjusted": 0.8556701030927835
+        }
+      },
+      {
+        "lesions": 20,
+        "lesion": {
+          "type1": 0.05,
+          "applicable": 1.0,
+          "power_size_adjusted": 0.76
+        },
+        "signflip": {
+          "type1": 0.021052631578947368,
+          "applicable": 0.95,
+          "power_size_adjusted": 0.4574468085106383
+        },
+        "wcb": {
+          "type1": 0.13705583756345177,
+          "applicable": 0.985,
+          "power_size_adjusted": 0.9797979797979798
+        }
+      }
+    ]
+  }
+}

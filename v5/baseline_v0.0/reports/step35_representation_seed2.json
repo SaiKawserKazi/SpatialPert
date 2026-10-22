@@ -1,0 +1,74 @@
+{
+  "partition": {
+    "kernel": {
+      "largest_share": 0.3118541312634915
+    },
+    "learned": {
+      "largest_share": 0.39300969090157534
+    },
+    "expr": {
+      "largest_share": 0.44734303954438986
+    },
+    "coord": {
+      "largest_share": 0.3788178018646948
+    }
+  },
+  "summary": {
+    "L10_kernel": {
+      "type1": 0.05,
+      "raw_power": 0.1,
+      "size_adjusted_power": 0.1,
+      "m_null": 200,
+      "m_alt": 150
+    },
+    "L10_learned": {
+      "type1": 0.035,
+      "raw_power": 0.08,
+      "size_adjusted_power": 0.08,
+      "m_null": 200,
+      "m_alt": 150
+    },
+    "L10_expr": {
+      "type1": 0.06578947368421052,
+      "raw_power": 0.02608695652173913,
+      "size_adjusted_power": 0.02608695652173913,
+      "m_null": 152,
+      "m_alt": 115
+    },
+    "L10_coord": {
+      "type1": 0.02,
+      "raw_power": 0.06666666666666667,
+      "size_adjusted_power": 0.06666666666666667,
+      "m_null": 200,
+      "m_alt": 150
+    },
+    "L20_kernel": {
+      "type1": 0.045,
+      "raw_power": 0.05333333333333334,
+      "size_adjusted_power": 0.05333333333333334,
+      "m_null": 200,
+      "m_alt": 150
+    },
+    "L20_learned": {
+      "type1": 0.05,
+      "raw_power": 0.18666666666666668,
+      "size_adjusted_power": 0.18666666666666668,
+      "m_null": 200,
+      "m_alt": 150
+    },
+    "L20_expr": {
+      "type1": 0.17,
+      "raw_power": 0.033783783783783786,
+      "size_adjusted_power": 0.006756756756756757,
+      "m_null": 200,
+      "m_alt": 148
+    },
+    "L20_coord": {
+      "type1": 0.015,
+      "raw_power": 0.11333333333333333,
+      "size_adjusted_power": 0.11333333333333333,
+      "m_null": 200,
+      "m_alt": 150
+    }
+  }
+}

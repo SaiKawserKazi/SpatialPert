@@ -1,0 +1,80 @@
+{
+  "cellcharter": {
+    "n_niches": 4,
+    "largest_share": 0.3902999127359574,
+    "summary": [
+      {
+        "lesions": 3,
+        "lesion": {
+          "type1": 0.0,
+          "applicable": 0.72,
+          "power_size_adjusted": 0.058823529411764705
+        },
+        "signflip": {
+          "type1": 0.0,
+          "applicable": 0.96,
+          "power_size_adjusted": 0.6632653061224489
+        },
+        "wcb": {
+          "type1": 0.06,
+          "applicable": 1.0,
+          "power_size_adjusted": 0.1111111111111111
+        }
+      },
+      {
+        "lesions": 5,
+        "lesion": {
+          "type1": 0.0053475935828877,
+          "applicable": 0.935,
+          "power_size_adjusted": 0.10638297872340426
+        },
+        "signflip": {
+          "type1": 0.0,
+          "applicable": 0.995,
+          "power_size_adjusted": 0.55
+        },
+        "wcb": {
+          "type1": 0.055,
+          "applicable": 1.0,
+          "power_size_adjusted": 0.11
+        }
+      },
+      {
+        "lesions": 10,
+        "lesion": {
+          "type1": 0.15,
+          "applicable": 1.0,
+          "power_size_adjusted": 0.09
+        },
+        "signflip": {
+          "type1": 0.055,
+          "applicable": 1.0,
+          "power_size_adjusted": 0.59
+        },
+        "wcb": {
+          "type1": 0.185,
+          "applicable": 1.0,
+          "power_size_adjusted": 0.97
+        }
+      },
+      {
+        "lesions": 20,
+        "lesion": {
+          "type1": 0.25,
+          "applicable": 1.0,
+          "power_size_adjusted": 0.15
+        },
+        "signflip": {
+          "type1": 0.095,
+          "applicable": 1.0,
+          "power_size_adjusted": 0.47
+        },
+        "wcb": {
+          "type1": 0.255,
+          "applicable": 1.0,
+          "power_size_adjusted": 1.0
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,385 @@
+{
+  "rule": "pass if >= 10 knockouts have >= 30 pixels in >= 2 domains",
+  "Brunello lung (HT-29, NSG)": {
+    "paired_sections": {
+      "sections": [
+        "Bru.LC.6",
+        "Bru.LC.8",
+        "Bru.LC.1.33.3"
+      ],
+      "testable_upper_bound": [
+        "ADAM20",
+        "ADARB1",
+        "ASAH2",
+        "ATG4A",
+        "C10orf53",
+        "GPR84",
+        "MT1E",
+        "PRSS23",
+        "S100A4",
+        "SEMA6B",
+        "SLC22A16",
+        "SUMF2",
+        "TEX13A"
+      ],
+      "testable_replicated": [
+        "ATG4A"
+      ],
+      "passed_upper_bound": true,
+      "passed_replicated": false
+    },
+    "all_sg_sections": {
+      "sections": [
+        "Bru.LC.1",
+        "Bru.LC.2",
+        "Bru.LC.3",
+        "Bru.LC.6",
+        "Bru.LC.7",
+        "Bru.LC.8",
+        "Bru.LC.1.33.3"
+      ],
+      "testable_upper_bound": [
+        "ADAM20",
+        "ADARB1",
+        "ANXA5",
+        "ASAH2",
+        "ASMTL",
+        "ATG4A",
+        "ATP13A4",
+        "C10orf53",
+        "CIITA",
+        "CSRP1",
+        "FAM179A",
+        "FGL2",
+        "FHL5",
+        "GGT7",
+        "GPR84",
+        "KCTD16",
+        "METTL5",
+        "MRPS12",
+        "MT1E",
+        "NCOA5",
+        "NR4A3",
+        "NRG3",
+        "ODF4",
+        "PCGF5",
+        "PCNX",
+        "PFN3",
+        "PIGL",
+        "PRSS23",
+        "S100A4",
+        "SEMA6B",
+        "SIGLECL1",
+        "SLC22A16",
+        "SLC35G3",
+        "SMIM8",
+        "STAC",
+        "SUMF2",
+        "TEX13A",
+        "USP9Y",
+        "ZNF354B",
+        "ZNF408",
+        "ZNF672"
+      ],
+      "testable_replicated": [
+        "ASMTL",
+        "ATG4A",
+        "FGL2",
+        "FHL5",
+        "GGT7",
+        "KCTD16",
+        "MRPS12",
+        "MT1E",
+        "ODF4",
+        "PFN3",
+        "PIGL",
+        "S100A4",
+        "SEMA6B",
+        "SLC22A16",
+        "SLC35G3",
+        "SMIM8",
+        "USP9Y"
+      ],
+      "passed_upper_bound": true,
+      "passed_replicated": true
+    }
+  },
+  "mTSG liver (CRISPR-GEMM)": {
+    "paired_sections": {
+      "sections": [
+        "mTSG.LV.2",
+        "mTSG.LV.3"
+      ],
+      "testable_upper_bound": [
+        "Casp8",
+        "Cdkn2a",
+        "Cic",
+        "Fat1",
+        "Grlf1",
+        "Stk11"
+      ],
+      "testable_replicated": [
+        "Cdkn2a"
+      ],
+      "passed_upper_bound": false,
+      "passed_replicated": false
+    },
+    "all_sg_sections": {
+      "sections": [
+        "mTSG.LV.2",
+        "mTSG.LV.3"
+      ],
+      "testable_upper_bound": [
+        "Casp8",
+        "Cdkn2a",
+        "Cic",
+        "Fat1",
+        "Grlf1",
+        "Stk11"
+      ],
+      "testable_replicated": [
+        "Cdkn2a"
+      ],
+      "passed_upper_bound": false,
+      "passed_replicated": false
+    }
+  },
+  "Xenium HT-29 lung (GSE319123, single cell)": {
+    "cells": 352913,
+    "negative_probe_rate_per_cell": 1.0767526274180888e-05,
+    "probes": [
+      {
+        "probe": "DIO3-4",
+        "target": "DIO3",
+        "cells": 1781,
+        "expected_by_chance": 3.8,
+        "enrichment": 468.68421052631584,
+        "cells_2umi": 1232
+      },
+      {
+        "probe": "PRSS23-2",
+        "target": "PRSS23",
+        "cells": 783,
+        "expected_by_chance": 3.8,
+        "enrichment": 206.05263157894737,
+        "cells_2umi": 432
+      },
+      {
+        "probe": "ESAM-4",
+        "target": "ESAM",
+        "cells": 617,
+        "expected_by_chance": 3.8,
+        "enrichment": 162.3684210526316,
+        "cells_2umi": 409
+      },
+      {
+        "probe": "CIITA-1",
+        "target": "CIITA",
+        "cells": 341,
+        "expected_by_chance": 3.8,
+        "enrichment": 89.73684210526316,
+        "cells_2umi": 144
+      },
+      {
+        "probe": "PTH1R-2",
+        "target": "PTH1R",
+        "cells": 281,
+        "expected_by_chance": 3.8,
+        "enrichment": 73.94736842105263,
+        "cells_2umi": 190
+      },
+      {
+        "probe": "GRIN2C-1",
+        "target": "GRIN2C",
+        "cells": 240,
+        "expected_by_chance": 3.8,
+        "enrichment": 63.15789473684211,
+        "cells_2umi": 161
+      },
+      {
+        "probe": "ALDH5A1-3",
+        "target": "ALDH5A1",
+        "cells": 112,
+        "expected_by_chance": 3.8,
+        "enrichment": 29.47368421052632,
+        "cells_2umi": 32
+      },
+      {
+        "probe": "SUMF2-3",
+        "target": "SUMF2",
+        "cells": 100,
+        "expected_by_chance": 3.8,
+        "enrichment": 26.315789473684212,
+        "cells_2umi": 58
+      },
+      {
+        "probe": "TXNDC16-1",
+        "target": "TXNDC16",
+        "cells": 86,
+        "expected_by_chance": 3.8,
+        "enrichment": 22.63157894736842,
+        "cells_2umi": 29
+      },
+      {
+        "probe": "EHF-2",
+        "target": "EHF",
+        "cells": 74,
+        "expected_by_chance": 3.8,
+        "enrichment": 19.473684210526315,
+        "cells_2umi": 47
+      },
+      {
+        "probe": "VAMP5-2",
+        "target": "VAMP5",
+        "cells": 72,
+        "expected_by_chance": 3.8,
+        "enrichment": 18.947368421052634,
+        "cells_2umi": 42
+      },
+      {
+        "probe": "M6PR-4",
+        "target": "M6PR",
+        "cells": 67,
+        "expected_by_chance": 3.8,
+        "enrichment": 17.63157894736842,
+        "cells_2umi": 28
+      },
+      {
+        "probe": "C10orf53-3",
+        "target": "C10orf53",
+        "cells": 58,
+        "expected_by_chance": 3.8,
+        "enrichment": 15.263157894736842,
+        "cells_2umi": 34
+      },
+      {
+        "probe": "ECE2-2",
+        "target": "ECE2",
+        "cells": 43,
+        "expected_by_chance": 3.8,
+        "enrichment": 11.31578947368421,
+        "cells_2umi": 2
+      },
+      {
+        "probe": "RAB17-1",
+        "target": "RAB17",
+        "cells": 42,
+        "expected_by_chance": 3.8,
+        "enrichment": 11.052631578947368,
+        "cells_2umi": 1
+      },
+      {
+        "probe": "CTNNB1-1",
+        "target": "CTNNB1",
+        "cells": 42,
+        "expected_by_chance": 3.8,
+        "enrichment": 11.052631578947368,
+        "cells_2umi": 17
+      },
+      {
+        "probe": "BLOC1S5-4",
+        "target": "BLOC1S5",
+        "cells": 35,
+        "expected_by_chance": 3.8,
+        "enrichment": 9.210526315789474,
+        "cells_2umi": 3
+      },
+      {
+        "probe": "GPR84-3",
+        "target": "GPR84",
+        "cells": 22,
+        "expected_by_chance": 3.8,
+        "enrichment": 5.7894736842105265,
+        "cells_2umi": 5
+      },
+      {
+        "probe": "FGF23-3",
+        "target": "FGF23",
+        "cells": 14,
+        "expected_by_chance": 3.8,
+        "enrichment": 3.68421052631579,
+        "cells_2umi": 6
+      },
+      {
+        "probe": "COX6B2-4",
+        "target": "COX6B2",
+        "cells": 11,
+        "expected_by_chance": 3.8,
+        "enrichment": 2.8947368421052633,
+        "cells_2umi": 5
+      },
+      {
+        "probe": "CYC1-4",
+        "target": "CYC1",
+        "cells": 5,
+        "expected_by_chance": 3.8,
+        "enrichment": 1.3157894736842106,
+        "cells_2umi": 0
+      },
+      {
+        "probe": "PHLDA1-4",
+        "target": "PHLDA1",
+        "cells": 3,
+        "expected_by_chance": 3.8,
+        "enrichment": 0.7894736842105263,
+        "cells_2umi": 0
+      },
+      {
+        "probe": "CDHR3-1",
+        "target": "CDHR3",
+        "cells": 2,
+        "expected_by_chance": 3.8,
+        "enrichment": 0.5263157894736842,
+        "cells_2umi": 0
+      },
+      {
+        "probe": "NUTM2F-4",
+        "target": "NUTM2F",
+        "cells": 2,
+        "expected_by_chance": 3.8,
+        "enrichment": 0.5263157894736842,
+        "cells_2umi": 0
+      },
+      {
+        "probe": "ZCCHC7-1",
+        "target": "ZCCHC7",
+        "cells": 1,
+        "expected_by_chance": 3.8,
+        "enrichment": 0.2631578947368421,
+        "cells_2umi": 0
+      },
+      {
+        "probe": "SLC4A2-4",
+        "target": "SLC4A2",
+        "cells": 0,
+        "expected_by_chance": 3.8,
+        "enrichment": 0.0,
+        "cells_2umi": 0
+      },
+      {
+        "probe": "TEX13A-4",
+        "target": "TEX13A",
+        "cells": 0,
+        "expected_by_chance": 3.8,
+        "enrichment": 0.0,
+        "cells_2umi": 0
+      }
+    ],
+    "testable_upper_bound": [
+      "DIO3",
+      "PRSS23",
+      "ESAM",
+      "CIITA",
+      "PTH1R",
+      "GRIN2C",
+      "ALDH5A1",
+      "SUMF2",
+      "TXNDC16",
+      "EHF",
+      "VAMP5",
+      "M6PR"
+    ],
+    "passed_upper_bound": true,
+    "min_enrichment_among_testable": 17.63157894736842
+  }
+}

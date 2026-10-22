@@ -1,0 +1,944 @@
+{
+  "per_test": {
+    "loo_cell": [
+      {
+        "lesions": 1,
+        "applicable": 1.0,
+        "type1": 0.2833333333333333,
+        "type1_ci": [
+          0.23533085227736072,
+          0.33681443533861255
+        ],
+        "power_raw": 0.7733333333333333,
+        "power_size_adjusted_literal": 0.4666666666666667,
+        "power_size_adjusted": 0.4666666666666667,
+        "power_ci": [
+          0.38866050700567756,
+          0.5463375093111333
+        ],
+        "m_null": 300,
+        "m_alt": 150
+      },
+      {
+        "lesions": 3,
+        "applicable": 1.0,
+        "type1": 0.58,
+        "type1_ci": [
+          0.5234831495365287,
+          0.6344939750360349
+        ],
+        "power_raw": 0.9733333333333334,
+        "power_size_adjusted_literal": 0.92,
+        "power_size_adjusted": 0.92,
+        "power_ci": [
+          0.8653786357295553,
+          0.9536463586786267
+        ],
+        "m_null": 300,
+        "m_alt": 150
+      },
+      {
+        "lesions": 5,
+        "applicable": 1.0,
+        "type1": 0.62,
+        "type1_ci": [
+          0.5638844384073021,
+          0.6730812484515436
+        ],
+        "power_raw": 0.9866666666666667,
+        "power_size_adjusted_literal": 0.9733333333333334,
+        "power_size_adjusted": 0.9733333333333334,
+        "power_ci": [
+          0.933446109051908,
+          0.9895820592493765
+        ],
+        "m_null": 300,
+        "m_alt": 150
+      },
+      {
+        "lesions": 10,
+        "applicable": 1.0,
+        "type1": 0.52,
+        "type1_ci": [
+          0.4635710815722857,
+          0.5759231995708551
+        ],
+        "power_raw": 1.0,
+        "power_size_adjusted_literal": 0.9866666666666667,
+        "power_size_adjusted": 0.9866666666666667,
+        "power_ci": [
+          0.9526930908928354,
+          0.9963358708817246
+        ],
+        "m_null": 300,
+        "m_alt": 150
+      },
+      {
+        "lesions": 20,
+        "applicable": 1.0,
+        "type1": 0.38666666666666666,
+        "type1_ci": [
+          0.3333235928802251,
+          0.4428754806419763
+        ],
+        "power_raw": 1.0,
+        "power_size_adjusted_literal": 1.0,
+        "power_size_adjusted": 1.0,
+        "power_ci": [
+          0.9750297552478355,
+          1.0
+        ],
+        "m_null": 300,
+        "m_alt": 150
+      }
+    ],
+    "loo_patch30": [
+      {
+        "lesions": 1,
+        "applicable": 0.987,
+        "type1": 0.060810810810810814,
+        "type1_ci": [
+          0.03880840708668623,
+          0.09406667639891272
+        ],
+        "power_raw": 0.19863013698630136,
+        "power_size_adjusted_literal": 0.18493150684931506,
+        "power_size_adjusted": 0.18493150684931506,
+        "power_ci": [
+          0.13032290486291997,
+          0.25569481889080997
+        ],
+        "m_null": 296,
+        "m_alt": 146
+      },
+      {
+        "lesions": 3,
+        "applicable": 1.0,
+        "type1": 0.07,
+        "type1_ci": [
+          0.04623694467656326,
+          0.1046360107459067
+        ],
+        "power_raw": 0.26,
+        "power_size_adjusted_literal": 0.22666666666666666,
+        "power_size_adjusted": 0.22666666666666666,
+        "power_ci": [
+          0.16698179385655842,
+          0.30000193994129143
+        ],
+        "m_null": 300,
+        "m_alt": 150
+      },
+      {
+        "lesions": 5,
+        "applicable": 1.0,
+        "type1": 0.07666666666666666,
+        "type1_ci": [
+          0.05162761162594241,
+          0.11241010417757448
+        ],
+        "power_raw": 0.44666666666666666,
+        "power_size_adjusted_literal": 0.31333333333333335,
+        "power_size_adjusted": 0.31333333333333335,
+        "power_ci": [
+          0.2445491405247644,
+          0.391439750849377
+        ],
+        "m_null": 300,
+        "m_alt": 150
+      },
+      {
+        "lesions": 10,
+        "applicable": 1.0,
+        "type1": 0.05,
+        "type1_ci": [
+          0.030531640512013805,
+          0.08084703376731518
+        ],
+        "power_raw": 0.7066666666666667,
+        "power_size_adjusted_literal": 0.7066666666666667,
+        "power_size_adjusted": 0.7066666666666667,
+        "power_ci": [
+          0.6293765076037557,
+          0.7736357912320163
+        ],
+        "m_null": 300,
+        "m_alt": 150
+      },
+      {
+        "lesions": 20,
+        "applicable": 1.0,
+        "type1": 0.05333333333333334,
+        "type1_ci": [
+          0.033091912395840695,
+          0.08486914207401179
+        ],
+        "power_raw": 0.92,
+        "power_size_adjusted_literal": 0.92,
+        "power_size_adjusted": 0.92,
+        "power_ci": [
+          0.8653786357295553,
+          0.9536463586786267
+        ],
+        "m_null": 300,
+        "m_alt": 150
+      }
+    ],
+    "loo_lesion": [
+      {
+        "lesions": 1,
+        "applicable": 0.0
+      },
+      {
+        "lesions": 3,
+        "applicable": 0.953,
+        "type1": 0.0,
+        "type1_ci": [
+          0.0,
+          0.01325365562305309
+        ],
+        "power_raw": 0.0,
+        "power_size_adjusted_literal": 0.03546099290780142,
+        "power_size_adjusted": 0.0,
+        "power_ci": [
+          0.0,
+          0.026521818483230312
+        ],
+        "m_null": 286,
+        "m_alt": 141
+      },
+      {
+        "lesions": 5,
+        "applicable": 0.99,
+        "type1": 0.006734006734006734,
+        "type1_ci": [
+          0.001848654197453772,
+          0.024216433076272116
+        ],
+        "power_raw": 0.02,
+        "power_size_adjusted_literal": 0.06666666666666667,
+        "power_size_adjusted": 0.02,
+        "power_ci": [
+          0.00682475126990735,
+          0.05714668369217049
+        ],
+        "m_null": 297,
+        "m_alt": 150
+      },
+      {
+        "lesions": 10,
+        "applicable": 1.0,
+        "type1": 0.03666666666666667,
+        "type1_ci": [
+          0.02059530507112222,
+          0.06445384844611282
+        ],
+        "power_raw": 0.36666666666666664,
+        "power_size_adjusted_literal": 0.46,
+        "power_size_adjusted": 0.36666666666666664,
+        "power_ci": [
+          0.29377444511720807,
+          0.44621762015003563
+        ],
+        "m_null": 300,
+        "m_alt": 150
+      },
+      {
+        "lesions": 20,
+        "applicable": 1.0,
+        "type1": 0.043333333333333335,
+        "type1_ci": [
+          0.025496447979461018,
+          0.07271746591882099
+        ],
+        "power_raw": 0.8266666666666667,
+        "power_size_adjusted_literal": 0.8933333333333333,
+        "power_size_adjusted": 0.8266666666666667,
+        "power_ci": [
+          0.75814007201182,
+          0.8788793680834325
+        ],
+        "m_null": 300,
+        "m_alt": 150
+      }
+    ],
+    "loo_stud_lesion": [
+      {
+        "lesions": 1,
+        "applicable": 0.0
+      },
+      {
+        "lesions": 3,
+        "applicable": 0.0
+      },
+      {
+        "lesions": 5,
+        "applicable": 0.123,
+        "type1": 0.0,
+        "type1_ci": [
+          0.0,
+          0.09405782718146873
+        ],
+        "power_raw": 0.0,
+        "power_size_adjusted_literal": 0.15,
+        "power_size_adjusted": 0.0,
+        "power_ci": [
+          0.0,
+          0.16112516018512965
+        ],
+        "m_null": 37,
+        "m_alt": 20
+      },
+      {
+        "lesions": 10,
+        "applicable": 0.367,
+        "type1": 0.02727272727272727,
+        "type1_ci": [
+          0.009317969785407151,
+          0.07713084225553674
+        ],
+        "power_raw": 0.14814814814814814,
+        "power_size_adjusted_literal": 0.25925925925925924,
+        "power_size_adjusted": 0.14814814814814814,
+        "power_ci": [
+          0.07703063098186531,
+          0.2660011539185682
+        ],
+        "m_null": 110,
+        "m_alt": 54
+      },
+      {
+        "lesions": 20,
+        "applicable": 0.843,
+        "type1": 0.043478260869565216,
+        "type1_ci": [
+          0.024448318530180316,
+          0.07616417212398274
+        ],
+        "power_raw": 0.6307692307692307,
+        "power_size_adjusted_literal": 0.6615384615384615,
+        "power_size_adjusted": 0.6307692307692307,
+        "power_ci": [
+          0.545170584212468,
+          0.7088613150524271
+        ],
+        "m_null": 253,
+        "m_alt": 130
+      }
+    ],
+    "loo_wcb": [
+      {
+        "lesions": 1,
+        "applicable": 0.0
+      },
+      {
+        "lesions": 3,
+        "applicable": 0.567,
+        "type1": 0.03529411764705882,
+        "type1_ci": [
+          0.01627414835694738,
+          0.07485174867152274
+        ],
+        "power_raw": 0.1,
+        "power_size_adjusted_literal": 0.13333333333333333,
+        "power_size_adjusted": 0.1,
+        "power_ci": [
+          0.05350675143701242,
+          0.17924174950993235
+        ],
+        "m_null": 170,
+        "m_alt": 90
+      },
+      {
+        "lesions": 5,
+        "applicable": 0.837,
+        "type1": 0.043824701195219126,
+        "type1_ci": [
+          0.02464451442285417,
+          0.07675758472826094
+        ],
+        "power_raw": 0.06153846153846154,
+        "power_size_adjusted_literal": 0.08461538461538462,
+        "power_size_adjusted": 0.06923076923076923,
+        "power_ci": [
+          0.036847118965439726,
+          0.12634191875019962
+        ],
+        "m_null": 251,
+        "m_alt": 130
+      },
+      {
+        "lesions": 10,
+        "applicable": 0.96,
+        "type1": 0.1111111111111111,
+        "type1_ci": [
+          0.07981247514697282,
+          0.1526475020658259
+        ],
+        "power_raw": 0.9241379310344827,
+        "power_size_adjusted_literal": 0.8344827586206897,
+        "power_size_adjusted": 0.8344827586206897,
+        "power_ci": [
+          0.7655234231565058,
+          0.8861767195930987
+        ],
+        "m_null": 288,
+        "m_alt": 145
+      },
+      {
+        "lesions": 20,
+        "applicable": 1.0,
+        "type1": 0.12666666666666668,
+        "type1_ci": [
+          0.09369224824041374,
+          0.1690811704209555
+        ],
+        "power_raw": 0.9931972789115646,
+        "power_size_adjusted_literal": 0.9455782312925171,
+        "power_size_adjusted": 0.9455782312925171,
+        "power_ci": [
+          0.8962927606365597,
+          0.9721687417352111
+        ],
+        "m_null": 300,
+        "m_alt": 147
+      }
+    ],
+    "loo_cr2": [
+      {
+        "lesions": 1,
+        "applicable": 0.0
+      },
+      {
+        "lesions": 3,
+        "applicable": 0.927,
+        "type1": 0.007194244604316547,
+        "type1_ci": [
+          0.0019751435401096,
+          0.025847089968121746
+        ],
+        "power_raw": 0.014814814814814815,
+        "power_size_adjusted_literal": 0.17777777777777778,
+        "power_size_adjusted": 0.014814814814814815,
+        "power_ci": [
+          0.004072203382709919,
+          0.05240558750538599
+        ],
+        "m_null": 278,
+        "m_alt": 135
+      },
+      {
+        "lesions": 5,
+        "applicable": 0.997,
+        "type1": 0.016722408026755852,
+        "type1_ci": [
+          0.00716342430084763,
+          0.03854187289467738
+        ],
+        "power_raw": 0.07432432432432433,
+        "power_size_adjusted_literal": 0.22972972972972974,
+        "power_size_adjusted": 0.07432432432432433,
+        "power_ci": [
+          0.04200570292914239,
+          0.12818140585975493
+        ],
+        "m_null": 299,
+        "m_alt": 148
+      },
+      {
+        "lesions": 10,
+        "applicable": 1.0,
+        "type1": 0.02,
+        "type1_ci": [
+          0.009197631503835551,
+          0.04293962106078204
+        ],
+        "power_raw": 0.47333333333333333,
+        "power_size_adjusted_literal": 0.58,
+        "power_size_adjusted": 0.47333333333333333,
+        "power_ci": [
+          0.39509896599058686,
+          0.5528994470628619
+        ],
+        "m_null": 300,
+        "m_alt": 150
+      },
+      {
+        "lesions": 20,
+        "applicable": 1.0,
+        "type1": 0.03,
+        "type1_ci": [
+          0.015861853731906215,
+          0.05602253940428184
+        ],
+        "power_raw": 0.47333333333333333,
+        "power_size_adjusted_literal": 0.4866666666666667,
+        "power_size_adjusted": 0.47333333333333333,
+        "power_ci": [
+          0.39509896599058686,
+          0.5528994470628619
+        ],
+        "m_null": 300,
+        "m_alt": 150
+      }
+    ],
+    "loo_signflip": [
+      {
+        "lesions": 1,
+        "applicable": 0.0
+      },
+      {
+        "lesions": 3,
+        "applicable": 0.353,
+        "type1": 0.0,
+        "type1_ci": [
+          0.0,
+          0.03497275910589831
+        ],
+        "power_raw": 0.0,
+        "power_size_adjusted_literal": 0.7213114754098361,
+        "power_size_adjusted": 0.0,
+        "power_ci": [
+          0.0,
+          0.0592438687773587
+        ],
+        "m_null": 106,
+        "m_alt": 61
+      },
+      {
+        "lesions": 5,
+        "applicable": 0.75,
+        "type1": 0.0,
+        "type1_ci": [
+          0.0,
+          0.016786551265995167
+        ],
+        "power_raw": 0.0,
+        "power_size_adjusted_literal": 0.36893203883495146,
+        "power_size_adjusted": 0.0,
+        "power_ci": [
+          0.0,
+          0.03595475877546724
+        ],
+        "m_null": 225,
+        "m_alt": 103
+      },
+      {
+        "lesions": 10,
+        "applicable": 0.87,
+        "type1": 0.01532567049808429,
+        "type1_ci": [
+          0.005975572905230025,
+          0.0387359270665453
+        ],
+        "power_raw": 0.12903225806451613,
+        "power_size_adjusted_literal": 0.2903225806451613,
+        "power_size_adjusted": 0.12903225806451613,
+        "power_ci": [
+          0.08100831267044237,
+          0.19935033776216646
+        ],
+        "m_null": 261,
+        "m_alt": 124
+      },
+      {
+        "lesions": 20,
+        "applicable": 0.82,
+        "type1": 0.02032520325203252,
+        "type1_ci": [
+          0.008712203346137398,
+          0.046688765505362606
+        ],
+        "power_raw": 0.10619469026548672,
+        "power_size_adjusted_literal": 0.22123893805309736,
+        "power_size_adjusted": 0.10619469026548672,
+        "power_ci": [
+          0.06179848490950812,
+          0.17648558949238097
+        ],
+        "m_null": 246,
+        "m_alt": 113
+      }
+    ],
+    "loo_mixedlm": [
+      {
+        "lesions": 1,
+        "applicable": 0.0
+      },
+      {
+        "lesions": 3,
+        "applicable": 0.077,
+        "type1": 1.0,
+        "type1_ci": [
+          0.8568833796149266,
+          1.0
+        ],
+        "power_raw": 1.0,
+        "power_size_adjusted_literal": 0.26666666666666666,
+        "power_size_adjusted": 0.26666666666666666,
+        "power_ci": [
+          0.1089745324961737,
+          0.5195043425155202
+        ],
+        "m_null": 23,
+        "m_alt": 15
+      },
+      {
+        "lesions": 5,
+        "applicable": 0.12,
+        "type1": 0.9166666666666666,
+        "type1_ci": [
+          0.781733086137824,
+          0.9712513888881098
+        ],
+        "power_raw": 1.0,
+        "power_size_adjusted_literal": 0.17647058823529413,
+        "power_size_adjusted": 0.17647058823529413,
+        "power_ci": [
+          0.06191126589146398,
+          0.4102945877077837
+        ],
+        "m_null": 36,
+        "m_alt": 17
+      },
+      {
+        "lesions": 10,
+        "applicable": 0.13,
+        "type1": 0.717948717948718,
+        "type1_ci": [
+          0.56224680389129,
+          0.8345650798287103
+        ],
+        "power_raw": 1.0,
+        "power_size_adjusted_literal": 0.2,
+        "power_size_adjusted": 0.2,
+        "power_ci": [
+          0.08065766201776073,
+          0.41601743409331715
+        ],
+        "m_null": 39,
+        "m_alt": 20
+      },
+      {
+        "lesions": 20,
+        "applicable": 0.133,
+        "type1": 0.625,
+        "type1_ci": [
+          0.4703243901750228,
+          0.7577702092103612
+        ],
+        "power_raw": 1.0,
+        "power_size_adjusted_literal": 0.0,
+        "power_size_adjusted": 0.0,
+        "power_ci": [
+          0.0,
+          0.16112516018512965
+        ],
+        "m_null": 40,
+        "m_alt": 20
+      }
+    ],
+    "circ_cell": [
+      {
+        "lesions": 1,
+        "applicable": 1.0,
+        "type1": 0.4533333333333333,
+        "type1_ci": [
+          0.3979451520267581,
+          0.5099015253059129
+        ],
+        "power_raw": 0.9466666666666667,
+        "power_size_adjusted_literal": 0.8933333333333333,
+        "power_size_adjusted": 0.8933333333333333,
+        "power_ci": [
+          0.8337537768671847,
+          0.933269630594446
+        ],
+        "m_null": 300,
+        "m_alt": 150
+      },
+      {
+        "lesions": 3,
+        "applicable": 1.0,
+        "type1": 0.6233333333333333,
+        "type1_ci": [
+          0.5672684317190377,
+          0.6762796353303313
+        ],
+        "power_raw": 0.98,
+        "power_size_adjusted_literal": 0.94,
+        "power_size_adjusted": 0.94,
+        "power_ci": [
+          0.8899102286718205,
+          0.9681159559462748
+        ],
+        "m_null": 300,
+        "m_alt": 150
+      },
+      {
+        "lesions": 5,
+        "applicable": 1.0,
+        "type1": 0.59,
+        "type1_ci": [
+          0.5335482145302328,
+          0.6441760506139014
+        ],
+        "power_raw": 0.98,
+        "power_size_adjusted_literal": 0.9266666666666666,
+        "power_size_adjusted": 0.9266666666666666,
+        "power_ci": [
+          0.8734642061213284,
+          0.9585611850234913
+        ],
+        "m_null": 300,
+        "m_alt": 150
+      },
+      {
+        "lesions": 10,
+        "applicable": 1.0,
+        "type1": 0.47333333333333333,
+        "type1_ci": [
+          0.4175289975574689,
+          0.5298119609183433
+        ],
+        "power_raw": 0.9866666666666667,
+        "power_size_adjusted_literal": 0.98,
+        "power_size_adjusted": 0.98,
+        "power_ci": [
+          0.9428533163078294,
+          0.9931752487300927
+        ],
+        "m_null": 300,
+        "m_alt": 150
+      },
+      {
+        "lesions": 20,
+        "applicable": 1.0,
+        "type1": 0.3333333333333333,
+        "type1_ci": [
+          0.2823934469112944,
+          0.3884875435625311
+        ],
+        "power_raw": 0.9933333333333333,
+        "power_size_adjusted_literal": 0.9866666666666667,
+        "power_size_adjusted": 0.9866666666666667,
+        "power_ci": [
+          0.9526930908928354,
+          0.9963358708817246
+        ],
+        "m_null": 300,
+        "m_alt": 150
+      }
+    ],
+    "circ_patch30": [
+      {
+        "lesions": 1,
+        "applicable": 0.993,
+        "type1": 0.12751677852348994,
+        "type1_ci": [
+          0.09433100511855363,
+          0.17018354890331433
+        ],
+        "power_raw": 0.4797297297297297,
+        "power_size_adjusted_literal": 0.3108108108108108,
+        "power_size_adjusted": 0.3108108108108108,
+        "power_ci": [
+          0.2418260435942916,
+          0.38936822697855167
+        ],
+        "m_null": 298,
+        "m_alt": 148
+      },
+      {
+        "lesions": 3,
+        "applicable": 1.0,
+        "type1": 0.11333333333333333,
+        "type1_ci": [
+          0.0822445016660665,
+          0.15419939623320877
+        ],
+        "power_raw": 0.6333333333333333,
+        "power_size_adjusted_literal": 0.47333333333333333,
+        "power_size_adjusted": 0.47333333333333333,
+        "power_ci": [
+          0.39509896599058686,
+          0.5528994470628619
+        ],
+        "m_null": 300,
+        "m_alt": 150
+      },
+      {
+        "lesions": 5,
+        "applicable": 1.0,
+        "type1": 0.15333333333333332,
+        "type1_ci": [
+          0.11696640273814915,
+          0.19846605744740795
+        ],
+        "power_raw": 0.6533333333333333,
+        "power_size_adjusted_literal": 0.48,
+        "power_size_adjusted": 0.48,
+        "power_ci": [
+          0.4015511782183823,
+          0.5594476315717041
+        ],
+        "m_null": 300,
+        "m_alt": 150
+      },
+      {
+        "lesions": 10,
+        "applicable": 1.0,
+        "type1": 0.10666666666666667,
+        "type1_ci": [
+          0.07657584884482732,
+          0.146703288673401
+        ],
+        "power_raw": 0.94,
+        "power_size_adjusted_literal": 0.8866666666666667,
+        "power_size_adjusted": 0.8866666666666667,
+        "power_ci": [
+          0.8259972496074807,
+          0.9280257611175121
+        ],
+        "m_null": 300,
+        "m_alt": 150
+      },
+      {
+        "lesions": 20,
+        "applicable": 1.0,
+        "type1": 0.18666666666666668,
+        "type1_ci": [
+          0.14663748184895228,
+          0.23461878024183971
+        ],
+        "power_raw": 0.98,
+        "power_size_adjusted_literal": 0.9466666666666667,
+        "power_size_adjusted": 0.9466666666666667,
+        "power_ci": [
+          0.8982961211345455,
+          0.9727304602201876
+        ],
+        "m_null": 300,
+        "m_alt": 150
+      }
+    ],
+    "circ_lesion": [
+      {
+        "lesions": 1,
+        "applicable": 0.0
+      },
+      {
+        "lesions": 3,
+        "applicable": 0.92,
+        "type1": 0.0,
+        "type1_ci": [
+          8.673617379884035e-19,
+          0.013727268635079129
+        ],
+        "power_raw": 0.0,
+        "power_size_adjusted_literal": 0.022058823529411766,
+        "power_size_adjusted": 0.0,
+        "power_ci": [
+          -1.734723475976807e-18,
+          0.027470100155039222
+        ],
+        "m_null": 276,
+        "m_alt": 136
+      },
+      {
+        "lesions": 5,
+        "applicable": 0.997,
+        "type1": 0.020066889632107024,
+        "type1_ci": [
+          0.00922849918359903,
+          0.04308091360226836
+        ],
+        "power_raw": 0.06,
+        "power_size_adjusted_literal": 0.13333333333333333,
+        "power_size_adjusted": 0.06,
+        "power_ci": [
+          0.03188404405372519,
+          0.11008977132817949
+        ],
+        "m_null": 299,
+        "m_alt": 150
+      },
+      {
+        "lesions": 10,
+        "applicable": 1.0,
+        "type1": 0.10333333333333333,
+        "type1_ci": [
+          0.07375658454158848,
+          0.14294017278611634
+        ],
+        "power_raw": 0.68,
+        "power_size_adjusted_literal": 0.4533333333333333,
+        "power_size_adjusted": 0.4533333333333333,
+        "power_ci": [
+          0.3758249854919965,
+          0.5331722373515387
+        ],
+        "m_null": 300,
+        "m_alt": 150
+      },
+      {
+        "lesions": 20,
+        "applicable": 1.0,
+        "type1": 0.14666666666666667,
+        "type1_ci": [
+          0.11110518719428736,
+          0.19116251261022277
+        ],
+        "power_raw": 0.94,
+        "power_size_adjusted_literal": 0.8333333333333334,
+        "power_size_adjusted": 0.8333333333333334,
+        "power_ci": [
+          0.7655341352365811,
+          0.8844857015953093
+        ],
+        "m_null": 300,
+        "m_alt": 150
+      }
+    ]
+  },
+  "max_type1": {
+    "loo_cell": 0.62,
+    "loo_patch30": 0.07666666666666666,
+    "loo_lesion": 0.043333333333333335,
+    "loo_stud_lesion": 0.043478260869565216,
+    "loo_wcb": 0.12666666666666668,
+    "loo_cr2": 0.03,
+    "loo_signflip": 0.02032520325203252,
+    "loo_mixedlm": 1.0,
+    "circ_cell": 0.6233333333333333,
+    "circ_patch30": 0.18666666666666668,
+    "circ_lesion": 0.14666666666666667
+  },
+  "qualifying": [
+    "loo_lesion",
+    "loo_stud_lesion",
+    "loo_cr2",
+    "loo_signflip"
+  ],
+  "mean_power_corrected": {
+    "loo_lesion": 0.30333333333333334,
+    "loo_stud_lesion": 0.25963912630579294,
+    "loo_cr2": 0.25895145145145143,
+    "loo_signflip": 0.05880673708250071
+  },
+  "mean_power_literal": {
+    "loo_lesion": 0.3638652482269503,
+    "loo_stud_lesion": 0.3569325735992403,
+    "loo_cr2": 0.3685435435435436,
+    "loo_signflip": 0.40045125823576155
+  },
+  "adopted": "loo_lesion",
+  "adopted_under_literal_rule": "loo_signflip",
+  "frac_relabelled_by_leave_out": {
+    "1": 0.45530068491971953,
+    "3": 0.44576291879937324,
+    "5": 0.4206493145764136,
+    "10": 0.3812760485246619,
+    "20": 0.32746046096368064
+  }
+}

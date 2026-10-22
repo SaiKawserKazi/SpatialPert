@@ -1,0 +1,41 @@
+{
+  "hardware": {
+    "platform": "Windows-10-10.0.19045-SP0",
+    "processor": "Intel64 Family 6 Model 142 Stepping 9, GenuineIntel",
+    "logical_cpus": 4,
+    "ram_gb": 8.5,
+    "python": "3.12.13",
+    "single_threaded_numpy": false
+  },
+  "load_and_normalise_full_section": {
+    "cells_in_file": 352913,
+    "analysis_cells": 23194,
+    "seconds": 5.528828899987275,
+    "peak_python_alloc_mb": 349.453404
+  },
+  "niche_model_fit": {
+    "seconds": 3.45880359999137,
+    "peak_python_alloc_mb": 70.34586
+  },
+  "location_dependence_patch_1000perm_4KO": {
+    "seconds": 0.8820158999878913,
+    "seconds_per_knockout": 0.22050397499697283,
+    "peak_python_alloc_mb": 9.580441
+  },
+  "location_dependence_lesion_1000perm_4KO": {
+    "seconds": 0.31114749997504987,
+    "seconds_per_knockout": 0.07778687499376247,
+    "peak_python_alloc_mb": 9.580081
+  },
+  "wild_cluster_bootstrap_999_pseudoKO_10lesions_400cells": {
+    "p": 0.514,
+    "seconds": 6.090847300016321,
+    "peak_python_alloc_mb": 1.589723
+  },
+  "signflip_2000_pseudoKO_10lesions_400cells": {
+    "p": 0.625,
+    "seconds": 0.002307399990968406,
+    "peak_python_alloc_mb": 0.0268
+  },
+  "process_peak_rss_gb": 0.63
+}

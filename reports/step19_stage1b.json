@@ -1,0 +1,506 @@
+{
+  "summary": [
+    {
+      "lesions": 1,
+      "frac_relabelled_loo": 0.45530068491971953,
+      "circ_cell": {
+        "type1": 0.4533333333333333,
+        "m_null": 300,
+        "applicable_null": 1.0,
+        "power_raw": 0.9466666666666667,
+        "power_size_adjusted": 0.8933333333333333,
+        "m_alt": 150,
+        "crit_p": 0.0039840637450199
+      },
+      "circ_patch30": {
+        "type1": 0.12751677852348994,
+        "m_null": 298,
+        "applicable_null": 0.993,
+        "power_raw": 0.4797297297297297,
+        "power_size_adjusted": 0.3108108108108108,
+        "m_alt": 148,
+        "crit_p": 0.0079681274900398
+      },
+      "circ_lesion": {
+        "type1": null,
+        "applicable_null": 0
+      },
+      "loo_cell": {
+        "type1": 0.2833333333333333,
+        "m_null": 300,
+        "applicable_null": 1.0,
+        "power_raw": 0.7733333333333333,
+        "power_size_adjusted": 0.4666666666666667,
+        "m_alt": 150,
+        "crit_p": 0.0039840637450199
+      },
+      "loo_patch30": {
+        "type1": 0.060810810810810814,
+        "m_null": 296,
+        "applicable_null": 0.987,
+        "power_raw": 0.19863013698630136,
+        "power_size_adjusted": 0.18493150684931506,
+        "m_alt": 146,
+        "crit_p": 0.042828685258964126
+      },
+      "loo_lesion": {
+        "type1": null,
+        "applicable_null": 0
+      },
+      "loo_stud_lesion": {
+        "type1": null,
+        "applicable_null": 0
+      },
+      "loo_wcb": {
+        "type1": null,
+        "applicable_null": 0
+      },
+      "loo_cr2": {
+        "type1": null,
+        "applicable_null": 0
+      },
+      "loo_signflip": {
+        "type1": null,
+        "applicable_null": 0
+      },
+      "loo_mixedlm": {
+        "type1": null,
+        "applicable_null": 0
+      }
+    },
+    {
+      "lesions": 3,
+      "frac_relabelled_loo": 0.44576291879937324,
+      "circ_cell": {
+        "type1": 0.6233333333333333,
+        "m_null": 300,
+        "applicable_null": 1.0,
+        "power_raw": 0.98,
+        "power_size_adjusted": 0.94,
+        "m_alt": 150,
+        "crit_p": 0.0039840637450199
+      },
+      "circ_patch30": {
+        "type1": 0.11333333333333333,
+        "m_null": 300,
+        "applicable_null": 1.0,
+        "power_raw": 0.6333333333333333,
+        "power_size_adjusted": 0.47333333333333333,
+        "m_alt": 150,
+        "crit_p": 0.0159362549800796
+      },
+      "circ_lesion": {
+        "type1": 0.0,
+        "m_null": 276,
+        "applicable_null": 0.92,
+        "power_raw": 0.0,
+        "power_size_adjusted": 0.022058823529411766,
+        "m_alt": 136,
+        "crit_p": 0.2948207171314741
+      },
+      "loo_cell": {
+        "type1": 0.58,
+        "m_null": 300,
+        "applicable_null": 1.0,
+        "power_raw": 0.9733333333333334,
+        "power_size_adjusted": 0.92,
+        "m_alt": 150,
+        "crit_p": 0.0039840637450199
+      },
+      "loo_patch30": {
+        "type1": 0.07,
+        "m_null": 300,
+        "applicable_null": 1.0,
+        "power_raw": 0.26,
+        "power_size_adjusted": 0.22666666666666666,
+        "m_alt": 150,
+        "crit_p": 0.04362549800796811
+      },
+      "loo_lesion": {
+        "type1": 0.0,
+        "m_null": 286,
+        "applicable_null": 0.953,
+        "power_raw": 0.0,
+        "power_size_adjusted": 0.03546099290780142,
+        "m_alt": 141,
+        "crit_p": 0.3067729083665338
+      },
+      "loo_stud_lesion": {
+        "type1": null,
+        "applicable_null": 0
+      },
+      "loo_wcb": {
+        "type1": 0.03529411764705882,
+        "m_null": 170,
+        "applicable_null": 0.567,
+        "power_raw": 0.1,
+        "power_size_adjusted": 0.13333333333333333,
+        "m_alt": 90,
+        "crit_p": 0.0633333333333333
+      },
+      "loo_cr2": {
+        "type1": 0.007194244604316547,
+        "m_null": 278,
+        "applicable_null": 0.927,
+        "power_raw": 0.014814814814814815,
+        "power_size_adjusted": 0.17777777777777778,
+        "m_alt": 135,
+        "crit_p": 0.20305772192551264
+      },
+      "loo_signflip": {
+        "type1": 0.0,
+        "m_null": 106,
+        "applicable_null": 0.353,
+        "power_raw": 0.0,
+        "power_size_adjusted": 0.7213114754098361,
+        "m_alt": 61,
+        "crit_p": 0.25
+      },
+      "loo_mixedlm": {
+        "type1": 1.0,
+        "m_null": 23,
+        "applicable_null": 0.077,
+        "power_raw": 1.0,
+        "power_size_adjusted": 0.26666666666666666,
+        "m_alt": 15,
+        "crit_p": 2.2407542360297093e-29
+      }
+    },
+    {
+      "lesions": 5,
+      "frac_relabelled_loo": 0.4206493145764136,
+      "circ_cell": {
+        "type1": 0.59,
+        "m_null": 300,
+        "applicable_null": 1.0,
+        "power_raw": 0.98,
+        "power_size_adjusted": 0.9266666666666666,
+        "m_alt": 150,
+        "crit_p": 0.0039840637450199
+      },
+      "circ_patch30": {
+        "type1": 0.15333333333333332,
+        "m_null": 300,
+        "applicable_null": 1.0,
+        "power_raw": 0.6533333333333333,
+        "power_size_adjusted": 0.48,
+        "m_alt": 150,
+        "crit_p": 0.0159362549800796
+      },
+      "circ_lesion": {
+        "type1": 0.020066889632107024,
+        "m_null": 299,
+        "applicable_null": 0.997,
+        "power_raw": 0.06,
+        "power_size_adjusted": 0.13333333333333333,
+        "m_alt": 150,
+        "crit_p": 0.09442231075697204
+      },
+      "loo_cell": {
+        "type1": 0.62,
+        "m_null": 300,
+        "applicable_null": 1.0,
+        "power_raw": 0.9866666666666667,
+        "power_size_adjusted": 0.9733333333333334,
+        "m_alt": 150,
+        "crit_p": 0.0039840637450199
+      },
+      "loo_patch30": {
+        "type1": 0.07666666666666666,
+        "m_null": 300,
+        "applicable_null": 1.0,
+        "power_raw": 0.44666666666666666,
+        "power_size_adjusted": 0.31333333333333335,
+        "m_alt": 150,
+        "crit_p": 0.0239043824701195
+      },
+      "loo_lesion": {
+        "type1": 0.006734006734006734,
+        "m_null": 297,
+        "applicable_null": 0.99,
+        "power_raw": 0.02,
+        "power_size_adjusted": 0.06666666666666667,
+        "m_alt": 150,
+        "crit_p": 0.08685258964143422
+      },
+      "loo_stud_lesion": {
+        "type1": 0.0,
+        "m_null": 37,
+        "applicable_null": 0.123,
+        "power_raw": 0.0,
+        "power_size_adjusted": 0.15,
+        "m_alt": 20,
+        "crit_p": 0.15378486055776888
+      },
+      "loo_wcb": {
+        "type1": 0.043824701195219126,
+        "m_null": 251,
+        "applicable_null": 0.837,
+        "power_raw": 0.06153846153846154,
+        "power_size_adjusted": 0.08461538461538462,
+        "m_alt": 130,
+        "crit_p": 0.0583333333333333
+      },
+      "loo_cr2": {
+        "type1": 0.016722408026755852,
+        "m_null": 299,
+        "applicable_null": 0.997,
+        "power_raw": 0.07432432432432433,
+        "power_size_adjusted": 0.22972972972972974,
+        "m_alt": 148,
+        "crit_p": 0.13145903656150548
+      },
+      "loo_signflip": {
+        "type1": 0.0,
+        "m_null": 225,
+        "applicable_null": 0.75,
+        "power_raw": 0.0,
+        "power_size_adjusted": 0.36893203883495146,
+        "m_alt": 103,
+        "crit_p": 0.125
+      },
+      "loo_mixedlm": {
+        "type1": 0.9166666666666666,
+        "m_null": 36,
+        "applicable_null": 0.12,
+        "power_raw": 1.0,
+        "power_size_adjusted": 0.17647058823529413,
+        "m_alt": 17,
+        "crit_p": 2.978765274681703e-24
+      }
+    },
+    {
+      "lesions": 10,
+      "frac_relabelled_loo": 0.3812760485246619,
+      "circ_cell": {
+        "type1": 0.47333333333333333,
+        "m_null": 300,
+        "applicable_null": 1.0,
+        "power_raw": 0.9866666666666667,
+        "power_size_adjusted": 0.98,
+        "m_alt": 150,
+        "crit_p": 0.0039840637450199
+      },
+      "circ_patch30": {
+        "type1": 0.10666666666666667,
+        "m_null": 300,
+        "applicable_null": 1.0,
+        "power_raw": 0.94,
+        "power_size_adjusted": 0.8866666666666667,
+        "m_alt": 150,
+        "crit_p": 0.02768924302788841
+      },
+      "circ_lesion": {
+        "type1": 0.10333333333333333,
+        "m_null": 300,
+        "applicable_null": 1.0,
+        "power_raw": 0.68,
+        "power_size_adjusted": 0.4533333333333333,
+        "m_alt": 150,
+        "crit_p": 0.0199203187250996
+      },
+      "loo_cell": {
+        "type1": 0.52,
+        "m_null": 300,
+        "applicable_null": 1.0,
+        "power_raw": 1.0,
+        "power_size_adjusted": 0.9866666666666667,
+        "m_alt": 150,
+        "crit_p": 0.0039840637450199
+      },
+      "loo_patch30": {
+        "type1": 0.05,
+        "m_null": 300,
+        "applicable_null": 1.0,
+        "power_raw": 0.7066666666666667,
+        "power_size_adjusted": 0.7066666666666667,
+        "m_alt": 150,
+        "crit_p": 0.05159362549800791
+      },
+      "loo_lesion": {
+        "type1": 0.03666666666666667,
+        "m_null": 300,
+        "applicable_null": 1.0,
+        "power_raw": 0.36666666666666664,
+        "power_size_adjusted": 0.46,
+        "m_alt": 150,
+        "crit_p": 0.07151394422310751
+      },
+      "loo_stud_lesion": {
+        "type1": 0.02727272727272727,
+        "m_null": 110,
+        "applicable_null": 0.367,
+        "power_raw": 0.14814814814814814,
+        "power_size_adjusted": 0.25925925925925924,
+        "m_alt": 54,
+        "crit_p": 0.09920318725099596
+      },
+      "loo_wcb": {
+        "type1": 0.1111111111111111,
+        "m_null": 288,
+        "applicable_null": 0.96,
+        "power_raw": 0.9241379310344827,
+        "power_size_adjusted": 0.8344827586206897,
+        "m_alt": 145,
+        "crit_p": 0.02
+      },
+      "loo_cr2": {
+        "type1": 0.02,
+        "m_null": 300,
+        "applicable_null": 1.0,
+        "power_raw": 0.47333333333333333,
+        "power_size_adjusted": 0.58,
+        "m_alt": 150,
+        "crit_p": 0.10180364418066672
+      },
+      "loo_signflip": {
+        "type1": 0.01532567049808429,
+        "m_null": 261,
+        "applicable_null": 0.87,
+        "power_raw": 0.12903225806451613,
+        "power_size_adjusted": 0.2903225806451613,
+        "m_alt": 124,
+        "crit_p": 0.0625
+      },
+      "loo_mixedlm": {
+        "type1": 0.717948717948718,
+        "m_null": 39,
+        "applicable_null": 0.13,
+        "power_raw": 1.0,
+        "power_size_adjusted": 0.2,
+        "m_alt": 20,
+        "crit_p": 6.157768238533536e-10
+      }
+    },
+    {
+      "lesions": 20,
+      "frac_relabelled_loo": 0.32746046096368064,
+      "circ_cell": {
+        "type1": 0.3333333333333333,
+        "m_null": 300,
+        "applicable_null": 1.0,
+        "power_raw": 0.9933333333333333,
+        "power_size_adjusted": 0.9866666666666667,
+        "m_alt": 150,
+        "crit_p": 0.0039840637450199
+      },
+      "circ_patch30": {
+        "type1": 0.18666666666666668,
+        "m_null": 300,
+        "applicable_null": 1.0,
+        "power_raw": 0.98,
+        "power_size_adjusted": 0.9466666666666667,
+        "m_alt": 150,
+        "crit_p": 0.0079681274900398
+      },
+      "circ_lesion": {
+        "type1": 0.14666666666666667,
+        "m_null": 300,
+        "applicable_null": 1.0,
+        "power_raw": 0.94,
+        "power_size_adjusted": 0.8333333333333334,
+        "m_alt": 150,
+        "crit_p": 0.0079681274900398
+      },
+      "loo_cell": {
+        "type1": 0.38666666666666666,
+        "m_null": 300,
+        "applicable_null": 1.0,
+        "power_raw": 1.0,
+        "power_size_adjusted": 1.0,
+        "m_alt": 150,
+        "crit_p": 0.0039840637450199
+      },
+      "loo_patch30": {
+        "type1": 0.05333333333333334,
+        "m_null": 300,
+        "applicable_null": 1.0,
+        "power_raw": 0.92,
+        "power_size_adjusted": 0.92,
+        "m_alt": 150,
+        "crit_p": 0.047808764940239
+      },
+      "loo_lesion": {
+        "type1": 0.043333333333333335,
+        "m_null": 300,
+        "applicable_null": 1.0,
+        "power_raw": 0.8266666666666667,
+        "power_size_adjusted": 0.8933333333333333,
+        "m_alt": 150,
+        "crit_p": 0.07131474103585653
+      },
+      "loo_stud_lesion": {
+        "type1": 0.043478260869565216,
+        "m_null": 253,
+        "applicable_null": 0.843,
+        "power_raw": 0.6307692307692307,
+        "power_size_adjusted": 0.6615384615384615,
+        "m_alt": 130,
+        "crit_p": 0.06294820717131469
+      },
+      "loo_wcb": {
+        "type1": 0.12666666666666668,
+        "m_null": 300,
+        "applicable_null": 1.0,
+        "power_raw": 0.9931972789115646,
+        "power_size_adjusted": 0.9455782312925171,
+        "m_alt": 147,
+        "crit_p": 0.0166666666666666
+      },
+      "loo_cr2": {
+        "type1": 0.03,
+        "m_null": 300,
+        "applicable_null": 1.0,
+        "power_raw": 0.47333333333333333,
+        "power_size_adjusted": 0.4866666666666667,
+        "m_alt": 150,
+        "crit_p": 0.08737816832115478
+      },
+      "loo_signflip": {
+        "type1": 0.02032520325203252,
+        "m_null": 246,
+        "applicable_null": 0.82,
+        "power_raw": 0.10619469026548672,
+        "power_size_adjusted": 0.22123893805309736,
+        "m_alt": 113,
+        "crit_p": 0.11328125
+      },
+      "loo_mixedlm": {
+        "type1": 0.625,
+        "m_null": 40,
+        "applicable_null": 0.133,
+        "power_raw": 1.0,
+        "power_size_adjusted": 0.0,
+        "m_alt": 20,
+        "crit_p": 2.1968774440548416e-38
+      }
+    }
+  ],
+  "max_type1": {
+    "circ_cell": 0.6233333333333333,
+    "circ_patch30": 0.18666666666666668,
+    "circ_lesion": 0.14666666666666667,
+    "loo_cell": 0.62,
+    "loo_patch30": 0.07666666666666666,
+    "loo_lesion": 0.043333333333333335,
+    "loo_stud_lesion": 0.043478260869565216,
+    "loo_wcb": 0.12666666666666668,
+    "loo_cr2": 0.03,
+    "loo_signflip": 0.02032520325203252,
+    "loo_mixedlm": 1.0
+  },
+  "qualifying": [
+    "loo_lesion",
+    "loo_stud_lesion",
+    "loo_cr2",
+    "loo_signflip"
+  ],
+  "mean_size_adjusted_power": {
+    "loo_lesion": 0.3638652482269503,
+    "loo_stud_lesion": 0.3569325735992403,
+    "loo_cr2": 0.3685435435435436,
+    "loo_signflip": 0.40045125823576155
+  },
+  "adopted": "loo_signflip",
+  "runtime_s": 0.21513891220092773
+}

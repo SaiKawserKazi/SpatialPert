@@ -1,0 +1,44 @@
+n 50 lambda 0.0
+n 50 lambda 0.25
+n 50 lambda 0.5
+n 50 lambda 1.0
+n 100 lambda 0.0
+n 100 lambda 0.25
+n 100 lambda 0.5
+n 100 lambda 1.0
+n 200 lambda 0.0
+n 200 lambda 0.25
+n 200 lambda 0.5
+n 200 lambda 1.0
+n 400 lambda 0.0
+n 400 lambda 0.25
+n 400 lambda 0.5
+n 400 lambda 1.0
+n 800 lambda 0.0
+n 800 lambda 0.25
+n 800 lambda 0.5
+n 800 lambda 1.0
+{
+  "max_type1": {
+    "patch": 0.108,
+    "studentized": 0.022900763358778626,
+    "pseudobulk": 0.14864864864864866,
+    "sandwich": 0.94,
+    "tile": 0.258,
+    "cell": 0.622,
+    "anova": 0.38
+  },
+  "mean_power": {
+    "patch": 0.7313299832495812,
+    "studentized": 0.48261972427454847,
+    "pseudobulk": 0.584668071296984,
+    "sandwich": 0.9896666666666666,
+    "tile": 0.775,
+    "cell": 0.8513333333333333,
+    "anova": 0.8039999999999999
+  },
+  "qualifying": [
+    "studentized"
+  ],
+  "adopted": "studentized"
+}

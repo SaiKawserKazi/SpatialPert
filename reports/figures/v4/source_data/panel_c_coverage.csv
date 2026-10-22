@@ -1,0 +1,13 @@
+tissue,interval,lesions,coverage,draws
+tumour,cov_cr2,5,0.9583783783783784,200
+tumour,cov_cr2,10,0.9516216216216216,200
+tumour,cov_cr2,20,0.9485135135135135,200
+tumour,cov_naive,5,0.9223648648648648,200
+tumour,cov_naive,10,0.9248648648648649,200
+tumour,cov_naive,20,0.9304054054054055,200
+brain,cov_cr2,5,0.9174358974358975,78
+brain,cov_cr2,10,0.9466,200
+brain,cov_cr2,20,0.9445,200
+brain,cov_naive,5,0.45641025641025634,78
+brain,cov_naive,10,0.5319,200
+brain,cov_naive,20,0.6403,200

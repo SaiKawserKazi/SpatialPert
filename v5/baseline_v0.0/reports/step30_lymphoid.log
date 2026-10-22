@@ -1,0 +1,142 @@
+KP1_lobe1 Lymphoid: 165,853 cells, 143 MB raw, 398s
+KP1_lobe2 Lymphoid: 49,219 cells, 42 MB raw, 203s
+KP1_lobe3 Lymphoid download failed: size mismatch https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/267/S-BIAD267/Files/bia_submission/KP1_lobe3/Lymphoid/KP1_lobe3_Lymphoid_segData.csv
+KP1_lobe4 Lymphoid: 110,712 cells, 95 MB raw, 302s
+KP1_lobe6 Lymphoid: 58,629 cells, 51 MB raw, 167s
+retry 0 The read operation timed out
+KP1_lobe7 Lymphoid: 210,362 cells, 183 MB raw, 764s
+KP2_lobe2 Lymphoid download failed: size mismatch https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/267/S-BIAD267/Files/bia_submission/KP2_lobe2/Lymphoid/KP2_lobe2_Lymphoid_segData.csv
+KP2_lobe3 Lymphoid download failed: <urlopen error [Errno 11001] getaddrinfo failed>
+KP2_lobe4 Lymphoid download failed: <urlopen error [Errno 11001] getaddrinfo failed>
+KP2_lobe5 Lymphoid download failed: <urlopen error [Errno 11001] getaddrinfo failed>
+KP2_lobe6 Lymphoid download failed: <urlopen error [Errno 11001] getaddrinfo failed>
+KP3_lobe1 Lymphoid download failed: <urlopen error [Errno 11001] getaddrinfo failed>
+KP3_lobe2 Lymphoid download failed: <urlopen error [Errno 11001] getaddrinfo failed>
+KP3_lobe3 Lymphoid download failed: <urlopen error [Errno 11001] getaddrinfo failed>
+KP3_lobe6 Lymphoid download failed: <urlopen error [Errno 11001] getaddrinfo failed>
+KP4_lobe1 Lymphoid download failed: <urlopen error [Errno 11001] getaddrinfo failed>
+KP4_lobe2 Lymphoid download failed: <urlopen error [Errno 11001] getaddrinfo failed>
+KP4_lobe3 Lymphoid download failed: <urlopen error [Errno 11001] getaddrinfo failed>
+KP4_lobe4 Lymphoid download failed: <urlopen error [Errno 11001] getaddrinfo failed>
+KP4_lobe5 Lymphoid download failed: <urlopen error [Errno 11001] getaddrinfo failed>
+KP4_lobe6 Lymphoid download failed: <urlopen error [Errno 11001] getaddrinfo failed>
+KP4_lobe7 Lymphoid download failed: <urlopen error [Errno 11001] getaddrinfo failed>
+KP4_lobe8 Lymphoid download failed: <urlopen error [Errno 11001] getaddrinfo failed>
+KP5_lobe1 Lymphoid download failed: <urlopen error [Errno 11001] getaddrinfo failed>
+KP5_lobe2 Lymphoid download failed: <urlopen error [Errno 11001] getaddrinfo failed>
+KP5_lobe3 Lymphoid download failed: <urlopen error [Errno 11001] getaddrinfo failed>
+KP5_lobe4 Lymphoid download failed: <urlopen error [Errno 11001] getaddrinfo failed>
+KPA_lobe1 Lymphoid download failed: <urlopen error [Errno 11001] getaddrinfo failed>
+KPA_lobe2 Lymphoid download failed: <urlopen error [Errno 11001] getaddrinfo failed>
+KPA_lobe3 Lymphoid download failed: <urlopen error [Errno 11001] getaddrinfo failed>
+KPA_lobe4 Lymphoid download failed: <urlopen error [Errno 11001] getaddrinfo failed>
+KPA_lobe5 Lymphoid download failed: <urlopen error [Errno 11001] getaddrinfo failed>
+KPD_lobe1 Lymphoid download failed: <urlopen error [Errno 11001] getaddrinfo failed>
+KPD_lobe2 Lymphoid download failed: <urlopen error [Errno 11001] getaddrinfo failed>
+KPD_lobe3 Lymphoid download failed: <urlopen error [Errno 11001] getaddrinfo failed>
+KPD_lobe4 Lymphoid download failed: <urlopen error [Errno 11001] getaddrinfo failed>
+KPD_lobe5 Lymphoid download failed: <urlopen error [Errno 11001] getaddrinfo failed>
+KPF_lobe1 Lymphoid download failed: <urlopen error [Errno 11001] getaddrinfo failed>
+KPF_lobe2 Lymphoid download failed: <urlopen error [Errno 11001] getaddrinfo failed>
+KPF_lobe3 Lymphoid download failed: <urlopen error [Errno 11001] getaddrinfo failed>
+KPF_lobe4 Lymphoid download failed: <urlopen error [Errno 11001] getaddrinfo failed>
+KPF_lobe5 Lymphoid download failed: <urlopen error [Errno 11001] getaddrinfo failed>
+done Lymphoid
+KP1_lobe3 Lymphoid: 407,839 cells, 354 MB raw, 1122s
+KP2_lobe2 Lymphoid: 223,001 cells, 190 MB raw, 584s
+retry 0 The read operation timed out
+KP2_lobe3 Lymphoid: 295,179 cells, 254 MB raw, 986s
+KP2_lobe4 Lymphoid: 179,996 cells, 155 MB raw, 297s
+KP2_lobe5 Lymphoid: 323,494 cells, 275 MB raw, 491s
+KP2_lobe6 Lymphoid download failed: size mismatch https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/267/S-BIAD267/Files/bia_submission/KP2_lobe6/Lymphoid/KP2_lobe6_Lymphoid_segData.csv
+KP3_lobe1 Lymphoid download failed: <urlopen error [Errno 11001] getaddrinfo failed>
+KP3_lobe2 Lymphoid download failed: <urlopen error [Errno 11001] getaddrinfo failed>
+KP3_lobe3 Lymphoid download failed: <urlopen error [Errno 11001] getaddrinfo failed>
+KP3_lobe6 Lymphoid download failed: <urlopen error [Errno 11001] getaddrinfo failed>
+KP4_lobe1 Lymphoid download failed: <urlopen error [Errno 11001] getaddrinfo failed>
+KP4_lobe2 Lymphoid download failed: <urlopen error [Errno 11001] getaddrinfo failed>
+KP4_lobe3 Lymphoid download failed: <urlopen error [Errno 11001] getaddrinfo failed>
+KP4_lobe4 Lymphoid download failed: <urlopen error [Errno 11001] getaddrinfo failed>
+KP4_lobe5 Lymphoid download failed: <urlopen error [Errno 11001] getaddrinfo failed>
+KP4_lobe6 Lymphoid download failed: <urlopen error [Errno 11001] getaddrinfo failed>
+KP4_lobe7 Lymphoid download failed: <urlopen error [Errno 11001] getaddrinfo failed>
+KP4_lobe8 Lymphoid download failed: <urlopen error [Errno 11001] getaddrinfo failed>
+KP5_lobe1 Lymphoid download failed: <urlopen error [Errno 11001] getaddrinfo failed>
+KP5_lobe2 Lymphoid download failed: <urlopen error [Errno 11001] getaddrinfo failed>
+KP5_lobe3 Lymphoid download failed: <urlopen error [Errno 11001] getaddrinfo failed>
+KP5_lobe4 Lymphoid download failed: <urlopen error [Errno 11001] getaddrinfo failed>
+KPA_lobe1 Lymphoid download failed: <urlopen error [Errno 11001] getaddrinfo failed>
+KPA_lobe2 Lymphoid download failed: <urlopen error [Errno 11001] getaddrinfo failed>
+KPA_lobe3 Lymphoid download failed: <urlopen error [Errno 11001] getaddrinfo failed>
+KPA_lobe4 Lymphoid download failed: <urlopen error [Errno 11001] getaddrinfo failed>
+KPA_lobe5 Lymphoid download failed: <urlopen error [Errno 11001] getaddrinfo failed>
+KPD_lobe1 Lymphoid download failed: <urlopen error [Errno 11001] getaddrinfo failed>
+KPD_lobe2 Lymphoid download failed: <urlopen error [Errno 11001] getaddrinfo failed>
+KPD_lobe3 Lymphoid download failed: <urlopen error [Errno 11001] getaddrinfo failed>
+KPD_lobe4 Lymphoid download failed: <urlopen error [Errno 11001] getaddrinfo failed>
+KPD_lobe5 Lymphoid download failed: <urlopen error [Errno 11001] getaddrinfo failed>
+KPF_lobe1 Lymphoid download failed: <urlopen error [Errno 11001] getaddrinfo failed>
+KPF_lobe2 Lymphoid download failed: <urlopen error [Errno 11001] getaddrinfo failed>
+KPF_lobe3 Lymphoid download failed: <urlopen error [Errno 11001] getaddrinfo failed>
+KPF_lobe4 Lymphoid download failed: <urlopen error [Errno 11001] getaddrinfo failed>
+KPF_lobe5 Lymphoid download failed: <urlopen error [Errno 11001] getaddrinfo failed>
+done Lymphoid
+retry 0 The read operation timed out
+KP2_lobe6 Lymphoid: 184,273 cells, 158 MB raw, 962s
+KP3_lobe1 Lymphoid download failed: The read operation timed out
+retry 0 The read operation timed out
+KP3_lobe2 Lymphoid: 126,461 cells, 108 MB raw, 555s
+retry 0 The read operation timed out
+KP3_lobe3 Lymphoid: 68,928 cells, 59 MB raw, 500s
+KP3_lobe6 Lymphoid: 108,152 cells, 92 MB raw, 163s
+KP4_lobe1 Lymphoid: 262,747 cells, 233 MB raw, 350s
+KP4_lobe2 Lymphoid: 111,369 cells, 96 MB raw, 139s
+KP4_lobe3 Lymphoid: 29,141 cells, 25 MB raw, 53s
+retry 0 The read operation timed out
+KP4_lobe4 Lymphoid: 364,521 cells, 316 MB raw, 830s
+KP4_lobe5 Lymphoid: 374,040 cells, 322 MB raw, 506s
+KP4_lobe6 Lymphoid download failed: HTTP Error 404: Not Found
+KP4_lobe7 Lymphoid: 19,908 cells, 17 MB raw, 34s
+KP4_lobe8 Lymphoid: 15,654 cells, 13 MB raw, 19s
+KP5_lobe1 Lymphoid: 264,973 cells, 226 MB raw, 250s
+KP5_lobe2 Lymphoid: 313,333 cells, 269 MB raw, 348s
+KP5_lobe3 Lymphoid: 333,796 cells, 288 MB raw, 314s
+KP5_lobe4 Lymphoid: 108,738 cells, 94 MB raw, 107s
+KPA_lobe1 Lymphoid: 450,652 cells, 389 MB raw, 522s
+KPA_lobe2 Lymphoid: 125,220 cells, 108 MB raw, 162s
+retry 0 The read operation timed out
+KPA_lobe3 Lymphoid: 267,080 cells, 231 MB raw, 656s
+KPA_lobe4 Lymphoid: 135,998 cells, 117 MB raw, 155s
+KPA_lobe5 Lymphoid: 366,872 cells, 315 MB raw, 512s
+KPD_lobe1 Lymphoid: 78,276 cells, 67 MB raw, 110s
+KPD_lobe2 Lymphoid: 460,844 cells, 398 MB raw, 574s
+KPD_lobe3 Lymphoid download failed: size mismatch https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/267/S-BIAD267/Files/bia_submission/KPD_lobe3/Lymphoid/KPD_lobe3_Lymphoid_segData.csv
+KPD_lobe4 Lymphoid download failed: <urlopen error [Errno 11001] getaddrinfo failed>
+KPD_lobe5 Lymphoid download failed: <urlopen error [Errno 11001] getaddrinfo failed>
+KPF_lobe1 Lymphoid download failed: <urlopen error [Errno 11001] getaddrinfo failed>
+KPF_lobe2 Lymphoid download failed: <urlopen error [Errno 11001] getaddrinfo failed>
+KPF_lobe3 Lymphoid download failed: <urlopen error [Errno 11001] getaddrinfo failed>
+KPF_lobe4 Lymphoid download failed: <urlopen error [Errno 11001] getaddrinfo failed>
+KPF_lobe5 Lymphoid download failed: <urlopen error [Errno 11001] getaddrinfo failed>
+done Lymphoid
+KP3_lobe1 Lymphoid download failed: size mismatch https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/267/S-BIAD267/Files/bia_submission/KP3_lobe1/Lymphoid/KP3_lobe1_Lymphoid_segData.csv
+KP4_lobe6 Lymphoid download failed: HTTP Error 404: Not Found
+iled: HTTP Error 404: Not Found
+KPD_lobe3 Lymphoid download failed: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\dev\\spatialpert\\data\\raw\\S-BIAD267_seg\\KPD_lobe3_Lymphoid_segData.part4'
+KP3_lobe1 Lymphoid download failed: size mismatch https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/267/S-BIAD267/Files/bia_submission/KP3_lobe1/Lymphoid/KP3_lobe1_Lymphoid_segData.csv
+KP4_lobe6 Lymphoid download failed: HTTP Error 404: Not Found
+KPD_lobe3 Lymphoid: 229,956 cells, 199 MB raw, 351s
+KPD_lobe4 Lymphoid: 325,885 cells, 281 MB raw, 458s
+KPD_lobe5 Lymphoid: 125,727 cells, 108 MB raw, 186s
+retry 0 The read operation timed out
+KPF_lobe1 Lymphoid: 224,235 cells, 192 MB raw, 583s
+retry 0 The read operation timed out
+KPF_lobe2 Lymphoid: 68,373 cells, 59 MB raw, 415s
+KPF_lobe3 Lymphoid: 367,366 cells, 316 MB raw, 552s
+KPF_lobe4 Lymphoid: 99,368 cells, 85 MB raw, 170s
+retry 0 The read operation timed out
+KPF_lobe5 Lymphoid: 126,194 cells, 108 MB raw, 492s
+done Lymphoid
+KP3_lobe1 Lymphoid: 280,075 cells, 238 MB raw, 395s
+KP4_lobe6 Lymphoid download failed: HTTP Error 404: Not Found
+done Lymphoid

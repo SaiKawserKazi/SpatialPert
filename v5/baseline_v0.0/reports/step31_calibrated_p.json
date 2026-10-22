@@ -1,0 +1,306 @@
+{
+  "brain_step22": {
+    "lesion": {
+      "3": {
+        "m_null": 184,
+        "raw_type1": 0.0,
+        "calibrated_type1": 0.06521739130434782,
+        "calibrated_type1_ci": [
+          0.03769728667054058,
+          0.1105205721317085
+        ],
+        "m_alt": 73,
+        "raw_power": 0.0,
+        "calibrated_power": 0.0410958904109589
+      },
+      "5": {
+        "m_null": 221,
+        "raw_type1": 0.01809954751131222,
+        "calibrated_type1": 0.05429864253393665,
+        "calibrated_type1_ci": [
+          0.031330595441528414,
+          0.09249647349284035
+        ],
+        "m_alt": 110,
+        "raw_power": 0.01818181818181818,
+        "calibrated_power": 0.01818181818181818
+      },
+      "10": {
+        "m_null": 290,
+        "raw_type1": 0.21724137931034482,
+        "calibrated_type1": 0.05517241379310345,
+        "calibrated_type1_ci": [
+          0.03424255845565535,
+          0.08773294140927368
+        ],
+        "m_alt": 142,
+        "raw_power": 0.3591549295774648,
+        "calibrated_power": 0.035211267605633804
+      },
+      "20": {
+        "m_null": 300,
+        "raw_type1": 0.29333333333333333,
+        "calibrated_type1": 0.043333333333333335,
+        "calibrated_type1_ci": [
+          0.02549644808440724,
+          0.07271746563401148
+        ],
+        "m_alt": 150,
+        "raw_power": 0.36,
+        "calibrated_power": 0.11333333333333333
+      }
+    },
+    "patch30": {
+      "3": {
+        "m_null": 204,
+        "raw_type1": 0.014705882352941176,
+        "calibrated_type1": 0.04411764705882353,
+        "calibrated_type1_ci": [
+          0.02338137999728914,
+          0.08170573276945131
+        ],
+        "m_alt": 88,
+        "raw_power": 0.022727272727272728,
+        "calibrated_power": 0.056818181818181816
+      },
+      "5": {
+        "m_null": 240,
+        "raw_type1": 0.09583333333333334,
+        "calibrated_type1": 0.06666666666666667,
+        "calibrated_type1_ci": [
+          0.041448900547079004,
+          0.10553783006893866
+        ],
+        "m_alt": 117,
+        "raw_power": 0.07692307692307693,
+        "calibrated_power": 0.03418803418803419
+      },
+      "10": {
+        "m_null": 291,
+        "raw_type1": 0.24054982817869416,
+        "calibrated_type1": 0.054982817869415807,
+        "calibrated_type1_ci": [
+          0.03412390509491693,
+          0.08743789616618342
+        ],
+        "m_alt": 145,
+        "raw_power": 0.3931034482758621,
+        "calibrated_power": 0.027586206896551724
+      },
+      "20": {
+        "m_null": 300,
+        "raw_type1": 0.2966666666666667,
+        "calibrated_type1": 0.04666666666666667,
+        "calibrated_type1_ci": [
+          0.027998933682334005,
+          0.07679736022792105
+        ],
+        "m_alt": 150,
+        "raw_power": 0.36,
+        "calibrated_power": 0.08
+      }
+    },
+    "cell": {
+      "3": {
+        "m_null": 300,
+        "raw_type1": 0.7433333333333333,
+        "calibrated_type1": 0.06333333333333334,
+        "calibrated_type1_ci": [
+          0.04091688238391526,
+          0.09679131248552163
+        ],
+        "m_alt": 150,
+        "raw_power": 0.7133333333333334,
+        "calibrated_power": 0.04666666666666667
+      },
+      "5": {
+        "m_null": 300,
+        "raw_type1": 0.83,
+        "calibrated_type1": 0.056666666666666664,
+        "calibrated_type1_ci": [
+          0.035677476463289504,
+          0.08886595802247463
+        ],
+        "m_alt": 150,
+        "raw_power": 0.82,
+        "calibrated_power": 0.04
+      },
+      "10": {
+        "m_null": 300,
+        "raw_type1": 0.9766666666666667,
+        "calibrated_type1": 0.04666666666666667,
+        "calibrated_type1_ci": [
+          0.027998933682334005,
+          0.07679736022792105
+        ],
+        "m_alt": 150,
+        "raw_power": 0.98,
+        "calibrated_power": 0.04666666666666667
+      },
+      "20": {
+        "m_null": 300,
+        "raw_type1": 1.0,
+        "calibrated_type1": 0.043333333333333335,
+        "calibrated_type1_ci": [
+          0.02549644808440724,
+          0.07271746563401148
+        ],
+        "m_alt": 150,
+        "raw_power": 1.0,
+        "calibrated_power": 0.06
+      }
+    }
+  },
+  "tumour_step19": {
+    "loo_lesion": {
+      "3": {
+        "m_null": 286,
+        "raw_type1": 0.0,
+        "calibrated_type1": 0.04895104895104895,
+        "calibrated_type1_ci": [
+          0.029379949419962956,
+          0.08047824322870277
+        ],
+        "m_alt": 141,
+        "raw_power": 0.0,
+        "calibrated_power": 0.03546099290780142
+      },
+      "5": {
+        "m_null": 297,
+        "raw_type1": 0.006734006734006734,
+        "calibrated_type1": 0.04377104377104377,
+        "calibrated_type1_ci": [
+          0.025755764110849615,
+          0.07343754168441335
+        ],
+        "m_alt": 150,
+        "raw_power": 0.02,
+        "calibrated_power": 0.06666666666666667
+      },
+      "10": {
+        "m_null": 300,
+        "raw_type1": 0.03666666666666667,
+        "calibrated_type1": 0.043333333333333335,
+        "calibrated_type1_ci": [
+          0.02549644808440724,
+          0.07271746563401148
+        ],
+        "m_alt": 150,
+        "raw_power": 0.36666666666666664,
+        "calibrated_power": 0.46
+      },
+      "20": {
+        "m_null": 300,
+        "raw_type1": 0.043333333333333335,
+        "calibrated_type1": 0.04666666666666667,
+        "calibrated_type1_ci": [
+          0.027998933682334005,
+          0.07679736022792105
+        ],
+        "m_alt": 150,
+        "raw_power": 0.8266666666666667,
+        "calibrated_power": 0.88
+      }
+    },
+    "loo_patch30": {
+      "3": {
+        "m_null": 300,
+        "raw_type1": 0.07,
+        "calibrated_type1": 0.04666666666666667,
+        "calibrated_type1_ci": [
+          0.027998933682334005,
+          0.07679736022792105
+        ],
+        "m_alt": 150,
+        "raw_power": 0.26,
+        "calibrated_power": 0.21333333333333335
+      },
+      "5": {
+        "m_null": 300,
+        "raw_type1": 0.07666666666666666,
+        "calibrated_type1": 0.05,
+        "calibrated_type1_ci": [
+          0.030531640629347278,
+          0.08084703347274415
+        ],
+        "m_alt": 150,
+        "raw_power": 0.44666666666666666,
+        "calibrated_power": 0.30666666666666664
+      },
+      "10": {
+        "m_null": 300,
+        "raw_type1": 0.05,
+        "calibrated_type1": 0.07666666666666666,
+        "calibrated_type1_ci": [
+          0.05162761178660747,
+          0.11241010385017483
+        ],
+        "m_alt": 150,
+        "raw_power": 0.7066666666666667,
+        "calibrated_power": 0.6933333333333334
+      },
+      "20": {
+        "m_null": 300,
+        "raw_type1": 0.05333333333333334,
+        "calibrated_type1": 0.06333333333333334,
+        "calibrated_type1_ci": [
+          0.04091688238391526,
+          0.09679131248552163
+        ],
+        "m_alt": 150,
+        "raw_power": 0.92,
+        "calibrated_power": 0.9133333333333333
+      }
+    },
+    "loo_cell": {
+      "3": {
+        "m_null": 300,
+        "raw_type1": 0.58,
+        "calibrated_type1": 0.043333333333333335,
+        "calibrated_type1_ci": [
+          0.02549644808440724,
+          0.07271746563401148
+        ],
+        "m_alt": 150,
+        "raw_power": 0.9733333333333334,
+        "calibrated_power": 0.18
+      },
+      "5": {
+        "m_null": 300,
+        "raw_type1": 0.62,
+        "calibrated_type1": 0.04666666666666667,
+        "calibrated_type1_ci": [
+          0.027998933682334005,
+          0.07679736022792105
+        ],
+        "m_alt": 150,
+        "raw_power": 0.9866666666666667,
+        "calibrated_power": 0.12
+      },
+      "10": {
+        "m_null": 300,
+        "raw_type1": 0.52,
+        "calibrated_type1": 0.04666666666666667,
+        "calibrated_type1_ci": [
+          0.027998933682334005,
+          0.07679736022792105
+        ],
+        "m_alt": 150,
+        "raw_power": 1.0,
+        "calibrated_power": 0.24
+      },
+      "20": {
+        "m_null": 300,
+        "raw_type1": 0.38666666666666666,
+        "calibrated_type1": 0.05,
+        "calibrated_type1_ci": [
+          0.030531640629347278,
+          0.08084703347274415
+        ],
+        "m_alt": 150,
+        "raw_power": 1.0,
+        "calibrated_power": 0.3466666666666667
+      }
+    }
+  }
+}

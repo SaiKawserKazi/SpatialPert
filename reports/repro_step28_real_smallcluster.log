@@ -1,0 +1,7 @@
+CIITA {'cells': 141, 'lesions': 10, 'lesions_per_niche': {1: 8, 2: 8, 3: 2}, 'cells_per_niche': {1: 55, 2: 56, 3: 30}, 'cell_p': 0.003, 'wcb_p': nan, 'cr2_min_q': 0.12257246067386536, 'signflip_p': nan, 'mixedlm_min_q': nan}
+DIO3 {'cells': 427, 'lesions': 1, 'lesions_per_niche': {0: 1, 1: 1, 2: 1, 3: 1}, 'cells_per_niche': {0: 62, 1: 18, 2: 17, 3: 330}, 'cell_p': 0.06, 'wcb_p': nan, 'cr2_min_q': nan, 'signflip_p': nan, 'mixedlm_min_q': nan}
+ESAM {'cells': 177, 'lesions': 5, 'lesions_per_niche': {0: 1, 1: 5, 2: 2, 3: 1}, 'cells_per_niche': {0: 23, 1: 33, 2: 87, 3: 34}, 'cell_p': 0.059, 'wcb_p': nan, 'cr2_min_q': nan, 'signflip_p': nan, 'mixedlm_min_q': nan}
+PRSS23 {'cells': 258, 'lesions': 3, 'lesions_per_niche': {0: 1, 1: 2, 2: 1, 3: 2}, 'cells_per_niche': {0: 11, 1: 138, 2: 45, 3: 64}, 'cell_p': 0.001, 'wcb_p': nan, 'cr2_min_q': nan, 'signflip_p': nan, 'mixedlm_min_q': nan}
+patch30 [{'knockout': 'CIITA', 'units': 32, 'p': 0.24975024975024976}, {'knockout': 'DIO3', 'units': 31, 'p': 0.18081918081918083}, {'knockout': 'PRSS23', 'units': 22, 'p': 0.7012987012987013}]
+lesion [{'knockout': 'CIITA', 'units': 10, 'p': 0.4305694305694306}]
+stud_lesion []

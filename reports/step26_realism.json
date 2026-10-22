@@ -1,0 +1,285 @@
+{
+  "lesion_size_pool": [
+    427,
+    243,
+    164,
+    46,
+    25,
+    17,
+    17,
+    14,
+    14,
+    13,
+    9,
+    8,
+    2,
+    1,
+    1,
+    1,
+    1,
+    1
+  ],
+  "summary": [
+    {
+      "lesions": 5,
+      "lesion": {
+        "type1": 0.010050251256281407,
+        "applicable": 0.995,
+        "power": {
+          "d0.25_s0.05": {
+            "raw": 0.01,
+            "size_adjusted": 0.09
+          },
+          "d0.25_s0.2": {
+            "raw": 0.010101010101010102,
+            "size_adjusted": 0.06060606060606061
+          },
+          "d0.25_s1.0": {
+            "raw": 0.0,
+            "size_adjusted": 0.06
+          },
+          "d0.5_s0.05": {
+            "raw": 0.0,
+            "size_adjusted": 0.08080808080808081
+          },
+          "d0.5_s0.2": {
+            "raw": 0.04040404040404041,
+            "size_adjusted": 0.09090909090909091
+          },
+          "d0.5_s1.0": {
+            "raw": 0.03,
+            "size_adjusted": 0.14
+          },
+          "d1.0_s0.05": {
+            "raw": 0.0,
+            "size_adjusted": 0.08
+          },
+          "d1.0_s0.2": {
+            "raw": 0.0,
+            "size_adjusted": 0.07142857142857142
+          },
+          "d1.0_s1.0": {
+            "raw": 0.01,
+            "size_adjusted": 0.09
+          }
+        }
+      },
+      "signflip": {
+        "type1": 0.0,
+        "applicable": 0.2,
+        "power": {
+          "d0.25_s0.05": {
+            "raw": 0.0,
+            "size_adjusted": 0.041666666666666664
+          },
+          "d0.25_s0.2": {
+            "raw": 0.0,
+            "size_adjusted": 0.13636363636363635
+          },
+          "d0.25_s1.0": {
+            "raw": 0.0,
+            "size_adjusted": 0.03225806451612903
+          },
+          "d0.5_s0.05": {
+            "raw": 0.0,
+            "size_adjusted": 0.058823529411764705
+          },
+          "d0.5_s0.2": {
+            "raw": 0.0,
+            "size_adjusted": 0.03225806451612903
+          },
+          "d0.5_s1.0": {
+            "raw": 0.0,
+            "size_adjusted": 0.1
+          },
+          "d1.0_s0.05": {
+            "raw": 0.0,
+            "size_adjusted": 0.038461538461538464
+          },
+          "d1.0_s0.2": {
+            "raw": 0.0,
+            "size_adjusted": 0.07407407407407407
+          },
+          "d1.0_s1.0": {
+            "raw": 0.0,
+            "size_adjusted": 0.08
+          }
+        }
+      }
+    },
+    {
+      "lesions": 10,
+      "lesion": {
+        "type1": 0.065,
+        "applicable": 1.0,
+        "power": {
+          "d0.25_s0.05": {
+            "raw": 0.01,
+            "size_adjusted": 0.0
+          },
+          "d0.25_s0.2": {
+            "raw": 0.03,
+            "size_adjusted": 0.02
+          },
+          "d0.25_s1.0": {
+            "raw": 0.02,
+            "size_adjusted": 0.01
+          },
+          "d0.5_s0.05": {
+            "raw": 0.08,
+            "size_adjusted": 0.06
+          },
+          "d0.5_s0.2": {
+            "raw": 0.06,
+            "size_adjusted": 0.06
+          },
+          "d0.5_s1.0": {
+            "raw": 0.05,
+            "size_adjusted": 0.05
+          },
+          "d1.0_s0.05": {
+            "raw": 0.08,
+            "size_adjusted": 0.07
+          },
+          "d1.0_s0.2": {
+            "raw": 0.08,
+            "size_adjusted": 0.08
+          },
+          "d1.0_s1.0": {
+            "raw": 0.12,
+            "size_adjusted": 0.09
+          }
+        }
+      },
+      "signflip": {
+        "type1": 0.0,
+        "applicable": 0.395,
+        "power": {
+          "d0.25_s0.05": {
+            "raw": 0.0,
+            "size_adjusted": 0.030303030303030304
+          },
+          "d0.25_s0.2": {
+            "raw": 0.0,
+            "size_adjusted": 0.058823529411764705
+          },
+          "d0.25_s1.0": {
+            "raw": 0.0,
+            "size_adjusted": 0.06666666666666667
+          },
+          "d0.5_s0.05": {
+            "raw": 0.0,
+            "size_adjusted": 0.13157894736842105
+          },
+          "d0.5_s0.2": {
+            "raw": 0.0,
+            "size_adjusted": 0.0975609756097561
+          },
+          "d0.5_s1.0": {
+            "raw": 0.0,
+            "size_adjusted": 0.10256410256410256
+          },
+          "d1.0_s0.05": {
+            "raw": 0.0,
+            "size_adjusted": 0.09523809523809523
+          },
+          "d1.0_s0.2": {
+            "raw": 0.0,
+            "size_adjusted": 0.15555555555555556
+          },
+          "d1.0_s1.0": {
+            "raw": 0.0,
+            "size_adjusted": 0.14583333333333334
+          }
+        }
+      }
+    },
+    {
+      "lesions": 20,
+      "lesion": {
+        "type1": 0.055,
+        "applicable": 1.0,
+        "power": {
+          "d0.25_s0.05": {
+            "raw": 0.05,
+            "size_adjusted": 0.05
+          },
+          "d0.25_s0.2": {
+            "raw": 0.05,
+            "size_adjusted": 0.05
+          },
+          "d0.25_s1.0": {
+            "raw": 0.07,
+            "size_adjusted": 0.07
+          },
+          "d0.5_s0.05": {
+            "raw": 0.07,
+            "size_adjusted": 0.07
+          },
+          "d0.5_s0.2": {
+            "raw": 0.1,
+            "size_adjusted": 0.1
+          },
+          "d0.5_s1.0": {
+            "raw": 0.1,
+            "size_adjusted": 0.09
+          },
+          "d1.0_s0.05": {
+            "raw": 0.2,
+            "size_adjusted": 0.19
+          },
+          "d1.0_s0.2": {
+            "raw": 0.13,
+            "size_adjusted": 0.12
+          },
+          "d1.0_s1.0": {
+            "raw": 0.1,
+            "size_adjusted": 0.07
+          }
+        }
+      },
+      "signflip": {
+        "type1": 0.0,
+        "applicable": 0.505,
+        "power": {
+          "d0.25_s0.05": {
+            "raw": 0.0,
+            "size_adjusted": 0.09090909090909091
+          },
+          "d0.25_s0.2": {
+            "raw": 0.0,
+            "size_adjusted": 0.06382978723404255
+          },
+          "d0.25_s1.0": {
+            "raw": 0.0,
+            "size_adjusted": 0.09090909090909091
+          },
+          "d0.5_s0.05": {
+            "raw": 0.0,
+            "size_adjusted": 0.13157894736842105
+          },
+          "d0.5_s0.2": {
+            "raw": 0.0,
+            "size_adjusted": 0.07692307692307693
+          },
+          "d0.5_s1.0": {
+            "raw": 0.0,
+            "size_adjusted": 0.09259259259259259
+          },
+          "d1.0_s0.05": {
+            "raw": 0.0,
+            "size_adjusted": 0.05555555555555555
+          },
+          "d1.0_s0.2": {
+            "raw": 0.0,
+            "size_adjusted": 0.09615384615384616
+          },
+          "d1.0_s1.0": {
+            "raw": 0.0,
+            "size_adjusted": 0.28888888888888886
+          }
+        }
+      }
+    }
+  ]
+}

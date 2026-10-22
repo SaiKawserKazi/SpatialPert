@@ -1,0 +1,38 @@
+{
+  "lesions": [
+    3,
+    5,
+    10,
+    20
+  ],
+  "simulated_size_adjusted_power": [
+    0.0,
+    0.02,
+    0.36666666666666664,
+    0.8266666666666667
+  ],
+  "rho_used": {
+    "3": 0.0030722651292100435,
+    "5": 0.003826254414324335,
+    "10": 0.005244424644814776,
+    "20": 0.006666019087671589
+  },
+  "formula_power_efficiency1": [
+    0.0,
+    0.5912681866122298,
+    0.6247367530575119,
+    0.6537073583323605
+  ],
+  "rmse_efficiency1": 0.32513936737362537,
+  "fitted_efficiency": 0.7692242075556789,
+  "formula_power_fitted": [
+    0.0,
+    0.3918679555122102,
+    0.4178093805038496,
+    0.44116691150295206
+  ],
+  "rmse_fitted": 0.2690313247313159,
+  "corr_fitted_vs_sim": 0.60110614431856,
+  "verdict": "design-effect model does NOT reproduce the curve; plan_screen uses the simulated table"
+}
+wrote C:\dev\spatialpert\src\spatialpert\design_table.py

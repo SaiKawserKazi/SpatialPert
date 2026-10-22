@@ -1,0 +1,33 @@
+knockout,test,p_or_min_q,testable
+CIITA,Cell-level permutation,0.003,True
+CIITA,Patch permutation,0.24975024975024976,True
+CIITA,Lesion permutation,0.4305694305694306,True
+CIITA,Studentised lesion,,False
+CIITA,CR2 (Bell-McCaffrey),0.12257246067386536,True
+CIITA,Wild cluster bootstrap,,False
+CIITA,Within-lesion sign-flip,,False
+CIITA,Mixed model,,False
+DIO3,Cell-level permutation,0.06,True
+DIO3,Patch permutation,0.18081918081918083,True
+DIO3,Lesion permutation,,False
+DIO3,Studentised lesion,,False
+DIO3,CR2 (Bell-McCaffrey),,False
+DIO3,Wild cluster bootstrap,,False
+DIO3,Within-lesion sign-flip,,False
+DIO3,Mixed model,,False
+ESAM,Cell-level permutation,0.059,True
+ESAM,Patch permutation,,False
+ESAM,Lesion permutation,,False
+ESAM,Studentised lesion,,False
+ESAM,CR2 (Bell-McCaffrey),,False
+ESAM,Wild cluster bootstrap,,False
+ESAM,Within-lesion sign-flip,,False
+ESAM,Mixed model,,False
+PRSS23,Cell-level permutation,0.001,True
+PRSS23,Patch permutation,0.7012987012987013,True
+PRSS23,Lesion permutation,,False
+PRSS23,Studentised lesion,,False
+PRSS23,CR2 (Bell-McCaffrey),,False
+PRSS23,Wild cluster bootstrap,,False
+PRSS23,Within-lesion sign-flip,,False
+PRSS23,Mixed model,,False

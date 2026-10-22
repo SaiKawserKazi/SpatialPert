@@ -1,0 +1,37 @@
+{
+  "lesions": 1200,
+  "per_niche": {
+    "0": {
+      "n_lesions": 863,
+      "mean_of_lesion_means": -0.0005495709418493903,
+      "t_mean_vs_0": -0.22851665217882083,
+      "sd_lesion_means": 0.07064986016495736
+    },
+    "1": {
+      "n_lesions": 115,
+      "mean_of_lesion_means": 0.0039538889347358885,
+      "t_mean_vs_0": 0.3109926463496613,
+      "sd_lesion_means": 0.13633999257189883
+    },
+    "2": {
+      "n_lesions": 139,
+      "mean_of_lesion_means": -0.0028084476371427144,
+      "t_mean_vs_0": -0.40466795099749064,
+      "sd_lesion_means": 0.08182290995515189
+    },
+    "3": {
+      "n_lesions": 83,
+      "mean_of_lesion_means": -0.0009597080722117245,
+      "t_mean_vs_0": -0.048264850758277654,
+      "sd_lesion_means": 0.1811537073022857
+    }
+  },
+  "sampling_var_of_lesion_mean": 0.0011287377229590142,
+  "between_lesion_var": 0.008421539643550614,
+  "lesion_mean_correlation_by_distance": {
+    "0-200um": 0.3895960596310649,
+    "200-500um": 0.12537023946191153,
+    "500-1000um": -0.0027675451095573456,
+    "1000-2000um": -0.009479151230639138
+  }
+}

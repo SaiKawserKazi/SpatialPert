@@ -1,0 +1,183 @@
+{
+  "data": {
+    "bins": 81990,
+    "genes": 50,
+    "niche_sizes": [
+      61694,
+      7311,
+      7471,
+      5513
+    ],
+    "extent_um": [
+      5210.0,
+      3110.0
+    ]
+  },
+  "summary": [
+    {
+      "lesions": 1,
+      "cell": {
+        "type1": 0.3933333333333333,
+        "applicable": 1.0,
+        "power_raw": 0.38666666666666666,
+        "power_size_adjusted": 0.36
+      },
+      "patch30": {
+        "type1": 0.057692307692307696,
+        "applicable": 0.173,
+        "power_raw": 0.03571428571428571,
+        "power_size_adjusted": 0.03571428571428571
+      },
+      "lesion": {
+        "type1": null,
+        "applicable": 0.0,
+        "power_raw": null,
+        "power_size_adjusted": null
+      },
+      "signflip": {
+        "type1": null,
+        "applicable": 0.0,
+        "power_raw": null,
+        "power_size_adjusted": null
+      },
+      "wcb": {
+        "type1": null,
+        "applicable": 0.0,
+        "power_raw": null,
+        "power_size_adjusted": null
+      }
+    },
+    {
+      "lesions": 3,
+      "cell": {
+        "type1": 0.7433333333333333,
+        "applicable": 1.0,
+        "power_raw": 0.7133333333333334,
+        "power_size_adjusted": 0.7
+      },
+      "patch30": {
+        "type1": 0.014705882352941176,
+        "applicable": 0.68,
+        "power_raw": 0.022727272727272728,
+        "power_size_adjusted": 0.11363636363636363
+      },
+      "lesion": {
+        "type1": 0.0,
+        "applicable": 0.613,
+        "power_raw": 0.0,
+        "power_size_adjusted": 0.0547945205479452
+      },
+      "signflip": {
+        "type1": null,
+        "applicable": 0.0,
+        "power_raw": null,
+        "power_size_adjusted": null
+      },
+      "wcb": {
+        "type1": 0.6,
+        "applicable": 0.017,
+        "power_raw": 0.75,
+        "power_size_adjusted": 0.5
+      }
+    },
+    {
+      "lesions": 5,
+      "cell": {
+        "type1": 0.83,
+        "applicable": 1.0,
+        "power_raw": 0.82,
+        "power_size_adjusted": 0.8066666666666666
+      },
+      "patch30": {
+        "type1": 0.09583333333333334,
+        "applicable": 0.8,
+        "power_raw": 0.07692307692307693,
+        "power_size_adjusted": 0.03418803418803419
+      },
+      "lesion": {
+        "type1": 0.01809954751131222,
+        "applicable": 0.737,
+        "power_raw": 0.01818181818181818,
+        "power_size_adjusted": 0.045454545454545456
+      },
+      "signflip": {
+        "type1": null,
+        "applicable": 0.0,
+        "power_raw": null,
+        "power_size_adjusted": null
+      },
+      "wcb": {
+        "type1": 0.38095238095238093,
+        "applicable": 0.07,
+        "power_raw": 0.4166666666666667,
+        "power_size_adjusted": 0.0
+      }
+    },
+    {
+      "lesions": 10,
+      "cell": {
+        "type1": 0.9766666666666667,
+        "applicable": 1.0,
+        "power_raw": 0.98,
+        "power_size_adjusted": 0.9733333333333334
+      },
+      "patch30": {
+        "type1": 0.24054982817869416,
+        "applicable": 0.97,
+        "power_raw": 0.3931034482758621,
+        "power_size_adjusted": 0.041379310344827586
+      },
+      "lesion": {
+        "type1": 0.21724137931034482,
+        "applicable": 0.967,
+        "power_raw": 0.3591549295774648,
+        "power_size_adjusted": 0.035211267605633804
+      },
+      "signflip": {
+        "type1": 0.0,
+        "applicable": 0.007,
+        "power_raw": null,
+        "power_size_adjusted": null
+      },
+      "wcb": {
+        "type1": 0.4716981132075472,
+        "applicable": 0.177,
+        "power_raw": 0.5833333333333334,
+        "power_size_adjusted": 0.375
+      }
+    },
+    {
+      "lesions": 20,
+      "cell": {
+        "type1": 1.0,
+        "applicable": 1.0,
+        "power_raw": 1.0,
+        "power_size_adjusted": 1.0
+      },
+      "patch30": {
+        "type1": 0.2966666666666667,
+        "applicable": 1.0,
+        "power_raw": 0.36,
+        "power_size_adjusted": 0.13333333333333333
+      },
+      "lesion": {
+        "type1": 0.29333333333333333,
+        "applicable": 1.0,
+        "power_raw": 0.36,
+        "power_size_adjusted": 0.12666666666666668
+      },
+      "signflip": {
+        "type1": 0.0,
+        "applicable": 0.007,
+        "power_raw": null,
+        "power_size_adjusted": null
+      },
+      "wcb": {
+        "type1": 0.45652173913043476,
+        "applicable": 0.307,
+        "power_raw": 0.576271186440678,
+        "power_size_adjusted": 0.2033898305084746
+      }
+    }
+  ]
+}

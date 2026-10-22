@@ -1,0 +1,31 @@
+{
+  "branch": "pooled (AMENDMENT-001)",
+  "H1": {
+    "T_pooled": 22.064606422626312,
+    "p": 0.6743256743256744,
+    "supported": false
+  },
+  "H2": {
+    "median_lodo_r": 0.20763135026508284,
+    "n_units": 9,
+    "null_median": -0.0071958740790188415,
+    "p": 0.004975124378109453,
+    "supported": false
+  },
+  "H3": {
+    "n_hallmark_genes": 8,
+    "n_other": 66,
+    "p": 0.040052069858965485,
+    "supported": true
+  },
+  "H4": {
+    "n_units": 8,
+    "median_diff": 0.014501638949189287,
+    "p": 0.40625,
+    "supported": false
+  },
+  "H5": {
+    "median_r": -0.09965974323408938,
+    "supported": false
+  }
+}

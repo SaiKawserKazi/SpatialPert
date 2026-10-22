@@ -1,0 +1,206 @@
+{
+  "branch": "pooled (AMENDMENT-001)",
+  "H1": {
+    "T_pooled": 22.064606422626312,
+    "p": 0.6743256743256744,
+    "supported": false,
+    "per_knockout_exploratory": {
+      "CIITA": {
+        "domains": [
+          0,
+          1,
+          2
+        ],
+        "cells_per_domain": [
+          75,
+          36,
+          30
+        ],
+        "patches": 34,
+        "T": 7.481281730866071,
+        "p_exploratory": 0.44255744255744256,
+        "lodo_r": [
+          -0.04139128957972994,
+          -0.08229726005954453,
+          -0.08463666152016261
+        ]
+      },
+      "DIO3": {
+        "domains": [
+          0,
+          2
+        ],
+        "cells_per_domain": [
+          32,
+          368
+        ],
+        "patches": 36,
+        "T": 4.190918862153698,
+        "p_exploratory": 0.7882117882117882,
+        "lodo_r": [
+          0.5800824938521124,
+          0.5800824938521123
+        ]
+      },
+      "ESAM": {
+        "domains": [
+          0,
+          1
+        ],
+        "cells_per_domain": [
+          22,
+          110
+        ],
+        "patches": 10,
+        "T": 5.678233999168864,
+        "p_exploratory": 0.37362637362637363,
+        "lodo_r": [
+          0.20763135026508284,
+          0.20763135026508284
+        ]
+      },
+      "PRSS23": {
+        "domains": [
+          0,
+          2
+        ],
+        "cells_per_domain": [
+          185,
+          47
+        ],
+        "patches": 25,
+        "T": 4.71417183043768,
+        "p_exploratory": 0.5094905094905094,
+        "lodo_r": [
+          0.2947243066138362,
+          0.2947243066138362
+        ]
+      }
+    }
+  },
+  "H2": {
+    "median_lodo_r": 0.20763135026508284,
+    "n_units": 9,
+    "null_median": -0.0071958740790188415,
+    "p": 0.004975124378109453,
+    "supported": false
+  },
+  "H3": {
+    "n_hallmark_genes": 8,
+    "n_other": 66,
+    "hallmark_genes": [
+      "ANXA2",
+      "HOXB9",
+      "LDHA",
+      "MYH9",
+      "PLAUR",
+      "PVR",
+      "SMAD3",
+      "TNFRSF12A"
+    ],
+    "p": 0.040052069858965485,
+    "supported": true
+  },
+  "H4": {
+    "n_units": 8,
+    "median_diff": 0.014501638949189287,
+    "p": 0.40625,
+    "supported": false,
+    "units": [
+      {
+        "knockout": "CIITA",
+        "block": 5,
+        "n": 17,
+        "r_pooled": -0.20085782520372503,
+        "r_domain": -0.1582953647161448
+      },
+      {
+        "knockout": "CIITA",
+        "block": 10,
+        "n": 25,
+        "r_pooled": -0.11201286444062276,
+        "r_domain": -0.06373599250456959
+      },
+      {
+        "knockout": "CIITA",
+        "block": 13,
+        "n": 27,
+        "r_pooled": -0.05832165949635761,
+        "r_domain": -0.042843756686621194
+      },
+      {
+        "knockout": "DIO3",
+        "block": 5,
+        "n": 388,
+        "r_pooled": 0.5397365712549638,
+        "r_domain": 0.5397365712549638
+      },
+      {
+        "knockout": "DIO3",
+        "block": 6,
+        "n": 39,
+        "r_pooled": 0.5397365712549638,
+        "r_domain": 0.5532619463436059
+      },
+      {
+        "knockout": "ESAM",
+        "block": 5,
+        "n": 21,
+        "r_pooled": 0.1879844555147199,
+        "r_domain": 0.2634190290712326
+      },
+      {
+        "knockout": "ESAM",
+        "block": 6,
+        "n": 143,
+        "r_pooled": 0.20994841524750335,
+        "r_domain": 0.056167297888378154
+      },
+      {
+        "knockout": "PRSS23",
+        "block": 3,
+        "n": 16,
+        "r_pooled": 0.3245400170146541,
+        "r_domain": 0.2649950577705894
+      }
+    ]
+  },
+  "H5": {
+    "units": [
+      {
+        "section": "Bru.LC.1.33.3",
+        "knockout": "CIITA",
+        "pixels": 50,
+        "genes": 68,
+        "r": -0.05686244497922531,
+        "p_perm": 0.6753246753246753
+      },
+      {
+        "section": "Bru.LC.1.33.3",
+        "knockout": "PRSS23",
+        "pixels": 67,
+        "genes": 68,
+        "r": -0.14245704148895347,
+        "p_perm": 0.8851148851148851
+      },
+      {
+        "section": "Bru.LC.1.33.3",
+        "knockout": "PTH1R",
+        "pixels": 48,
+        "genes": 68,
+        "r": -0.14253079024578943,
+        "p_perm": 0.8841158841158842
+      },
+      {
+        "section": "Bru.LC.1.33.3",
+        "knockout": "DIO3",
+        "pixels": 36,
+        "genes": 68,
+        "r": 0.11689447587485377,
+        "p_perm": 0.14785214785214784
+      }
+    ],
+    "median_r": -0.09965974323408938,
+    "supported": false
+  }
+}

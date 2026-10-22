@@ -1,0 +1,79 @@
+fitted 198 {'kernel': {'largest_share': 0.3118541312634915}, 'learned': {'largest_share': 0.3367014191889037}, 'expr': {'largest_share': 0.44734303954438986}, 'coord': {'largest_share': 0.3788178018646948}}
+L=10 lam=0.0 300s
+L=10 lam=0.5 339s
+L=20 lam=0.0 391s
+L=20 lam=0.5 431s
+{
+  "partition": {
+    "kernel": {
+      "largest_share": 0.3118541312634915
+    },
+    "learned": {
+      "largest_share": 0.3367014191889037
+    },
+    "expr": {
+      "largest_share": 0.44734303954438986
+    },
+    "coord": {
+      "largest_share": 0.3788178018646948
+    }
+  },
+  "summary": {
+    "L10_kernel": {
+      "type1": 0.04,
+      "raw_power": 0.05333333333333334,
+      "size_adjusted_power": 0.05333333333333334,
+      "m_null": 200,
+      "m_alt": 150
+    },
+    "L10_learned": {
+      "type1": 0.05,
+      "raw_power": 0.17333333333333334,
+      "size_adjusted_power": 0.17333333333333334,
+      "m_null": 200,
+      "m_alt": 150
+    },
+    "L10_expr": {
+      "type1": 0.14473684210526316,
+      "raw_power": 0.04132231404958678,
+      "size_adjusted_power": 0.008264462809917356,
+      "m_null": 152,
+      "m_alt": 121
+    },
+    "L10_coord": {
+      "type1": 0.05,
+      "raw_power": 0.09333333333333334,
+      "size_adjusted_power": 0.09333333333333334,
+      "m_null": 200,
+      "m_alt": 150
+    },
+    "L20_kernel": {
+      "type1": 0.06,
+      "raw_power": 0.10666666666666667,
+      "size_adjusted_power": 0.1,
+      "m_null": 200,
+      "m_alt": 150
+    },
+    "L20_learned": {
+      "type1": 0.045,
+      "raw_power": 0.14,
+      "size_adjusted_power": 0.14,
+      "m_null": 200,
+      "m_alt": 150
+    },
+    "L20_expr": {
+      "type1": 0.17435897435897435,
+      "raw_power": 0.06756756756756757,
+      "size_adjusted_power": 0.02027027027027027,
+      "m_null": 195,
+      "m_alt": 148
+    },
+    "L20_coord": {
+      "type1": 0.025,
+      "raw_power": 0.09333333333333334,
+      "size_adjusted_power": 0.09333333333333334,
+      "m_null": 200,
+      "m_alt": 150
+    }
+  }
+}

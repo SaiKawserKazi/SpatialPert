@@ -1,0 +1,746 @@
+{
+  "design": {
+    "lobes": 41,
+    "mice": 8,
+    "lesions": 1377,
+    "immune_rich_fraction": 0.11256354393609296,
+    "eligible": [
+      "Akt2",
+      "B2m",
+      "F8",
+      "Fas",
+      "Fzd1",
+      "Mmp3",
+      "Ptpn2",
+      "Socs1",
+      "Tgfbr2",
+      "Tnfrsf10b",
+      "Tnfrsf9",
+      "Vegfa"
+    ],
+    "per_gene": {
+      "Tgfbr2": {
+        "lesions": 162,
+        "immune_rich": 17,
+        "mice": 8,
+        "immune_poor": 145
+      },
+      "B2m": {
+        "lesions": 113,
+        "immune_rich": 9,
+        "mice": 8,
+        "immune_poor": 104
+      },
+      "Mmp3": {
+        "lesions": 101,
+        "immune_rich": 11,
+        "mice": 8,
+        "immune_poor": 90
+      },
+      "Fas": {
+        "lesions": 96,
+        "immune_rich": 7,
+        "mice": 8,
+        "immune_poor": 89
+      },
+      "Tnfrsf9": {
+        "lesions": 84,
+        "immune_rich": 11,
+        "mice": 8,
+        "immune_poor": 73
+      },
+      "Cxcl17": {
+        "lesions": 77,
+        "immune_rich": 4,
+        "mice": 7,
+        "immune_poor": 73
+      },
+      "Tnfrsf10b": {
+        "lesions": 73,
+        "immune_rich": 19,
+        "mice": 8,
+        "immune_poor": 54
+      },
+      "Fzd1": {
+        "lesions": 71,
+        "immune_rich": 12,
+        "mice": 8,
+        "immune_poor": 59
+      },
+      "Akt2": {
+        "lesions": 58,
+        "immune_rich": 7,
+        "mice": 8,
+        "immune_poor": 51
+      },
+      "Socs1": {
+        "lesions": 52,
+        "immune_rich": 6,
+        "mice": 8,
+        "immune_poor": 46
+      },
+      "Irf8": {
+        "lesions": 49,
+        "immune_rich": 3,
+        "mice": 8,
+        "immune_poor": 46
+      },
+      "F8": {
+        "lesions": 43,
+        "immune_rich": 7,
+        "mice": 6,
+        "immune_poor": 36
+      },
+      "Vegfa": {
+        "lesions": 42,
+        "immune_rich": 8,
+        "mice": 8,
+        "immune_poor": 34
+      },
+      "Ptpn2": {
+        "lesions": 42,
+        "immune_rich": 5,
+        "mice": 7,
+        "immune_poor": 37
+      },
+      "Cd81": {
+        "lesions": 39,
+        "immune_rich": 4,
+        "mice": 7,
+        "immune_poor": 35
+      },
+      "Cd63": {
+        "lesions": 36,
+        "immune_rich": 2,
+        "mice": 8,
+        "immune_poor": 34
+      },
+      "Cd24a": {
+        "lesions": 32,
+        "immune_rich": 3,
+        "mice": 6,
+        "immune_poor": 29
+      },
+      "Tnfrsf12a": {
+        "lesions": 29,
+        "immune_rich": 2,
+        "mice": 6,
+        "immune_poor": 27
+      },
+      "Stat1": {
+        "lesions": 29,
+        "immune_rich": 2,
+        "mice": 6,
+        "immune_poor": 27
+      },
+      "Irf1": {
+        "lesions": 22,
+        "immune_rich": 3,
+        "mice": 5,
+        "immune_poor": 19
+      },
+      "Gprc5a": {
+        "lesions": 21,
+        "immune_rich": 1,
+        "mice": 6,
+        "immune_poor": 20
+      },
+      "Smad7": {
+        "lesions": 17,
+        "immune_rich": 2,
+        "mice": 5,
+        "immune_poor": 15
+      },
+      "Stat2": {
+        "lesions": 14,
+        "immune_rich": 3,
+        "mice": 4,
+        "immune_poor": 11
+      },
+      "Tnfrsf1b": {
+        "lesions": 12,
+        "immune_rich": 3,
+        "mice": 5,
+        "immune_poor": 9
+      },
+      "Cd9": {
+        "lesions": 12,
+        "immune_rich": 1,
+        "mice": 6,
+        "immune_poor": 11
+      },
+      "Fzd6": {
+        "lesions": 11,
+        "immune_rich": 1,
+        "mice": 5,
+        "immune_poor": 10
+      },
+      "Jak2": {
+        "lesions": 10,
+        "immune_rich": 1,
+        "mice": 6,
+        "immune_poor": 9
+      },
+      "Ifnar": {
+        "lesions": 7,
+        "immune_rich": 0,
+        "mice": 4,
+        "immune_poor": 7
+      },
+      "Tnfrsf1a": {
+        "lesions": 6,
+        "immune_rich": 1,
+        "mice": 4,
+        "immune_poor": 5
+      },
+      "Jak1": {
+        "lesions": 5,
+        "immune_rich": 0,
+        "mice": 3,
+        "immune_poor": 5
+      },
+      "Ifngr2": {
+        "lesions": 5,
+        "immune_rich": 0,
+        "mice": 3,
+        "immune_poor": 5
+      },
+      "Cd47": {
+        "lesions": 3,
+        "immune_rich": 0,
+        "mice": 2,
+        "immune_poor": 3
+      },
+      "Irf9": {
+        "lesions": 2,
+        "immune_rich": 0,
+        "mice": 1,
+        "immune_poor": 2
+      },
+      "Akt1": {
+        "lesions": 1,
+        "immune_rich": 0,
+        "mice": 1,
+        "immune_poor": 1
+      },
+      "Pd-l1": {
+        "lesions": 1,
+        "immune_rich": 0,
+        "mice": 1,
+        "immune_poor": 1
+      }
+    }
+  },
+  "results": {
+    "y_CD8": {
+      "Akt2": {
+        "lesions": 58,
+        "immune_rich": 7,
+        "mice": 8,
+        "delta_main": 0.04124667892049394,
+        "psi": 0.1960004068116384,
+        "ci_lo": -0.6250023974284802,
+        "ci_hi": 1.0170032110517568,
+        "p_perm": 0.4835,
+        "p_calibrated": 0.5275118216247002,
+        "q_calibrated": 0.827939792644406,
+        "ifn_pathway": false,
+        "niche_dependent": false
+      },
+      "B2m": {
+        "lesions": 113,
+        "immune_rich": 9,
+        "mice": 8,
+        "delta_main": -0.33334166313840663,
+        "psi": -0.05826960366903411,
+        "ci_lo": -0.8522947332568549,
+        "ci_hi": 0.7357555259187867,
+        "p_perm": 0.779,
+        "p_calibrated": 0.8077041175071931,
+        "q_calibrated": 0.8833114030965764,
+        "ifn_pathway": false,
+        "niche_dependent": false
+      },
+      "F8": {
+        "lesions": 43,
+        "immune_rich": 7,
+        "mice": 6,
+        "delta_main": 0.019627346442448408,
+        "psi": 0.42843708052291146,
+        "ci_lo": -1.211823894771803,
+        "ci_hi": 2.0686980558176256,
+        "p_perm": 0.1772,
+        "p_calibrated": 0.2115696699745731,
+        "q_calibrated": 0.7049831869557943,
+        "ifn_pathway": false,
+        "niche_dependent": false
+      },
+      "Fas": {
+        "lesions": 96,
+        "immune_rich": 7,
+        "mice": 8,
+        "delta_main": 0.1717079410189433,
+        "psi": 0.32301648282832174,
+        "ci_lo": -0.09565569242004934,
+        "ci_hi": 0.7416886580766927,
+        "p_perm": 0.1641,
+        "p_calibrated": 0.20930251910559466,
+        "q_calibrated": 0.7049831869557943,
+        "ifn_pathway": false,
+        "niche_dependent": false
+      },
+      "Fzd1": {
+        "lesions": 71,
+        "immune_rich": 12,
+        "mice": 8,
+        "delta_main": 0.12812962879045126,
+        "psi": 0.11346454605810875,
+        "ci_lo": -0.4489150320232662,
+        "ci_hi": 0.6758441241394839,
+        "p_perm": 0.7744,
+        "p_calibrated": 0.8097021195051951,
+        "q_calibrated": 0.8833114030965764,
+        "ifn_pathway": false,
+        "niche_dependent": false
+      },
+      "Mmp3": {
+        "lesions": 101,
+        "immune_rich": 11,
+        "mice": 8,
+        "delta_main": 0.10746616052425058,
+        "psi": 0.0033204297270373884,
+        "ci_lo": -0.4960367537477661,
+        "ci_hi": 0.502677613201841,
+        "p_perm": 0.9828,
+        "p_calibrated": 0.9895222993253748,
+        "q_calibrated": 0.9895222993253748,
+        "ifn_pathway": false,
+        "niche_dependent": false
+      },
+      "Ptpn2": {
+        "lesions": 42,
+        "immune_rich": 5,
+        "mice": 7,
+        "delta_main": 0.14641490384512573,
+        "psi": 0.09834995760566323,
+        "ci_lo": -0.6054775120896247,
+        "ci_hi": 0.8021774273009514,
+        "p_perm": 0.7236,
+        "p_calibrated": 0.746752077858275,
+        "q_calibrated": 0.8833114030965764,
+        "ifn_pathway": true,
+        "niche_dependent": false
+      },
+      "Socs1": {
+        "lesions": 52,
+        "immune_rich": 6,
+        "mice": 8,
+        "delta_main": 0.3781952788308711,
+        "psi": -0.1388060126045932,
+        "ci_lo": -0.4133867287448842,
+        "ci_hi": 0.1357747035356977,
+        "p_perm": 0.2208,
+        "p_calibrated": 0.2937429945649143,
+        "q_calibrated": 0.7049831869557943,
+        "ifn_pathway": true,
+        "niche_dependent": false
+      },
+      "Tgfbr2": {
+        "lesions": 162,
+        "immune_rich": 17,
+        "mice": 8,
+        "delta_main": -0.3760261886806069,
+        "psi": -0.5422899293366683,
+        "ci_lo": -1.6066569307771894,
+        "ci_hi": 0.5220770721038532,
+        "p_perm": 0.0224,
+        "p_calibrated": 0.06045137025444581,
+        "q_calibrated": 0.7049831869557943,
+        "ifn_pathway": false,
+        "niche_dependent": false
+      },
+      "Tnfrsf10b": {
+        "lesions": 73,
+        "immune_rich": 19,
+        "mice": 8,
+        "delta_main": 0.195525338326122,
+        "psi": -0.07882685799735606,
+        "ci_lo": -0.22109146139662572,
+        "ci_hi": 0.06343774540191344,
+        "p_perm": 0.5225,
+        "p_calibrated": 0.5519598617629373,
+        "q_calibrated": 0.827939792644406,
+        "ifn_pathway": false,
+        "niche_dependent": false
+      },
+      "Tnfrsf9": {
+        "lesions": 84,
+        "immune_rich": 11,
+        "mice": 8,
+        "delta_main": -0.012694150540555185,
+        "psi": 0.17032762153875936,
+        "ci_lo": -0.05597129970547965,
+        "ci_hi": 0.3966265427829983,
+        "p_perm": 0.3545,
+        "p_calibrated": 0.4280837378868134,
+        "q_calibrated": 0.827939792644406,
+        "ifn_pathway": false,
+        "niche_dependent": false
+      },
+      "Vegfa": {
+        "lesions": 42,
+        "immune_rich": 8,
+        "mice": 8,
+        "delta_main": 0.07117739131259808,
+        "psi": 0.2812062647361262,
+        "ci_lo": -0.2033952926046339,
+        "ci_hi": 0.7658078220768862,
+        "p_perm": 0.2105,
+        "p_calibrated": 0.23918612449617346,
+        "q_calibrated": 0.7049831869557943,
+        "ifn_pathway": false,
+        "niche_dependent": false
+      }
+    },
+    "y_CD4": {
+      "Akt2": {
+        "lesions": 58,
+        "immune_rich": 7,
+        "mice": 8,
+        "delta_main": 0.08501471040400808,
+        "psi": 0.11299479281093963,
+        "ci_lo": -1.3093180430943359,
+        "ci_hi": 1.535307628716215,
+        "p_perm": 0.7669,
+        "p_calibrated": 0.7695118216247002,
+        "q_calibrated": 0.8844598265330781,
+        "ifn_pathway": false,
+        "niche_dependent": false
+      },
+      "B2m": {
+        "lesions": 113,
+        "immune_rich": 9,
+        "mice": 8,
+        "delta_main": 0.18587312777601384,
+        "psi": 0.007846535302473423,
+        "ci_lo": -0.714295405635881,
+        "ci_hi": 0.7299884762408277,
+        "p_perm": 0.9722,
+        "p_calibrated": 0.9795322893353648,
+        "q_calibrated": 0.9795322893353648,
+        "ifn_pathway": false,
+        "niche_dependent": false
+      },
+      "F8": {
+        "lesions": 43,
+        "immune_rich": 7,
+        "mice": 6,
+        "delta_main": 0.2432457979128191,
+        "psi": 1.1727526776414776,
+        "ci_lo": -3.2252223521827608,
+        "ci_hi": 5.570727707465717,
+        "p_perm": 0.1209,
+        "p_calibrated": 0.14683332151836553,
+        "q_calibrated": 0.6493978886101908,
+        "ifn_pathway": false,
+        "niche_dependent": false
+      },
+      "Fas": {
+        "lesions": 96,
+        "immune_rich": 7,
+        "mice": 8,
+        "delta_main": 0.21572987792377654,
+        "psi": -0.1255689774932459,
+        "ci_lo": -1.1583633083509959,
+        "ci_hi": 0.9072253533645042,
+        "p_perm": 0.7089,
+        "p_calibrated": 0.7517600615631371,
+        "q_calibrated": 0.8844598265330781,
+        "ifn_pathway": false,
+        "niche_dependent": false
+      },
+      "Fzd1": {
+        "lesions": 71,
+        "immune_rich": 12,
+        "mice": 8,
+        "delta_main": -0.036202692633823884,
+        "psi": -0.1726657419887321,
+        "ci_lo": -0.4837317516539401,
+        "ci_hi": 0.1384002676764758,
+        "p_perm": 0.3146,
+        "p_calibrated": 0.3931187029217785,
+        "q_calibrated": 0.8844598265330781,
+        "ifn_pathway": false,
+        "niche_dependent": false
+      },
+      "Mmp3": {
+        "lesions": 101,
+        "immune_rich": 11,
+        "mice": 8,
+        "delta_main": 0.1212907226098727,
+        "psi": 0.33586673383505244,
+        "ci_lo": -0.4120534416976624,
+        "ci_hi": 1.0837869093677674,
+        "p_perm": 0.1481,
+        "p_calibrated": 0.2592525690556446,
+        "q_calibrated": 0.7777577071669337,
+        "ifn_pathway": false,
+        "niche_dependent": false
+      },
+      "Ptpn2": {
+        "lesions": 42,
+        "immune_rich": 5,
+        "mice": 7,
+        "delta_main": 0.30977503938176154,
+        "psi": 0.22055229342989446,
+        "ci_lo": -0.8087499154539042,
+        "ci_hi": 1.249854502313693,
+        "p_perm": 0.4908,
+        "p_calibrated": 0.5287417556700608,
+        "q_calibrated": 0.8844598265330781,
+        "ifn_pathway": true,
+        "niche_dependent": false
+      },
+      "Socs1": {
+        "lesions": 52,
+        "immune_rich": 6,
+        "mice": 8,
+        "delta_main": 0.3663823293268977,
+        "psi": -0.3097565266934983,
+        "ci_lo": -1.130796843610963,
+        "ci_hi": 0.5112837902239662,
+        "p_perm": 0.0857,
+        "p_calibrated": 0.14137045117352673,
+        "q_calibrated": 0.6493978886101908,
+        "ifn_pathway": true,
+        "niche_dependent": false
+      },
+      "Tgfbr2": {
+        "lesions": 162,
+        "immune_rich": 17,
+        "mice": 8,
+        "delta_main": -0.758165143221254,
+        "psi": -0.44774535257304426,
+        "ci_lo": -1.0423868033842312,
+        "ci_hi": 0.14689609823814276,
+        "p_perm": 0.0435,
+        "p_calibrated": 0.1623494721525477,
+        "q_calibrated": 0.6493978886101908,
+        "ifn_pathway": false,
+        "niche_dependent": false
+      },
+      "Tnfrsf10b": {
+        "lesions": 73,
+        "immune_rich": 19,
+        "mice": 8,
+        "delta_main": 0.20796682753007562,
+        "psi": 0.07094290758050426,
+        "ci_lo": -0.578075421080371,
+        "ci_hi": 0.7199612362413795,
+        "p_perm": 0.6823,
+        "p_calibrated": 0.7207910305941061,
+        "q_calibrated": 0.8844598265330781,
+        "ifn_pathway": false,
+        "niche_dependent": false
+      },
+      "Tnfrsf9": {
+        "lesions": 84,
+        "immune_rich": 11,
+        "mice": 8,
+        "delta_main": -0.0411838837396978,
+        "psi": 0.09562471724537241,
+        "ci_lo": -0.5722302604077526,
+        "ci_hi": 0.7634796948984973,
+        "p_perm": 0.7249,
+        "p_calibrated": 0.782729092532168,
+        "q_calibrated": 0.8844598265330781,
+        "ifn_pathway": false,
+        "niche_dependent": false
+      },
+      "Vegfa": {
+        "lesions": 42,
+        "immune_rich": 8,
+        "mice": 8,
+        "delta_main": 0.18112058617529098,
+        "psi": -0.08122603050637156,
+        "ci_lo": -1.0282708286005937,
+        "ci_hi": 0.8658187675878506,
+        "p_perm": 0.8062,
+        "p_calibrated": 0.8107548409886549,
+        "q_calibrated": 0.8844598265330781,
+        "ifn_pathway": false,
+        "niche_dependent": false
+      }
+    },
+    "y_B220": {
+      "Akt2": {
+        "lesions": 58,
+        "immune_rich": 7,
+        "mice": 8,
+        "delta_main": -0.04473176905840393,
+        "psi": 0.4310391285296104,
+        "ci_lo": -1.0284296834986149,
+        "ci_hi": 1.8905079405578358,
+        "p_perm": 0.2778,
+        "p_calibrated": 0.30251182162470025,
+        "q_calibrated": 0.7260283718992806,
+        "ifn_pathway": false,
+        "niche_dependent": false
+      },
+      "B2m": {
+        "lesions": 113,
+        "immune_rich": 9,
+        "mice": 8,
+        "delta_main": 0.1969945070974565,
+        "psi": 0.034230464560894874,
+        "ci_lo": -1.24728752015435,
+        "ci_hi": 1.3157484492761398,
+        "p_perm": 0.9024,
+        "p_calibrated": 0.909602219405295,
+        "q_calibrated": 0.973458739102906,
+        "ifn_pathway": false,
+        "niche_dependent": false
+      },
+      "F8": {
+        "lesions": 43,
+        "immune_rich": 7,
+        "mice": 6,
+        "delta_main": 0.07466667846952194,
+        "psi": 0.3052665478423427,
+        "ci_lo": -1.7053878912069362,
+        "ci_hi": 2.3159209868916215,
+        "p_perm": 0.4363,
+        "p_calibrated": 0.47116581136103264,
+        "q_calibrated": 0.807712819476056,
+        "ifn_pathway": false,
+        "niche_dependent": false
+      },
+      "Fas": {
+        "lesions": 96,
+        "immune_rich": 7,
+        "mice": 8,
+        "delta_main": 0.29559801112431594,
+        "psi": 0.08606288843081344,
+        "ci_lo": -0.8807375479181196,
+        "ci_hi": 1.0528633247797465,
+        "p_perm": 0.7607,
+        "p_calibrated": 0.801710111513187,
+        "q_calibrated": 0.973458739102906,
+        "ifn_pathway": false,
+        "niche_dependent": false
+      },
+      "Fzd1": {
+        "lesions": 71,
+        "immune_rich": 12,
+        "mice": 8,
+        "delta_main": 0.2611348014139923,
+        "psi": -0.41718118121977404,
+        "ci_lo": -1.07196915576147,
+        "ci_hi": 0.23760679332192192,
+        "p_perm": 0.0704,
+        "p_calibrated": 0.12451182162470026,
+        "q_calibrated": 0.5734738126861149,
+        "ifn_pathway": false,
+        "niche_dependent": false
+      },
+      "Mmp3": {
+        "lesions": 101,
+        "immune_rich": 11,
+        "mice": 8,
+        "delta_main": 0.15621998656826686,
+        "psi": 0.2311590649985784,
+        "ci_lo": -1.2559045984378023,
+        "ci_hi": 1.7182227284349592,
+        "p_perm": 0.367,
+        "p_calibrated": 0.4250867348898104,
+        "q_calibrated": 0.807712819476056,
+        "ifn_pathway": false,
+        "niche_dependent": false
+      },
+      "Ptpn2": {
+        "lesions": 42,
+        "immune_rich": 5,
+        "mice": 7,
+        "delta_main": -0.10689183874547048,
+        "psi": -0.06235745429758502,
+        "ci_lo": -1.3603416333870313,
+        "ci_hi": 1.2356267247918615,
+        "p_perm": 0.8738,
+        "p_calibrated": 0.8765118216247002,
+        "q_calibrated": 0.973458739102906,
+        "ifn_pathway": true,
+        "niche_dependent": false
+      },
+      "Socs1": {
+        "lesions": 52,
+        "immune_rich": 6,
+        "mice": 8,
+        "delta_main": 0.028669409362410934,
+        "psi": -0.27244912772255814,
+        "ci_lo": -0.8358565707805798,
+        "ci_hi": 0.29095831533546357,
+        "p_perm": 0.1568,
+        "p_calibrated": 0.2117235451698701,
+        "q_calibrated": 0.6351706355096103,
+        "ifn_pathway": true,
+        "niche_dependent": false
+      },
+      "Tgfbr2": {
+        "lesions": 162,
+        "immune_rich": 17,
+        "mice": 8,
+        "delta_main": -0.3438620476974531,
+        "psi": -0.49586887532996904,
+        "ci_lo": -1.2210651602267124,
+        "ci_hi": 0.2293274095667744,
+        "p_perm": 0.0808,
+        "p_calibrated": 0.12838343818651374,
+        "q_calibrated": 0.5734738126861149,
+        "ifn_pathway": false,
+        "niche_dependent": false
+      },
+      "Tnfrsf10b": {
+        "lesions": 73,
+        "immune_rich": 19,
+        "mice": 8,
+        "delta_main": 0.15427410945769338,
+        "psi": 0.3112670495405967,
+        "ci_lo": -0.26872413459472677,
+        "ci_hi": 0.8912582336759202,
+        "p_perm": 0.0876,
+        "p_calibrated": 0.14336845317152871,
+        "q_calibrated": 0.5734738126861149,
+        "ifn_pathway": false,
+        "niche_dependent": false
+      },
+      "Tnfrsf9": {
+        "lesions": 84,
+        "immune_rich": 11,
+        "mice": 8,
+        "delta_main": 0.013251474969672553,
+        "psi": -0.1484868686932548,
+        "ci_lo": -1.8853366923568449,
+        "ci_hi": 1.5883629549703353,
+        "p_perm": 0.6437,
+        "p_calibrated": 0.6808309906340662,
+        "q_calibrated": 0.973458739102906,
+        "ifn_pathway": false,
+        "niche_dependent": false
+      },
+      "Vegfa": {
+        "lesions": 42,
+        "immune_rich": 8,
+        "mice": 8,
+        "delta_main": 0.09691018961110195,
+        "psi": -0.004315163291115656,
+        "ci_lo": -1.0734619069849964,
+        "ci_hi": 1.0648315804027653,
+        "p_perm": 0.9919,
+        "p_calibrated": 0.973458739102906,
+        "q_calibrated": 0.973458739102906,
+        "ifn_pathway": false,
+        "niche_dependent": false
+      }
+    }
+  }
+}

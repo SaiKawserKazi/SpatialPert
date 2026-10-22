@@ -1,0 +1,10 @@
+step,seconds
+"load + normalise
+(352,913 cells)",5.528828899987275
+fit niches,3.45880359999137
+patch test /KO,0.22050397499697283
+lesion test /KO,0.07778687499376247
+"wild bootstrap
+(999 draws)",6.090847300016321
+"sign-flip
+(2,000 flips)",0.002307399990968406

@@ -1,0 +1,13 @@
+kmeans L 3
+kmeans L 5
+kmeans L 10
+kmeans L 20
+banksy L 3
+banksy L 5
+banksy L 10
+banksy L 20
+spagcn L 3
+spagcn L 5
+spagcn L 10
+spagcn L 20
+done ['kmeans', 'banksy', 'spagcn']

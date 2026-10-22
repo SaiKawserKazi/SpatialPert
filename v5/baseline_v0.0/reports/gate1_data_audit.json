@@ -1,0 +1,159 @@
+{
+  "dataset": "GSE193460 (Perturb-map, Dhainaut et al. Cell 2022)",
+  "rule": "pass if >= 10 knockouts have >= 30 spots in >= 2 domains; upper bound used: >= 60 labelled spots in total",
+  "integrity": {
+    "KP_1": {
+      "matrix_spots": 1906,
+      "matrix_features": 32289,
+      "in_tissue_spots": 1906,
+      "annotated_spots": 1903,
+      "annotated_in_matrix": 1903,
+      "annotated_in_tissue": 1903
+    },
+    "KP_2": {
+      "matrix_spots": 1931,
+      "matrix_features": 32289,
+      "in_tissue_spots": 1931,
+      "annotated_spots": 1872,
+      "annotated_in_matrix": 1872,
+      "annotated_in_tissue": 1872
+    },
+    "KP_3": {
+      "matrix_spots": 1244,
+      "matrix_features": 32289,
+      "in_tissue_spots": 1244,
+      "annotated_spots": 1233,
+      "annotated_in_matrix": 1233,
+      "annotated_in_tissue": 1233
+    },
+    "KP_4": {
+      "matrix_spots": 2546,
+      "matrix_features": 32289,
+      "in_tissue_spots": 2546,
+      "annotated_spots": 1355,
+      "annotated_in_matrix": 1355,
+      "annotated_in_tissue": 1355
+    }
+  },
+  "non_ensembl_features_total_umis": {
+    "KP_1": {
+      "WPRE": 7349,
+      "mCherry_Nter": 4,
+      "linker": 0,
+      "Procode": 1
+    },
+    "KP_2": {
+      "WPRE": 8591,
+      "mCherry_Nter": 10,
+      "linker": 0,
+      "Procode": 0
+    },
+    "KP_3": {
+      "WPRE": 6374,
+      "mCherry_Nter": 2,
+      "linker": 0,
+      "Procode": 1
+    },
+    "KP_4": {
+      "WPRE": 7737,
+      "mCherry_Nter": 22,
+      "linker": 0,
+      "Procode": 2
+    }
+  },
+  "spot_categories": [
+    {
+      "section": "KP_1",
+      "n_spots": 1903,
+      "kmeans_tumour": 540,
+      "knockout_labelled": 96,
+      "unassigned_tumour": 233,
+      "periphery": 149
+    },
+    {
+      "section": "KP_2",
+      "n_spots": 1872,
+      "kmeans_tumour": 639,
+      "knockout_labelled": 103,
+      "unassigned_tumour": 280,
+      "periphery": 194
+    },
+    {
+      "section": "KP_3",
+      "n_spots": 1233,
+      "kmeans_tumour": 713,
+      "knockout_labelled": 64,
+      "unassigned_tumour": 286,
+      "periphery": 148
+    },
+    {
+      "section": "KP_4",
+      "n_spots": 1355,
+      "kmeans_tumour": 724,
+      "knockout_labelled": 87,
+      "unassigned_tumour": 262,
+      "periphery": 104
+    }
+  ],
+  "knockout_spots": [
+    {
+      "section": "KP_1",
+      "knockout": "Jak2",
+      "n_spots": 21,
+      "n_lesions": 1
+    },
+    {
+      "section": "KP_1",
+      "knockout": "Tgfbr2",
+      "n_spots": 75,
+      "n_lesions": 1
+    },
+    {
+      "section": "KP_2",
+      "knockout": "Ifngr2",
+      "n_spots": 41,
+      "n_lesions": 1
+    },
+    {
+      "section": "KP_2",
+      "knockout": "Tgfbr2",
+      "n_spots": 62,
+      "n_lesions": 1
+    },
+    {
+      "section": "KP_3",
+      "knockout": "Ifngr2",
+      "n_spots": 64,
+      "n_lesions": 1
+    },
+    {
+      "section": "KP_4",
+      "knockout": "Tgfbr2",
+      "n_spots": 87,
+      "n_lesions": 2
+    }
+  ],
+  "knockout_totals": {
+    "Ifngr2": 105,
+    "Jak2": 21,
+    "Tgfbr2": 224
+  },
+  "gate": {
+    "library_size": 35,
+    "labelled_knockouts": [
+      "Ifngr2",
+      "Jak2",
+      "Tgfbr2"
+    ],
+    "testable_upper_bound": [
+      "Ifngr2",
+      "Tgfbr2"
+    ],
+    "testable_replicated": [
+      "Ifngr2",
+      "Tgfbr2"
+    ],
+    "min_testable": 10,
+    "passed": false
+  }
+}
